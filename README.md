@@ -1,2 +1,2 @@
 # PZPP
-projektowanie jakieś g*wna
+projektowanie jakieś planu :)
