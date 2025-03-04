@@ -20,7 +20,7 @@ processed_dept_ids = set()
 # Funkcja do pobierania harmonogramu dla nauczyciela
 def get_schedule(url, faculty_name):
     driver.get(url)
-    time.sleep(0.5)  # Poczekaj na załadowanie strony
+    time.sleep(1)  # Poczekaj na załadowanie strony
     
     # Pobranie wszystkich divów z klasą 'title'
     title_divs = driver.find_elements(By.CLASS_NAME, "title")
@@ -89,7 +89,7 @@ def process_department(dept_id, faculty_name, faculty_id, branch_param):
         print(f"  Próba lokalizacji katedry: {dept_id}")
         plusik = wait.until(EC.presence_of_element_located((By.ID, f"img_{dept_id}")))
         driver.execute_script("arguments[0].scrollIntoView(true);", plusik)
-        time.sleep(0.5)
+        time.sleep(1)
 
         # Pobierz nazwę katedry (tylko dla logów)
         dept_name = f"Katedra {dept_id}"
@@ -130,7 +130,7 @@ def process_department(dept_id, faculty_name, faculty_id, branch_param):
             except Exception as e:
                 print(f"  Kliknięcie nie powiodło się: {e}. Próbuję execute_script...")
                 driver.execute_script(f"get_left_tree_branch('{dept_id}', 'img_{dept_id}', 'div_{dept_id}', '2', '{branch_param}');")
-                time.sleep(0.5)
+                time.sleep(1)
 
         div_dept = wait.until(EC.visibility_of_element_located((By.ID, f"div_{dept_id}")))
         coordinator_links = div_dept.find_elements(By.XPATH, ".//a[@href[contains(., 'type=10')]]")
@@ -143,7 +143,7 @@ def process_department(dept_id, faculty_name, faculty_id, branch_param):
             driver.get("https://plany.ubb.edu.pl/left_menu.php?type=2")
             wait.until(EC.presence_of_element_located((By.ID, faculty_id)))
             driver.execute_script(f"branch(2,{faculty_id},0,'{faculty_name}');")
-            time.sleep(0.5)
+            time.sleep(2)
 
         processed_dept_ids.add(dept_id)
         print(f"  Katedra {dept_name} zakończona.")
@@ -160,7 +160,7 @@ def process_faculty(faculty_id, faculty_name, branch_param, dept_ids):
         wait.until(EC.presence_of_element_located((By.ID, faculty_id)))
         driver.execute_script(f"branch(2,{faculty_id},0,'{faculty_name}');")
         print(f"Rozwinięto {faculty_name}!")
-        time.sleep(0.5)
+        time.sleep(1)
 
         for dept_id in dept_ids:
             if dept_id not in processed_dept_ids:
@@ -170,7 +170,7 @@ def process_faculty(faculty_id, faculty_name, branch_param, dept_ids):
                 driver.get("https://plany.ubb.edu.pl/left_menu.php?type=2")
                 wait.until(EC.presence_of_element_located((By.ID, faculty_id)))
                 driver.execute_script(f"branch(2,{faculty_id},0,'{faculty_name}');")
-                time.sleep(0.5)
+                time.sleep(1)
 
     except Exception as e:
         print(f"Błąd przy przetwarzaniu wydziału {faculty_name}: {e}")

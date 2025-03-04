@@ -13,9 +13,9 @@ Jednostki Międzywydziałowe,dr Beata Bury,Język obcy 2,lek,Bud
 Jednostki Międzywydziałowe,dr Beata Bury,Język obcy,lek,Inż śr
 Jednostki Międzywydziałowe,mgr Aleksandra Byrska-Cebrat,Język obcy II,lek,Tur
 Jednostki Międzywydziałowe,mgr Aleksandra Byrska-Cebrat,Język obcy,lek,PPiW
-Jednostki Międzywydziałowe,mgr Aleksandra Byrska-Cebrat,Język obcy 1,lek,Bud
-Jednostki Międzywydziałowe,mgr Aleksandra Byrska-Cebrat,Język obcy 4,lek,Bud
 Jednostki Międzywydziałowe,mgr Aleksandra Byrska-Cebrat,Język obcy 3,lek,Bud
+Jednostki Międzywydziałowe,mgr Aleksandra Byrska-Cebrat,Język obcy 4,lek,Bud
+Jednostki Międzywydziałowe,mgr Aleksandra Byrska-Cebrat,Język obcy 1,lek,Bud
 Jednostki Międzywydziałowe,mgr Aleksandra Byrska-Cebrat,Język obcy,lek,Inż śr
 Jednostki Międzywydziałowe,mgr Jerzy Ciudziński,Język obcy II,lek,AiR
 Jednostki Międzywydziałowe,mgr Jerzy Ciudziński,Język obcy IV,lek,MiBM
@@ -30,8 +30,8 @@ Jednostki Międzywydziałowe,mgr Sabina Galas-Jędruch,Język obcy II,lek,AiR
 Jednostki Międzywydziałowe,mgr Sabina Galas-Jędruch,Język obcy IV,lek,MiBM
 Jednostki Międzywydziałowe,mgr Sabina Galas-Jędruch,Lektorat języka obcego (jęz. niemiecki / włoski),lek,Fil ang
 Jednostki Międzywydziałowe,mgr Agnieszka Gawlik,Język łaciński z elem. kultury antycznej,lek,Fil pol
-Jednostki Międzywydziałowe,mgr Beata Góralczyk-Rajewska,Język angielski I,lek,Trans
 Jednostki Międzywydziałowe,mgr Beata Góralczyk-Rajewska,Język angielski / Język angielski III,lek,Trans
+Jednostki Międzywydziałowe,mgr Beata Góralczyk-Rajewska,Język angielski I,lek,Trans
 Jednostki Międzywydziałowe,mgr Beata Góralczyk-Rajewska,Język angielski IV,lek,Inf
 Jednostki Międzywydziałowe,mgr Beata Góralczyk-Rajewska,Język angielski II,lek,Inf
 Jednostki Międzywydziałowe,mgr Beata Góralczyk-Rajewska,Język obcy / Język obcy 3,lek,Ochr śr
@@ -120,29 +120,29 @@ Jednostki Międzywydziałowe,dr Jolanta Kędzior,Wychowanie fizyczne,ćw,PPiW
 Jednostki Międzywydziałowe,mgr Piotr Targosz,Wychowanie Fizyczne,ćw,Fil ang
 Jednostki Międzywydziałowe,mgr Piotr Targosz,Wychowanie fizyczne,ćw,Ped
 Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Statystyka opisowa,wyk,Zzl
-Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Statystyka i probabilistyka,ćw,AiR
 Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Statystyka i probabilistyka,wyk,AiR
+Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Statystyka i probabilistyka,ćw,AiR
 Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Matematyka inżynierska II,wyk,MiBM
-Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Metody probabilistyczne i statystyka,ćw,Inf
 Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Metody probabilistyczne i statystyka,wyk,Inf
+Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Metody probabilistyczne i statystyka,ćw,Inf
 Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Analiza matematyczna II,ćw,Inf
 Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Matematyka II,ćw,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr Mirosław Adamek,Matematyka II,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr Dawid Kotrys,Matematyka II,ćw,Trans
 Wydział Budowy Maszyn i Informatyki,dr Dawid Kotrys,Matematyka II,wyk,Trans
-Wydział Budowy Maszyn i Informatyki,dr Dawid Kotrys,Analiza matematyczna II,ćw,Inf
 Wydział Budowy Maszyn i Informatyki,dr Dawid Kotrys,Analiza matematyczna II,wyk,Inf
-Wydział Budowy Maszyn i Informatyki,dr Bartosz Micherda,Analiza matematyczna II,ćw,AiR
+Wydział Budowy Maszyn i Informatyki,dr Dawid Kotrys,Analiza matematyczna II,ćw,Inf
 Wydział Budowy Maszyn i Informatyki,dr Bartosz Micherda,Analiza matematyczna II,wyk,AiR
-Wydział Budowy Maszyn i Informatyki,dr Bartosz Micherda,Statystyka i probabilistyka,ćw,MiBM
+Wydział Budowy Maszyn i Informatyki,dr Bartosz Micherda,Analiza matematyczna II,ćw,AiR
 Wydział Budowy Maszyn i Informatyki,dr Bartosz Micherda,Statystyka i probabilistyka,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,dr Bartosz Micherda,Statystyka i probabilistyka,ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,dr Bartosz Micherda,Matematyka,wyk,Mt
 Wydział Budowy Maszyn i Informatyki,dr Jacek Mrowiec,Algorytmy i struktury danych,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr Jacek Mrowiec,Algorytmy i struktury danych,lab,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Elżbieta Sadowska-Owczorz,Algorytmy i struktury danych,lab,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Dorota Śliwińska,Statystyka opisowa,ćw,Zzl
-Wydział Budowy Maszyn i Informatyki,mgr inż. Dorota Śliwińska,Mathematical analysis (przedmiot obieralny),ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,mgr inż. Dorota Śliwińska,Matematyka inżynierska II,ćw,MiBM
+Wydział Budowy Maszyn i Informatyki,mgr inż. Dorota Śliwińska,Mathematical analysis (przedmiot obieralny),ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,mgr inż. Dorota Śliwińska,Matematyka inżynierska II,ćw,EP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Dorota Śliwińska,Metody probabilistyczne i statystyka,ćw,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Dorota Śliwińska,Matematyka,ćw,Bud
@@ -153,59 +153,59 @@ Wydział Budowy Maszyn i Informatyki,dr hab. Szymon Wąsowicz,Analiza macierzowa
 Wydział Budowy Maszyn i Informatyki,dr hab. Szymon Wąsowicz,Analiza macierzowa,ćw,Inf
 Wydział Budowy Maszyn i Informatyki,dr Tomasz Zgraja,Matematyka inżynierska II,wyk,EP
 Wydział Budowy Maszyn i Informatyki,dr Tomasz Zgraja,Matematyka inżynierska II,wyk,MiBM
-Wydział Budowy Maszyn i Informatyki,dr Tomasz Zgraja,Matematyka 2,wyk,Inż śr
 Wydział Budowy Maszyn i Informatyki,dr Tomasz Zgraja,Matematyka,ćw,Inż śr
+Wydział Budowy Maszyn i Informatyki,dr Tomasz Zgraja,Matematyka 2,wyk,Inż śr
 Wydział Budowy Maszyn i Informatyki,dr Tomasz Zgraja,Matematyka,wyk,Inż śr
 Wydział Budowy Maszyn i Informatyki,dr Tomasz Zgraja,Zaawansowana matematyka,ćw,Bud
-Wydział Budowy Maszyn i Informatyki,dr Tomasz Zgraja,Zaawansowana matematyka,wyk,Bud
 Wydział Budowy Maszyn i Informatyki,dr Tomasz Zgraja,Matematyka 2,ćw,Bud
+Wydział Budowy Maszyn i Informatyki,dr Tomasz Zgraja,Zaawansowana matematyka,wyk,Bud
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Augustynek,Programowanie dla Internetu w technologii ASP.NET,lab,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Augustynek,Programowanie IV,lab,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Augustynek,Artificial Intelligence Methods,lab,Erasmus
-Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Bebek,Sterowanie sekwencyjne,lab,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Bebek,Monitoring w przemyśle,wyk,AiR
-Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Bebek,Monitoring w przemyśle,lab,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Bebek,Układy przełączające,wyk,AiR
-Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Bebek,Systemy wizualizacji SCADA,wyk,Mt
+Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Bebek,Sterowanie sekwencyjne,lab,AiR
+Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Bebek,Monitoring w przemyśle,lab,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Bebek,Programowalne sterowniki PAC,wyk,Mt
+Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Bebek,Systemy wizualizacji SCADA,wyk,Mt
 Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Bebek,Programowalne sterowniki PAC,lab,Mt
 Wydział Budowy Maszyn i Informatyki,dr inż. Piotr Danielczyk,Modelowanie wspomagające projektowanie maszyn,lab,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Piotr Danielczyk,Podstawy CAD i modelowanie 3D,lab,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Piotr Danielczyk,Modelowanie wspomagające projektowanie maszyn,lab,Mt
-Wydział Budowy Maszyn i Informatyki,mgr inż. Adam Jabłoński,Podstawy robotyki II,ćw,AiR
-Wydział Budowy Maszyn i Informatyki,mgr inż. Adam Jabłoński,Napędy i programowanie robotów,lab,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Adam Jabłoński,Sterowanie procesami ciągłymi,ćw,AiR
-Wydział Budowy Maszyn i Informatyki,mgr inż. Adam Jabłoński,Robotyzacja stanowisk mechatronicznych,lab,Mt
+Wydział Budowy Maszyn i Informatyki,mgr inż. Adam Jabłoński,Napędy i programowanie robotów,lab,AiR
+Wydział Budowy Maszyn i Informatyki,mgr inż. Adam Jabłoński,Podstawy robotyki II,ćw,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Adam Jabłoński,Wybrane zagadnienia teorii sterowania,ćw,Mt
+Wydział Budowy Maszyn i Informatyki,mgr inż. Adam Jabłoński,Robotyzacja stanowisk mechatronicznych,lab,Mt
+Wydział Budowy Maszyn i Informatyki,dr inż. Jarosław Janusz,Podstawy teorii sygnałów i systemów,lab,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Jarosław Janusz,Podstawy teorii sygnałów i systemów,ćw,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Jarosław Janusz,Podstawy teorii sygnałów i systemów,wyk,AiR
-Wydział Budowy Maszyn i Informatyki,dr inż. Jarosław Janusz,Podstawy teorii sygnałów i systemów,lab,AiR
-Wydział Budowy Maszyn i Informatyki,dr inż. Jarosław Janusz,Drgania mechaniczne,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Jarosław Janusz,Podstawy automatyki i robotyki,ćw,MiBM
+Wydział Budowy Maszyn i Informatyki,dr inż. Jarosław Janusz,Drgania mechaniczne,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Jarosław Janusz,Podstawy automatyki i robotyki,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Jarosław Janusz,Systemy bezpieczeństwa maszyn i urządzeń,wyk,Mt
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Jędrzejczyk,Metaloznawstwo II,wyk,MiBM
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Jędrzejczyk,Metaloznawstwo II,lab,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Jędrzejczyk,Współczesne materiały inżynierskie,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Jędrzejczyk,Metaloznawstwo II,lab,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Jędrzejczyk,Przemysł 4.0,proj,Mt
 Wydział Budowy Maszyn i Informatyki,mgr inż. Ryszard Klecki,Mechanika płynów,lab,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Wytrzymałość materiałów I,ćw,EP
-Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Mechanika płynów,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Urządzenia pneumatyczne i hydrauliczne,ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Wytrzymałość materiałów I,ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Mechanika płynów,ćw,MiBM
-Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Mechanika płynów,wyk,AiR
-Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Mechatronika,wyk,AiR
+Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Mechanika płynów,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Sieci neuronowe w automatyce,wyk,AiR
+Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Mechatronika,wyk,AiR
+Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Mechanika płynów,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Kopeć,Fundamentals of Machine Component Design and Processing,wyk,Erasmus
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Kłosiński,Sterowanie procesami ciągłymi,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Marszałek,Podstawy CAD i modelowanie 3D,lab,EP
-Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Marszałek,Algorytmy optymalizacji,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Marszałek,Podstawy sterowania optymalnego,wyk,AiR
+Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Marszałek,Algorytmy optymalizacji,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Marszałek,Wspomaganie decyzji w praktyce inżynierskiej,lab,Mt
 Wydział Budowy Maszyn i Informatyki,dr inż. Jerzy Marszałek,Operational Research,wyk,Erasmus
-Wydział Budowy Maszyn i Informatyki,mgr inż. Marcin Pawlik,Systemy czasu rzeczywistego,lab,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Marcin Pawlik,Układy przełączające,lab,AiR
+Wydział Budowy Maszyn i Informatyki,mgr inż. Marcin Pawlik,Systemy czasu rzeczywistego,lab,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Marcin Pawlik,Symulacja procesów zrobotyzowanych,lab,Mt
 Wydział Budowy Maszyn i Informatyki,mgr inż. Marcin Pawlik,Robotyzacja stanowisk mechatronicznych,lab,Mt
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dorota Pawlus,Wytrzymałość materiałów I,wyk,EP
@@ -214,41 +214,50 @@ Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dorota Pawlus,Wytrz
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dorota Pawlus,Wytrzymałość kompozytów i teoria sprężystości,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dorota Pawlus,Wytrzymałość materiałów I,ćw,AiR
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dorota Pawlus,Wytrzymałość materiałów I,wyk,AiR
-Wydział Budowy Maszyn i Informatyki,dr inż. Marek Praszkiewicz,Grafika inżynierska II (Rysunek techniczny),proj,MiBM
-Wydział Budowy Maszyn i Informatyki,dr inż. Marek Praszkiewicz,Podstawy konstrukcji maszyn I,proj,MiBM
-Wydział Budowy Maszyn i Informatyki,dr inż. Marek Praszkiewicz,Podstawy konstrukcji maszyn II,wyk,MiBM
-Wydział Budowy Maszyn i Informatyki,dr inż. Marek Praszkiewicz,Podstawy konstrukcji maszyn I,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Marek Praszkiewicz,Podstawy konstrukcji maszyn II,proj,MiBM
+Wydział Budowy Maszyn i Informatyki,dr inż. Marek Praszkiewicz,Grafika inżynierska II (Rysunek techniczny),proj,MiBM
+Wydział Budowy Maszyn i Informatyki,dr inż. Marek Praszkiewicz,Podstawy konstrukcji maszyn I,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,dr inż. Marek Praszkiewicz,Podstawy konstrukcji maszyn II,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,dr inż. Marek Praszkiewicz,Podstawy konstrukcji maszyn I,proj,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabella Rajzer,Materiały i tworzywa sztuczne w budowie pojazdów,wyk,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabella Rajzer,Metaloznawstwo II,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabella Rajzer,Tworzywa sztuczne i materiały ceramiczne,wyk,MiBM
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabella Rajzer,Nauka o materiałach I,wyk,ZiIP
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabella Rajzer,Nauka o materiałach I,lab,ZiIP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabella Rajzer,Nauka o materiałach I,ćw,ZiIP
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabella Rajzer,Nauka o materiałach I,lab,ZiIP
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabella Rajzer,Nauka o materiałach I,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Jacek Rysiński,Grafika inżynierska II (Rysunek techniczny),wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Jacek Rysiński,Podstawy konstrukcji maszyn,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Jacek Rysiński,Praca przejściowa,proj,Mt
-Wydział Budowy Maszyn i Informatyki,dr inż. Marcin Sidzina,Systemy czasu rzeczywistego,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Marcin Sidzina,Systemy czasu rzeczywistego,lab,AiR
-Wydział Budowy Maszyn i Informatyki,dr inż. Marcin Sidzina,Technologie cyfrowych bliźniaków,proj,MiBM
+Wydział Budowy Maszyn i Informatyki,dr inż. Marcin Sidzina,Systemy czasu rzeczywistego,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Marcin Sidzina,Systemy SCADA w zarządzaniu produkcją,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,dr inż. Marcin Sidzina,Technologie cyfrowych bliźniaków,proj,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Marcin Sidzina,Symulacja procesów zrobotyzowanych,lab,Mt
-Wydział Budowy Maszyn i Informatyki,dr inż. Marcin Sidzina,Systemy wizualizacji SCADA,wyk,Mt
 Wydział Budowy Maszyn i Informatyki,dr inż. Marcin Sidzina,Praca przejściowa,proj,Mt
+Wydział Budowy Maszyn i Informatyki,dr inż. Marcin Sidzina,Systemy wizualizacji SCADA,wyk,Mt
 Wydział Budowy Maszyn i Informatyki,dr inż. Wojciech Skotnicki,Podstawy systemów operacyjnych,lab,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Mateusz Śliwka,Wytrzymałość materiałów I,ćw,AiR
-Wydział Budowy Maszyn i Informatyki,mgr inż. Mateusz Śliwka,Wytrzymałość materiałów III,lab,EP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Mateusz Śliwka,Mechanika płynów II,lab,EP
+Wydział Budowy Maszyn i Informatyki,mgr inż. Mateusz Śliwka,Wytrzymałość materiałów III,lab,EP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Mateusz Śliwka,Mechanika płynów,lab,MiBM
 Wydział Budowy Maszyn i Informatyki,mgr inż. Mateusz Śliwka,Wytrzymałość materiałów II,lab,MiBM
 Wydział Budowy Maszyn i Informatyki,mgr inż. Mateusz Śliwka,Mechanika płynów I,ćw,MiBM
-Wydział Budowy Maszyn i Informatyki,dr inż. Arkadiusz Trąbka,Napędy i programowanie robotów,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Arkadiusz Trąbka,Języki programowania robotów,lab,AiR
+Wydział Budowy Maszyn i Informatyki,dr inż. Arkadiusz Trąbka,Napędy i programowanie robotów,wyk,AiR
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Urbaś,Dynamika robotów,wyk,AiR
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Urbaś,Dynamika maszyn,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Urbaś,Metoda elementów skończonych,lab,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Urbaś,Modelowanie komputerowe układów mechatronicznych,lab,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Urbaś,Metoda elementów skończonych,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Urbaś,Mechanika budowli 2,proj,Bud
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Urbaś,Mechanika budowli 2,wyk,Bud
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Urbaś,Fundamentals of Robotics,lab,Erasmus
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Urbaś,Modelowanie komputerowe układów mechatronicznych,lab,Mt
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Ireneusz Wróbel,Podstawy CAD,proj,AiR
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Ireneusz Wróbel,Zaawansowane systemy CAD,lab,MiBM
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Ireneusz Wróbel,Seminarium dyplomowe II,sem,MiBM
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Ireneusz Wróbel,Praca przejściowa,proj,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Ireneusz Wróbel,Komputerowe wspomaganie konstruowania,proj,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Ireneusz Wróbel,Seminarium dyplomowe II,sem,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Ireneusz Wróbel,Zaawansowane systemy CAD,lab,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Ireneusz Wróbel,Praca przejściowa,proj,MiBM
 Wydział Budowy Maszyn i Informatyki,mgr inż. Michał Brzozowski,Badania i diagnostyka pojazdów,lab,EP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Kacper Cieślar,Badania i diagnostyka silników,lab,EP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Kacper Cieślar,Budowa i eksploatacja silników I,ćw,EP
@@ -258,128 +267,128 @@ Wydział Budowy Maszyn i Informatyki,mgr inż. Kacper Cieślar,Eksploatacja i te
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Harlecki,Podstawy mechaniki II,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Harlecki,Mechanika techniczna II,wyk,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Harlecki,Podstawy dynamiki maszyn,wyk,EP
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Harlecki,Mechanika techniczna II,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Harlecki,Mechanika analityczna,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Harlecki,Mechanika techniczna II,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Harlecki,Mechanika techniczna II,ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Harlecki,Tsip,wyk,Bud
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Tomasz Knefel,Ochrona własności intelektualnych,wyk,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Tomasz Knefel,Badania i diagnostyka silników,lab,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Tomasz Knefel,Eksploatacja i technologia napraw maszyn,wyk,EP
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Tomasz Knefel,Ochrona własności intelektualnych,wyk,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Tomasz Knefel,Wybrane zagadnienia z ochrony własności intelektualnych,wyk,Mt
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Tomasz Knefel,Wybrane zagadnienia z ochrony własności intelektualnych,wyk,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kubas,Podstawy mechaniki II,ćw,AiR
-Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kubas,Podstawy programowania,lab,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kubas,Podstawy programowania,wyk,AiR
+Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kubas,Podstawy programowania,lab,AiR
+Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kubas,Podstawy mechaniki II,ćw,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kubas,Podstawy dynamiki maszyn,lab,EP
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kubas,Mechanika techniczna II,ćw,EP
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kubas,Metody numeryczne,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kubas,Mechanika techniczna II,ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Nowakowski,Budowa i eksploatacja silników I,wyk,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Nowakowski,Systemy pomiarowe,wyk,MiBM
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Krzysztof Parczewski,Podstawy rekonstrukcji wypadków drogowych,wyk,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Krzysztof Parczewski,Budowa i eksploatacja pojazdów I,wyk,EP
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Krzysztof Parczewski,Podstawy rekonstrukcji wypadków drogowych,wyk,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Krzysztof Parczewski,Eksploatacja i technologia napraw maszyn,wyk,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Krzysztof Parczewski,Systemy pomiarowe,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Krzysztof Parczewski,Ochrona własności intelektualnej,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Krzysztof Parczewski,Ochrona własności intelektualnej,wyk,AiR
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Pietras,Badania i diagnostyka silników,lab,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Pietras,Badania i diagnostyka silników,wyk,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Pietras,Ekologia i recykling pojazdów,wyk,EP
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Pietras,Badania i diagnostyka silników,lab,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Pietras,Bezpieczeństwo i higiena pracy z ergonomią,wyk,PPiW
-Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Sikora,Podstawy architektury komputerów,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Sikora,Podstawy architektury komputerów,lab,AiR
+Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Sikora,Podstawy architektury komputerów,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Sikora,Statystyka medyczna,lab,Piel
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Sikora,Transport masy i energii,lab,MiBM
-Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Sikora,Podstawy termodynamiki technicznej,lab,Inż śr
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Sikora,Podstawy termodynamiki technicznej,wyk,Inż śr
+Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Sikora,Podstawy termodynamiki technicznej,lab,Inż śr
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Sucheta,Termodynamika i termokinetyka,ćw,AiR
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Sucheta,Termodynamika i termokinetyka,wyk,AiR
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Sucheta,Termodynamika techniczna I,ćw,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Sucheta,Termodynamika I,ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Sucheta,Transport masy i energii,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Sucheta,Termodynamika techniczna I,wyk,MiBM
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Sucheta,Termodynamika I,ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Sucheta,Termodynamika I,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Andrzej Sucheta,Termodynamika techniczna I,ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Henryk Wnęk,Wymagania homologacyjne w budowie pojazdów,wyk,EP
-Wydział Budowy Maszyn i Informatyki,dr inż. Henryk Wnęk,Badania i diagnostyka pojazdów,wyk,EP
 Wydział Budowy Maszyn i Informatyki,dr inż. Henryk Wnęk,Mechatronika w pojazdach,wyk,EP
-Wydział Budowy Maszyn i Informatyki,dr inż. Henryk Wnęk,Badania i diagnostyka pojazdów,lab,EP
 Wydział Budowy Maszyn i Informatyki,dr inż. Henryk Wnęk,Mechatronika w pojazdach,lab,EP
+Wydział Budowy Maszyn i Informatyki,dr inż. Henryk Wnęk,Badania i diagnostyka pojazdów,lab,EP
+Wydział Budowy Maszyn i Informatyki,dr inż. Henryk Wnęk,Badania i diagnostyka pojazdów,wyk,EP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Paweł Błaszczak,Komputerowe projektowanie zrobotyzowanych stanowisk pracy I,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Paweł Błaszczak,Komputerowe projektowanie zrobotyzowanych stanowisk pracy I,proj,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Paweł Błaszczak,Komputerowe projektowanie zrobotyzowanych stanowisk pracy,proj,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Paweł Błaszczak,Rozpoznawanie obrazów i systemy ekspertowe,lab,Mt
-Wydział Budowy Maszyn i Informatyki,mgr inż. Paweł Błaszczak,Systemy wizyjne w wytwarzaniu,wyk,Mt
 Wydział Budowy Maszyn i Informatyki,mgr inż. Paweł Błaszczak,Rozpoznawanie obrazów i systemy ekspertowe,wyk,Mt
+Wydział Budowy Maszyn i Informatyki,mgr inż. Paweł Błaszczak,Systemy wizyjne w wytwarzaniu,wyk,Mt
 Wydział Budowy Maszyn i Informatyki,mgr inż. Izabela Hura,Metrologia,lab,EP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Izabela Hura,Podstawy metrologii (Metrol. wielk. geom. / Metrol. tech. / Metrol.elek.),lab,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Aleksandra Jarco,Techniki wytwarzania I,lab,AiR
-Wydział Budowy Maszyn i Informatyki,dr inż. Aleksandra Jarco,Obróbka plastyczna,lab,MiBM
-Wydział Budowy Maszyn i Informatyki,dr inż. Aleksandra Jarco,Bezpieczeństwo i jakość w procesach wytwórczych,ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Aleksandra Jarco,Podstawy wspomagania decyzji,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,dr inż. Aleksandra Jarco,Bezpieczeństwo i jakość w procesach wytwórczych,ćw,MiBM
+Wydział Budowy Maszyn i Informatyki,dr inż. Aleksandra Jarco,Obróbka plastyczna,lab,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Aleksandra Jarco,Odlewnictwo i obróbka plastyczna,lab,EP
 Wydział Budowy Maszyn i Informatyki,dr inż. Aleksandra Jarco,Odlewnictwo,lab,Inż mat
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Techniki wytwarzania I,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Odlewnictwo i obróbka plastyczna,wyk,EP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Technologie spajania,wyk,EP
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Technologie spajania,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Obróbka ubytkowa,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Praca przejściowa,proj,MiBM
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Seminarium dyplomowe I,sem,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Obróbka plastyczna,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Seminarium dyplomowe I,sem,MiBM
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Technologie spajania,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Seminarium dyplomowe I,sem,Mt
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Jacek Pezda,Odlewnictwo,wyk,Inż mat
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Roman Stryczek,Projektowanie procesów obróbki i montażu,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Roman Stryczek,Obrabiarki sterowane numerycznie,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Roman Stryczek,Projektowanie elastycznych systemów produkcyjnych,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,mgr inż. Kamil Wyrobek,Obrabiarki sterowane numerycznie,lab,AiR
+Wydział Budowy Maszyn i Informatyki,mgr inż. Kamil Wyrobek,Obrabiarki sterowane numerycznie,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Kamil Wyrobek,Programowanie obrabiarek sterowanych numerycznie,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Kamil Wyrobek,Programowanie obrabiarek sterowanych numerycznie,proj,AiR
-Wydział Budowy Maszyn i Informatyki,mgr inż. Kamil Wyrobek,Obrabiarki sterowane numerycznie,wyk,AiR
-Wydział Budowy Maszyn i Informatyki,mgr inż. Kamil Wyrobek,Obrabiarki sterowane numerycznie,lab,AiR
-Wydział Budowy Maszyn i Informatyki,mgr inż. Kamil Wyrobek,Systemy CAM,lab,MiBM
 Wydział Budowy Maszyn i Informatyki,mgr inż. Kamil Wyrobek,Systemy CAM,wyk,MiBM
+Wydział Budowy Maszyn i Informatyki,mgr inż. Kamil Wyrobek,Systemy CAM,lab,MiBM
 Wydział Budowy Maszyn i Informatyki,dr inż. Piotr Zyzak,Projektowanie procesów obróbki,proj,EP
 Wydział Budowy Maszyn i Informatyki,dr inż. Piotr Zyzak,Zarządzanie przedsiębiorstwem,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Piotr Zyzak,Roboty w wytwarzaniu maszyn,wyk,AiR
-Wydział Budowy Maszyn i Informatyki,dr inż. Maria Baron-Puda,Praca przejściowa,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Maria Baron-Puda,Praca przejściowa,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Maria Baron-Puda,Projektowanie systemów pracy I,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Maria Baron-Puda,Kreatywność pracowników i twórcze zespoły,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Maria Baron-Puda,Projektowanie systemów pracy I,wyk,ZiIP
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Robert Drobina,Zarządzanie środowiskowe,ćw,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr inż. Maria Baron-Puda,Praca przejściowa,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Robert Drobina,Zarządzanie środowiskowe,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Robert Drobina,Zarządzanie bezpieczeństwem pracy,lab,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr hab. inż. Luboslav Dulina,Organizacja systemów produkcyjnych,wyk,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr hab. inż. Luboslav Dulina,Organizacja systemów produkcyjnych,lab,ZiIP
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Robert Drobina,Zarządzanie środowiskowe,ćw,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr hab. inż. Luboslav Dulina,Forecasting and simulation in the enterprise II (przedmiot prowadzony w j. angielskim Prognozowanie i symulacja w przedsiębiorstwie II),proj,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr hab. inż. Luboslav Dulina,Organizacja systemów produkcyjnych,lab,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr hab. inż. Luboslav Dulina,Organizacja systemów produkcyjnych,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr hab. inż. Luboslav Dulina,Forecasting and simulation in the enterprise II (przedmiot prowadzony w j. angielskim Prognozowanie i symulacja w przedsiębiorstwie II),wyk,ZiIP
-Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Golińska,Praca przejściowa,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Golińska,Zarządzanie jakością i bezpieczeństwem I,wyk,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Herma,Informatyka i komputerowe wspomaganie prac inżynierskich I,wyk,ZiIP
+Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Golińska,Praca przejściowa,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Herma,Informatyka i komputerowe wspomaganie prac inżynierskich I,lab,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Herma,Informatyka i komputerowe wspomaganie prac inżynierskich I,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Kaczmar-Kolny,Podstawy rachunkowości,ćw,Analit
 Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Kaczmar-Kolny,Zarządzanie produkcją i usługami II,lab,ZiIP
-Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Kaczmar-Kolny,Finanse i rachunkowość I,ćw,ZiIP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Kaczmar-Kolny,Praca przejściowa,proj,ZiIP
+Wydział Budowy Maszyn i Informatyki,mgr inż. Ewa Kaczmar-Kolny,Finanse i rachunkowość I,ćw,ZiIP
+Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Kolny,Praca przejściowa,proj,ZiIP
+Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Kolny,Wirtualna i rozszerzona rzeczywistość,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Kolny,Techniki szybkiego prototypowania,lab,ZiIP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Kolny,Projektowanie zakładów przemysłowych,proj,ZiIP
-Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Kolny,Praca przejściowa,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Kolny,Gospodarka magazynowa,proj,ZiIP
-Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Kolny,Wirtualna i rozszerzona rzeczywistość,proj,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Kukla,Praca przejściowa,proj,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Kukla,Informatyka i komputerowe wspomaganie prac inżynierskich III,lab,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Kukla,Zarządzanie projektami innowacyjnymi II,lab,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Kukla,Informatyka i komputerowe wspomaganie prac inżynierskich III,wyk,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Kukla,Praca przejściowa,proj,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Kukla,Zarządzanie projektami innowacyjnymi II,lab,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Kukla,Informatyka i komputerowe wspomaganie prac inżynierskich III,lab,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Sławomir Kukla,Grafika inżynierska (komputerowa) II,lab,ZiIP
 Wydział Budowy Maszyn i Informatyki,prof. dr hab. inż. Ivan Kuric,Techniki szybkiego prototypowania,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabela Kutschenreiter-Praszkiewicz,Komunikacja społeczna,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabela Kutschenreiter-Praszkiewicz,Marketing,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Izabela Kutschenreiter-Praszkiewicz,Decision Support Systems,lab,Erasmus
-Wydział Budowy Maszyn i Informatyki,prof. dr hab. inż. Józef Matuszek,Rachunek kosztów dla inżynierów,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,prof. dr hab. inż. Józef Matuszek,Seminarium dyplomowe I,sem,ZiIP
+Wydział Budowy Maszyn i Informatyki,prof. dr hab. inż. Józef Matuszek,Rachunek kosztów dla inżynierów,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Marcin Matuszny,Praca przejściowa,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Janusz Mleczko,Komputerowe wspomaganie produkcji,lab,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr inż. Aleksander Moczała,Zarządzanie projektem i innowacjami,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Aleksander Moczała,Zarządzanie projektem i innowacjami,lab,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr inż. Aleksander Moczała,Zarządzanie projektem i innowacjami,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Aleksander Moczała,Praca przejściowa,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Plinta,Seminarium dyplomowe II,sem,ZiIP
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Plinta,Wirtualna i rozszerzona rzeczywistość,wyk,ZiIP
@@ -387,188 +396,193 @@ Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Plinta,Zpiu
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Dariusz Plinta,Forecasting and Simulation in Enterprise II,lab,Erasmus
 Wydział Budowy Maszyn i Informatyki,mgr inż. Katarzyna Radwan,Kreatywność pracowników i twórcze zespoły,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Katarzyna Radwan,Zarządzanie projektem i innowacjami,lab,ZiIP
-Wydział Budowy Maszyn i Informatyki,mgr inż. Katarzyna Radwan,Praca przejściowa,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,mgr inż. Katarzyna Radwan,Organizacja systemów produkcyjnych,lab,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr inż. Dariusz Więcek,Gospodarka magazynowa,wyk,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr inż. Dariusz Więcek,Podstawy projektowania inżynierskiego I,ćw,ZiIP
-Wydział Budowy Maszyn i Informatyki,dr inż. Dariusz Więcek,Komputerowe wspomaganie projektowania systemów produkcyjnych,wyk,ZiIP
+Wydział Budowy Maszyn i Informatyki,mgr inż. Katarzyna Radwan,Praca przejściowa,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Dariusz Więcek,Podstawy projektowania inżynierskiego I,wyk,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr inż. Dariusz Więcek,Komputerowe wspomaganie projektowania systemów produkcyjnych,wyk,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr inż. Dariusz Więcek,Podstawy projektowania inżynierskiego I,ćw,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr inż. Dariusz Więcek,Gospodarka magazynowa,wyk,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Dariusz Więcek,Komputerowe wspomaganie projektowania systemów produkcyjnych,proj,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Dorota Więcek,Podstawy rachunkowości,wyk,Analit
-Wydział Budowy Maszyn i Informatyki,dr inż. Dorota Więcek,Rachunek kosztów dla inżynierów,lab,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Dorota Więcek,Finanse i rachunkowość I,wyk,ZiIP
+Wydział Budowy Maszyn i Informatyki,dr inż. Dorota Więcek,Rachunek kosztów dla inżynierów,lab,ZiIP
 Wydział Budowy Maszyn i Informatyki,dr inż. Dorota Więcek,Prowadzenie działalności gospodarczej,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,dr Marcin Bernaś,Interfejs w aplikacjach internetowych,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr Marcin Bernaś,Zaawansowana grafika i gry komputerowe,lab,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Paweł Fałat,Programowanie II,lab,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Paweł Fałat,Programowanie dla Internetu w technologii ASP.NET,lab,Inf
-Wydział Budowy Maszyn i Informatyki,dr inż. Paweł Fałat,Programowanie dla Internetu w technologii ASP.NET,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Paweł Fałat,Programowanie II,wyk,Inf
-Wydział Budowy Maszyn i Informatyki,dr inż. Paweł Fałat,Programowanie IV,lab,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Paweł Fałat,Nierelacyjne bazy danych,wyk,Inf
+Wydział Budowy Maszyn i Informatyki,dr inż. Paweł Fałat,Programowanie dla Internetu w technologii ASP.NET,wyk,Inf
+Wydział Budowy Maszyn i Informatyki,dr inż. Paweł Fałat,Programowanie IV,lab,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Tomasz Gancarczyk,Bezpieczeństwo systemów serwerowych,lab,Inf
-Wydział Budowy Maszyn i Informatyki,dr inż. Tomasz Gancarczyk,Systemy operacyjne I,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Tomasz Gancarczyk,Systemy operacyjne I,lab,Inf
+Wydział Budowy Maszyn i Informatyki,dr inż. Tomasz Gancarczyk,Systemy operacyjne I,wyk,Inf
+Wydział Budowy Maszyn i Informatyki,mgr inż. Patryk Giertuga,Metody sztucznej inteligencji,lab,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Patryk Giertuga,Projektowanie rozwiązań internetowych,lab,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Patryk Giertuga,Interfejs w aplikacjach internetowych,lab,Inf
-Wydział Budowy Maszyn i Informatyki,mgr inż. Patryk Giertuga,Metody sztucznej inteligencji,lab,Inf
-Wydział Budowy Maszyn i Informatyki,mgr inż. Maksymilian Grygiel,Projekt - zespołowe przedsięwzięcie programistyczne,proj,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Maksymilian Grygiel,Techniki testowania aplikacji,lab,Inf
+Wydział Budowy Maszyn i Informatyki,mgr inż. Maksymilian Grygiel,Projekt - zespołowe przedsięwzięcie programistyczne,proj,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Mikołaj Grygiel,Programowanie II,lab,Inf
-Wydział Budowy Maszyn i Informatyki,mgr inż. Mikołaj Grygiel,Grafika komputerowa,lab,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Mikołaj Grygiel,Projektowanie rozwiązań internetowych,lab,Inf
+Wydział Budowy Maszyn i Informatyki,mgr inż. Mikołaj Grygiel,Grafika komputerowa,lab,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Łukasz Hamera,Projekt - zespołowe przedsięwzięcie programistyczne,proj,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Daniel Jancarczyk,Podstawy napędu elektrycznego,lab,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Daniel Jancarczyk,Elektrotechnika i elektronika w zastosowaniach przemysłowych,lab,MiBM
-Wydział Budowy Maszyn i Informatyki,dr inż. Daniel Jancarczyk,Programowanie mikrokontrolerów,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Daniel Jancarczyk,Programowanie mikrokontrolerów,lab,Inf
+Wydział Budowy Maszyn i Informatyki,dr inż. Daniel Jancarczyk,Programowanie mikrokontrolerów,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Daniel Jancarczyk,Przetworniki pomiarowe w układach mechatronicznych,proj,Mt
-Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kajstura,Technika cyfrowa i mikroprocesorowa,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kajstura,Technika cyfrowa i mikroprocesorowa,lab,AiR
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Mirosław Kordos,Zaawansowane techniki programowania,wyk,Inf
+Wydział Budowy Maszyn i Informatyki,dr inż. Krzysztof Kajstura,Technika cyfrowa i mikroprocesorowa,wyk,AiR
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Mirosław Kordos,Metody sztucznej inteligencji,lab,Inf
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Mirosław Kordos,Zaawansowane techniki programowania,lab,Inf
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Mirosław Kordos,Metody sztucznej inteligencji,wyk,Inf
-Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Mirosław Kordos,Metody sztucznej inteligencji,lab,Inf
+Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Mirosław Kordos,Zaawansowane techniki programowania,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr Aleksandra Kłos-Witkowska,Fizyka,ćw,Inf
 Wydział Budowy Maszyn i Informatyki,dr Aleksandra Kłos-Witkowska,Fizyka,wyk,Inf
-Wydział Budowy Maszyn i Informatyki,dr Aleksandra Kłos-Witkowska,Podstawy informatyki,ćw,Kom int
 Wydział Budowy Maszyn i Informatyki,dr Aleksandra Kłos-Witkowska,Podstawy informatyki,wyk,Kom int
-Wydział Budowy Maszyn i Informatyki,prof. dr hab. Vasyl Martsenyuk,Grafika komputerowa,wyk,Inf
-Wydział Budowy Maszyn i Informatyki,prof. dr hab. Vasyl Martsenyuk,Grafika komputerowa,lab,Inf
-Wydział Budowy Maszyn i Informatyki,prof. dr hab. Vasyl Martsenyuk,Digital signal processing (przedmiot prowadzony w j. angielskim: Przetwarzanie sygnałów cyfrowych),lab,Inf
+Wydział Budowy Maszyn i Informatyki,dr Aleksandra Kłos-Witkowska,Podstawy informatyki,ćw,Kom int
 Wydział Budowy Maszyn i Informatyki,prof. dr hab. Vasyl Martsenyuk,Uczenie maszynowe,lab,Inf
+Wydział Budowy Maszyn i Informatyki,prof. dr hab. Vasyl Martsenyuk,Grafika komputerowa,lab,Inf
 Wydział Budowy Maszyn i Informatyki,prof. dr hab. Vasyl Martsenyuk,Uczenie maszynowe,wyk,Inf
+Wydział Budowy Maszyn i Informatyki,prof. dr hab. Vasyl Martsenyuk,Digital signal processing (przedmiot prowadzony w j. angielskim: Przetwarzanie sygnałów cyfrowych),lab,Inf
+Wydział Budowy Maszyn i Informatyki,prof. dr hab. Vasyl Martsenyuk,Grafika komputerowa,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Andrzej Masny,Elektronika,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Andrzej Masny,Podstawy elektrotechniki i elektroniki,wyk,MiBM
 Wydział Budowy Maszyn i Informatyki,mgr inż. Andrzej Masny,Podstawy elektrotechniki i elektroniki,ćw,MiBM
 Wydział Budowy Maszyn i Informatyki,mgr inż. Andrzej Masny,Układy elektroniczne w mechatronice,ćw,Mt
 Wydział Budowy Maszyn i Informatyki,mgr inż. Andrzej Masny,Układy elektroniczne w mechatronice,wyk,Mt
 Wydział Budowy Maszyn i Informatyki,mgr inż. Andrzej Masny,Układy elektroniczne w mechatronice,lab,Mt
-Wydział Budowy Maszyn i Informatyki,dr Joanna Nikodem,Nauka o danych I,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr Joanna Nikodem,Nauka o danych I,lab,Inf
+Wydział Budowy Maszyn i Informatyki,dr Joanna Nikodem,Nauka o danych I,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Aleksander Patyk,Podstawy napędu elektrycznego,ćw,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Aleksander Patyk,Podstawy napędu elektrycznego,wyk,AiR
 Wydział Budowy Maszyn i Informatyki,dr inż. Aleksander Patyk,Sterowanie elektrycznymi układami napędowymi,wyk,Mt
 Wydział Budowy Maszyn i Informatyki,dr inż. Aleksander Patyk,Przetworniki pomiarowe w układach mechatronicznych,wyk,Mt
-Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Pytka,Elektronika,lab,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Pytka,Elektronika,ćw,AiR
+Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Pytka,Elektronika,lab,AiR
 Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Pytka,Programowanie mikrokontrolerów,lab,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Pytka,Projektowanie sterowania układów mechatronicznych,lab,Mt
 Wydział Budowy Maszyn i Informatyki,mgr inż. Damian Pytka,Projektowanie sterowania układów mechatronicznych,proj,Mt
 Wydział Budowy Maszyn i Informatyki,dr inż. Ruslan Shevchuk,Programowanie II,lab,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Piotr Soszka,Programowanie II,lab,Inf
-Wydział Budowy Maszyn i Informatyki,mgr inż. Piotr Soszka,Interfejs w aplikacjach internetowych,lab,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Piotr Soszka,Nierelacyjne bazy danych,lab,Inf
+Wydział Budowy Maszyn i Informatyki,mgr inż. Piotr Soszka,Interfejs w aplikacjach internetowych,lab,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Szymon Tengler,Tworzenie oprogramowania dla systemów chmurowych,lab,Inf
+Wydział Budowy Maszyn i Informatyki,mgr inż. Olga Veselska,Nierelacyjne bazy danych,lab,Inf
+Wydział Budowy Maszyn i Informatyki,mgr inż. Olga Veselska,Bezpieczeństwo technologii mobilnych,lab,Inf
+Wydział Budowy Maszyn i Informatyki,mgr inż. Olga Veselska,Projektowanie i obsługa sieci komputerowych II,ćw,Inf
+Wydział Budowy Maszyn i Informatyki,mgr inż. Olga Veselska,Projektowanie i obsługa sieci komputerowych II,lab,Inf
+Wydział Budowy Maszyn i Informatyki,mgr inż. Olga Veselska,Sieci komputerowe,lab,Inf
 Wydział Budowy Maszyn i Informatyki,dr hab. Wojciech Wieczorek,Optymalizacja kombinatoryczna,lab,Inf
 Wydział Budowy Maszyn i Informatyki,dr hab. Wojciech Wieczorek,Optymalizacja kombinatoryczna,wyk,Inf
-Wydział Budowy Maszyn i Informatyki,dr Łukasz Więcław,Zarządzania projektem,wyk,Inf
-Wydział Budowy Maszyn i Informatyki,dr Łukasz Więcław,Wzorce projektowe,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr Łukasz Więcław,Seminarium dyplomowe I,sem,Inf
-Wydział Budowy Maszyn i Informatyki,dr Łukasz Więcław,Wprowadzenie do UX Design,wyk,Kom int
+Wydział Budowy Maszyn i Informatyki,dr Łukasz Więcław,Wzorce projektowe,wyk,Inf
+Wydział Budowy Maszyn i Informatyki,dr Łukasz Więcław,Zarządzania projektem,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr Łukasz Więcław,Wprowadzenie do UX Design,ćw,Kom int
+Wydział Budowy Maszyn i Informatyki,dr Łukasz Więcław,Wprowadzenie do UX Design,wyk,Kom int
 Wydział Budowy Maszyn i Informatyki,mgr inż. Tomasz Zając,Projekt - zespołowe przedsięwzięcie programistyczne,proj,Inf
 Wydział Budowy Maszyn i Informatyki,mgr inż. Tomasz Zając,Programowanie IV,lab,Inf
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Stanisław Zawiślak,Matematyka dyskretna,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Stanisław Zawiślak,Seminarium dyplomowe II,sem,Inf
 Wydział Budowy Maszyn i Informatyki,prof. UBB dr hab. inż. Stanisław Zawiślak,Matematyka dyskretna,ćw,Inf
-Wydział Budowy Maszyn i Informatyki,dr inż. Ruslana Ziubina,Sieci komputerowe,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Ruslana Ziubina,Bezpieczeństwo technologii mobilnych,wyk,Inf
+Wydział Budowy Maszyn i Informatyki,dr inż. Ruslana Ziubina,Sieci komputerowe,wyk,Inf
 Wydział Budowy Maszyn i Informatyki,dr inż. Ruslana Ziubina,Computer Networks I,wyk,Erasmus
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Izabela Bieńkowska,Pedagogika specjalna,wyk,Ped st
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Kateryna Binytska,Tpw,wyk,Ped sp
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Kateryna Binytska,Tpw,ćw,Ped sp
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Kateryna Binytska,Tpw,wyk,Ped sp
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Kateryna Binytska,Pisp,wyk,PPiW
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Kateryna Binytska,Pisp,ćw,PPiW
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Kateryna Binytska,Fw,wyk,PPiW
-Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Wspieranie rozwoju dziecka z niepełnosprawnością intelektualną/Praca z dzieckiem z niepelnosprawnością intelektualną,ćw,PPiW
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Kateryna Binytska,Pisp,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Seminarium dyplomowe,sem,PPiW
-Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Metodyka zajęć korekcyjno-kompensacyjnych dla dzieci z&nbsp;niepełnosprawnością sprzężoną/Praca korekcyjno-kompensacyjna z dzieckiem z niepełnosprawnością sprzężoną,ćw,Ped
-Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Metodyka zajęć korekcyjno-kompensacyjnych dla dzieci z niepełnosprawością intelektualną/ Praca korekcyjno-kompensacyjna z dziećmi z niepełnosprawością intelektualną,ćw,Ped
+Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Wspieranie rozwoju dziecka z niepełnosprawnością intelektualną/Praca z dzieckiem z niepelnosprawnością intelektualną,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Metodyka zajęć korekcyjno-kompensacyjnych dla dzieci z&nbsp;niepełnosprawnością sprzężoną/Praca korekcyjno-kompensacyjna z dzieckiem z niepełnosprawnością sprzężoną,wyk,Ped
 Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Komunikacja AAC/ Wspomagające i alternatywne metody komunikacji,ćw,Ped
+Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Metodyka zajęć korekcyjno-kompensacyjnych dla dzieci z niepełnosprawością intelektualną/ Praca korekcyjno-kompensacyjna z dziećmi z niepełnosprawością intelektualną,ćw,Ped
+Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Metodyka zajęć korekcyjno-kompensacyjnych dla dzieci z&nbsp;niepełnosprawnością sprzężoną/Praca korekcyjno-kompensacyjna z dzieckiem z niepełnosprawnością sprzężoną,ćw,Ped
 Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Kompetencje pedagoga specjalnego,ćw,Ped sp
 Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Pierwsza pomoc przedmedyczna,lab,Ped st
 Wydział Humanistyczno-Społeczny,dr Anna Borzęcka,Seminarium magisterskie,sem,Ped st
-Wydział Humanistyczno-Społeczny,dr Andrzej Chmiel,Pusink,ćw,PPiW
-Wydział Humanistyczno-Społeczny,dr Andrzej Chmiel,Psychologia rozwojowa,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Andrzej Chmiel,Psychologia osobowości,wyk,PPiW
+Wydział Humanistyczno-Społeczny,dr Andrzej Chmiel,Psychologia rozwojowa,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Andrzej Chmiel,Pusink,wyk,PPiW
-Wydział Humanistyczno-Społeczny,dr Andrzej Chmiel,Psychologia rozwojowa i osobowości,wyk,Ped
+Wydział Humanistyczno-Społeczny,dr Andrzej Chmiel,Pusink,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Andrzej Chmiel,Pwis,wyk,Ped
+Wydział Humanistyczno-Społeczny,dr Andrzej Chmiel,Psychologia rozwojowa i osobowości,wyk,Ped
 Wydział Humanistyczno-Społeczny,dr Andrzej Chmiel,Psychologia społeczna i wychowawcza<br><strong>Pusink</strong> - Psychologia uczenia się i nauczania/Psychologia kształcenia<br><strong>Pwis</strong> - Psychologia wychowawcza i społeczna,wyk,Ped sp
 Wydział Humanistyczno-Społeczny,mgr Adriana Galocz,Pedagogika dziecka ze specjalnymi potrzebami edukacyjnymi/Praca z dzieckiem ze specjalnymi potrzebami edukacyjnymi,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Adriana Galocz,Metodyka zajęć pozalekcyjnych i pozaszkolnych,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Adriana Galocz,Metodyka pracy pedagoga szkolnego,ćw,Ped
-Wydział Humanistyczno-Społeczny,mgr Adriana Galocz,Metodyka zajęć korekcyjno-kompensacyjnych,ćw,Ped
 Wydział Humanistyczno-Społeczny,mgr Adriana Galocz,Metodyka pracy i współpracy z rodziną oraz prawnymi opiekunami dziecka/ Współpraca pedagoga ze środowiskiem,ćw,Ped
+Wydział Humanistyczno-Społeczny,mgr Adriana Galocz,Metodyka zajęć korekcyjno-kompensacyjnych,ćw,Ped
 Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Pedagogika porównawcza/Współczesna myśl pedagogiczna,wyk,Ped
 Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Diagnoza trudności w uczeniu się i zaburzeń zachowania u dzieci/Diagnoza niepowodzeń szkolnych,ćw,Ped
-Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Pedagogika specjalna,wyk,Ped sp
 Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Historia pedagogiki specjalnej,ćw,Ped sp
-Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Historia pedagogiki specjalnej,wyk,Ped sp
 Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Pedagogika specjalna,ćw,Ped sp
+Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Historia pedagogiki specjalnej,wyk,Ped sp
+Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Pedagogika specjalna,wyk,Ped sp
 Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Pedeutologia/Problemy kształcenia,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Pedeutologia/Problemy kształcenia,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Natalia Gumińska,Wspieranie rozwoju dziecka z zaburzeniami zachowania/Praca pedagogiczna z dzieckiem z zaburzeniami zachowania,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Karolina Kantyka-Dziwisz,Wybrane modele i koncepcje pedagogiki wczesnoszkolnej/Tendencje i kierunki zmian we współczesnej pedagogice wczesnoszkolnej,wyk,PPiW
-Wydział Humanistyczno-Społeczny,dr Karolina Kantyka-Dziwisz,Metodyka pedagogiki przedszkolnej,ćw,PPiW
-Wydział Humanistyczno-Społeczny,dr Karolina Kantyka-Dziwisz,Diagnoza trudności w uczeniu się i zaburzeń zachowania u dzieci/Diagnoza niepowodzeń szkolnych,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Karolina Kantyka-Dziwisz,Wybrane modele i koncepcje pedagogiki wczesnoszkolnej/Tendencje i kierunki zmian we współczesnej pedagogice wczesnoszkolnej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Karolina Kantyka-Dziwisz,Metodyka pedagogiki wczesnoszkolnej,wyk,PPiW
+Wydział Humanistyczno-Społeczny,dr Karolina Kantyka-Dziwisz,Metodyka pedagogiki przedszkolnej,ćw,PPiW
+Wydział Humanistyczno-Społeczny,dr Karolina Kantyka-Dziwisz,Diagnoza trudności w uczeniu się i zaburzeń zachowania u dzieci/Diagnoza niepowodzeń szkolnych,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Karolina Kantyka-Dziwisz,Metodyka zajęć korekcyjno-kompensacyjnych,wyk,Ped
 Wydział Humanistyczno-Społeczny,dr Karolina Kantyka-Dziwisz,Ewaluacja instytucji edukacyjnych/Kierunki optymalizacji działalności instytucji oświatowych,wyk,Ped st
 Wydział Humanistyczno-Społeczny,dr Karolina Kantyka-Dziwisz,Innowacje pedagogiczne/Kreatywność w pracy pedagoga,wyk,Ped st
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Ewa Kochanowska,Wybrane modele i koncepcje pedagogiki wczesnoszkolnej/Tendencje i kierunki zmian we współczesnej pedagogice wczesnoszkolnej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Ewa Kochanowska,Metodologia badań pedagogicznych/Praca badawcza nauczyciela,ćw,PPiW
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Ewa Kochanowska,Wybrane modele i koncepcje pedagogiki wczesnoszkolnej/Tendencje i kierunki zmian we współczesnej pedagogice wczesnoszkolnej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Ewa Kochanowska,Seminarium dyplomowe,sem,PPiW
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Ewa Kochanowska,Seminarium dyplomowe,sem,Ped
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Ewa Kochanowska,Uwpjokp,ćw,Ped st
-Wydział Humanistyczno-Społeczny,dr Rafał Kojs,Wybrane modele i koncepcje pedagogiki wczesnoszkolnej/Tendencje i kierunki zmian we współczesnej pedagogice wczesnoszkolnej,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Rafał Kojs,Metodyka pedagogiki wczesnoszkolnej,ćw,PPiW
-Wydział Humanistyczno-Społeczny,dr Rafał Kojs,Metodyka pedagogiki wczesnoszkolnej,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Rafał Kojs,Seminarium dyplomowe,sem,PPiW
+Wydział Humanistyczno-Społeczny,dr Rafał Kojs,Metodyka pedagogiki wczesnoszkolnej,wyk,PPiW
+Wydział Humanistyczno-Społeczny,dr Rafał Kojs,Wybrane modele i koncepcje pedagogiki wczesnoszkolnej/Tendencje i kierunki zmian we współczesnej pedagogice wczesnoszkolnej,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Rafał Kojs,Dydaktyka ogólna,ćw,Ped
 Wydział Humanistyczno-Społeczny,dr Rafał Kojs,Dydaktyka ogólna,ćw,Ped sp
 Wydział Humanistyczno-Społeczny,dr Rafał Kojs,Dydaktyka ogólna,wyk,Ped sp
 Wydział Humanistyczno-Społeczny,dr Rafał Kojs,Wybrane elementy metodyki kształcenia w szkole podstawowej i średniej,ćw,Ped st
-Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Metodyka pracy resocjalizacyjnej,wyk,Ped
 Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Profilaktyka społeczna i interwencja kryzysowa,ćw,Ped
+Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Patologie społeczne/zaburzenia zachowań społecznych,wyk,Ped
+Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Metodyka pracy resocjalizacyjnej,wyk,Ped
+Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Patologie społeczne/zaburzenia zachowań społecznych,ćw,Ped
+Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Metodyka pracy resocjalizacyjnej,ćw,Ped
 Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Profilaktyka społeczna i interwencja kryzysowa,wyk,Ped
 Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Seminarium dyplomowe,sem,Ped
-Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Patologie społeczne/zaburzenia zachowań społecznych,ćw,Ped
-Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Patologie społeczne/zaburzenia zachowań społecznych,wyk,Ped
-Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Metodyka pracy resocjalizacyjnej,ćw,Ped
 Wydział Humanistyczno-Społeczny,dr Patryk Kujan,Interwencja kryzysowa,ćw,Ped st
-Wydział Humanistyczno-Społeczny,mgr Alicja Lizurej-Hanula,Psychologia rozwojowa,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Alicja Lizurej-Hanula,Psychologia uczenia się i nauczania/Psychologia kształcenia,ćw,PPiW
+Wydział Humanistyczno-Społeczny,mgr Alicja Lizurej-Hanula,Psychologia rozwojowa,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Alicja Lizurej-Hanula,Wprowadzenie do diagnozy psychopedagogicznej/Elementy psychopedagogicznego postępowania diagnostycznego,ćw,Ped
 Wydział Humanistyczno-Społeczny,mgr Alicja Lizurej-Hanula,Praca z dzieckiem z deficytami rozwojowymi,ćw,Ped
 Wydział Humanistyczno-Społeczny,mgr Alicja Lizurej-Hanula,Psychologia rozwojowa i osobowości,ćw,Ped
-Wydział Humanistyczno-Społeczny,mgr Alicja Lizurej-Hanula,Psychologia rozwojowa,ćw,Ped sp
 Wydział Humanistyczno-Społeczny,mgr Alicja Lizurej-Hanula,Psychologia społeczna i wychowawcza,ćw,Ped sp
-Wydział Humanistyczno-Społeczny,mgr Joanna Lorenc,Metoda projektu we wczesnej edukacji/Praca metodą projektu we wczesnej edukacji,ćw,PPiW
-Wydział Humanistyczno-Społeczny,mgr Joanna Lorenc,Terapia pedagogiczna/Oddziaływania terapeutyczne wobec dziecka w wieku przedszkolnym i wczesnoszkolnym,ćw,PPiW
+Wydział Humanistyczno-Społeczny,mgr Alicja Lizurej-Hanula,Psychologia rozwojowa,ćw,Ped sp
 Wydział Humanistyczno-Społeczny,mgr Joanna Lorenc,Pojęcia i systemy pedagogiczne,ćw,PPiW
-Wydział Humanistyczno-Społeczny,mgr Joanna Lorenc,Organizacja procesu terapeutycznego/ Podstawy pracy terapeutycznej,ćw,Ped
+Wydział Humanistyczno-Społeczny,mgr Joanna Lorenc,Terapia pedagogiczna/Oddziaływania terapeutyczne wobec dziecka w wieku przedszkolnym i wczesnoszkolnym,ćw,PPiW
+Wydział Humanistyczno-Społeczny,mgr Joanna Lorenc,Metoda projektu we wczesnej edukacji/Praca metodą projektu we wczesnej edukacji,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Joanna Lorenc,Pojęcia i systemy pedagogiczne,ćw,Ped
+Wydział Humanistyczno-Społeczny,mgr Joanna Lorenc,Organizacja procesu terapeutycznego/ Podstawy pracy terapeutycznej,ćw,Ped
+Wydział Humanistyczno-Społeczny,dr Gabriela Machaczek,Pedeutologia/Problemy kształcenia,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Gabriela Machaczek,Pedeutologia/Problemy kształcenia,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Gabriela Machaczek,Podstawy psychopedagogiki twórczości i trening kreatywnego myślenia,wyk,PPiW
-Wydział Humanistyczno-Społeczny,dr Gabriela Machaczek,Pedeutologia/Problemy kształcenia,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Gabriela Machaczek,Wspieranie rozwoju dziecka z zaburzeniami zachowania/Praca pedagogiczna z dzieckiem z zaburzeniami zachowania,ćw,PPiW
-Wydział Humanistyczno-Społeczny,dr Gabriela Machaczek,Pomoc ofiarom przemocy w rodzinie/Formy przemocy w rodzinie,ćw,Ped
-Wydział Humanistyczno-Społeczny,dr Gabriela Machaczek,Metodyka pracy pedagoga szkolnego,wyk,Ped
 Wydział Humanistyczno-Społeczny,dr Gabriela Machaczek,Diagnoza trudności w uczeniu się i zaburzeń zachowania u dzieci/Diagnoza niepowodzeń szkolnych,wyk,Ped
+Wydział Humanistyczno-Społeczny,dr Gabriela Machaczek,Metodyka pracy pedagoga szkolnego,wyk,Ped
+Wydział Humanistyczno-Społeczny,dr Gabriela Machaczek,Pomoc ofiarom przemocy w rodzinie/Formy przemocy w rodzinie,ćw,Ped
+Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Wspieranie rozwoju dziecka zdolnego/Praca pedagogiczna z dzieckiem zdolnym,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Dpwee,ćw,PPiW
+Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Podstawy edukacji technicznej,wyk,PPiW
 Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Metoda projektu we wczesnej edukacji/Praca metodą projektu we wczesnej edukacji,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Podstawy edukacji technicznej,ćw,PPiW
-Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Podstawy edukacji technicznej,wyk,PPiW
-Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Wspieranie rozwoju dziecka zdolnego/Praca pedagogiczna z dzieckiem zdolnym,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Organizacja procesu terapeutycznego/ Podstawy pracy terapeutycznej,ćw,Ped
-Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Projektowanie i metodyka zajęć specjalistycznych dla dzieci i młodzieży z zaburzeniami rozwoju społecznego i emocjonalnego,ćw,Ped st
 Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Projektowanie i metodyka zajęć dydaktyczno-wyrównawczych,wyk,Ped st
-Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Wruizu,ćw,Ped st
 Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Diagnostyka psychopedagogiczna specjalnych potrzeb edukacyjnych<br><strong>Dpwee</strong> - Diagnoza pedagogiczna w edukacji elementarnej,ćw,Ped st
+Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Wruizu,ćw,Ped st
+Wydział Humanistyczno-Społeczny,mgr Dominika Machnio,Projektowanie i metodyka zajęć specjalistycznych dla dzieci i młodzieży z zaburzeniami rozwoju społecznego i emocjonalnego,ćw,Ped st
 Wydział Humanistyczno-Społeczny,prof. dr hab. Rafał Majzner,Metodyka edukacji muzycznej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,prof. dr hab. Rafał Majzner,Emisja i higiena głosu,ćw,Ped
 Wydział Humanistyczno-Społeczny,dr Klaudia Maksim-Dąbrowska,Metodyka edukacji informatycznej i posługiwania się technologią informacyjno-komunikacyjną,ćw,PPiW
@@ -580,37 +594,37 @@ Wydział Humanistyczno-Społeczny,dr Agnieszka Michalkiewicz-Gorol,Dydaktyka og�
 Wydział Humanistyczno-Społeczny,dr Agnieszka Michalkiewicz-Gorol,Dydaktyka ogólna,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Agnieszka Michalkiewicz-Gorol,Teoretyczne podstawy wychowania,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Agnieszka Michalkiewicz-Gorol,Teoretyczne podstawy wychowania,wyk,PPiW
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Monika Miczka-Pajestka,Filozofia wychowania,wyk,PPiW
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Monika Miczka-Pajestka,Etyka zawodu nauczyciela/Etyka w pracy pedagogicznej,wyk,PPiW
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Monika Miczka-Pajestka,Pojęcia i systemy pedagogiczne,wyk,Ped
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Monika Miczka-Pajestka,Filozofia wychowania,wyk,PPiW
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Monika Miczka-Pajestka,Etyka w pracy pedagogicznej/Etyka zawodu nauczyciela,wyk,Ped
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Monika Miczka-Pajestka,Filozofia wychowania,wyk,Ped sp
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Monika Miczka-Pajestka,Pojęcia i systemy pedagogiczne,wyk,Ped
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Monika Miczka-Pajestka,Filozofia wychowania,ćw,Ped sp
-Wydział Humanistyczno-Społeczny,dr Justyna Modrzejewska,Metodyka edukacji zdrowotnej,ćw,PPiW
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Monika Miczka-Pajestka,Filozofia wychowania,wyk,Ped sp
 Wydział Humanistyczno-Społeczny,dr Justyna Modrzejewska,Metodyka edukacji zdrowotnej,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Justyna Modrzejewska,Seminarium dyplomowe,sem,PPiW
-Wydział Humanistyczno-Społeczny,mgr Katarzyna Mrówka,Zajęcia integracyjne w przedszkolu i klasach I-III/Gry i zabawy integracyjne we wczesnej edukacji,ćw,PPiW
+Wydział Humanistyczno-Społeczny,dr Justyna Modrzejewska,Metodyka edukacji zdrowotnej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Katarzyna Mrówka,Metodyka zajęć dydaktyczno-wyrównawczych dla dzieci z trudnościami w nauce czytania i pisania/Praca dydaktyczno-wyrównawcza z dzieckiem z trudnościami w nauce czytania i pisania,ćw,PPiW
+Wydział Humanistyczno-Społeczny,mgr Katarzyna Mrówka,Zajęcia integracyjne w przedszkolu i klasach I-III/Gry i zabawy integracyjne we wczesnej edukacji,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Katarzyna Mrówka,Metodyka pracy z uczniem zdolnym i uzdolnionym/ Praca z z uczniem zdolnym i uzdolnionym,ćw,Ped
 Wydział Humanistyczno-Społeczny,mgr Katarzyna Mrówka,Metodyka zajęć korekcyjno-kompensacyjnych dla dzieci z zaburzeniami rozwoju ruchowego,ćw,Ped st
 Wydział Humanistyczno-Społeczny,dr Zbigniew Nowak,Pedagogika ogólna,ćw,Zzl
 Wydział Humanistyczno-Społeczny,dr Zbigniew Nowak,Pedagogika ogólna,wyk,Zzl
-Wydział Humanistyczno-Społeczny,dr Zbigniew Nowak,Metodyka edukacji matematycznej,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Zbigniew Nowak,Metodyka edukacji matematycznej,ćw,PPiW
-Wydział Humanistyczno-Społeczny,mgr Justyna Pawlak,Podstawy edukacji społeczno-przyrodniczej,ćw,PPiW
+Wydział Humanistyczno-Społeczny,dr Zbigniew Nowak,Metodyka edukacji matematycznej,wyk,PPiW
 Wydział Humanistyczno-Społeczny,mgr Justyna Pawlak,Diagnoza pedagogiczna w edukacji elementarnej,ćw,PPiW
-Wydział Humanistyczno-Społeczny,mgr Justyna Pawlak,Podstawy edukacji społeczno-przyrodniczej,wyk,PPiW
-Wydział Humanistyczno-Społeczny,mgr Justyna Pawlak,Metodyka pedagogiki wczesnoszkolnej,ćw,PPiW
+Wydział Humanistyczno-Społeczny,mgr Justyna Pawlak,Podstawy edukacji społeczno-przyrodniczej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Justyna Pawlak,Podstawy edukacji polonistycznej,ćw,PPiW
+Wydział Humanistyczno-Społeczny,mgr Justyna Pawlak,Metodyka pedagogiki wczesnoszkolnej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Justyna Pawlak,Podstawy psychopedagogiki twórczości i trening kreatywnego myślenia,ćw,PPiW
+Wydział Humanistyczno-Społeczny,mgr Justyna Pawlak,Podstawy edukacji społeczno-przyrodniczej,wyk,PPiW
 Wydział Humanistyczno-Społeczny,mgr Justyna Pawlak,Teoretyczne podstawy wychowania,ćw,Ped
 Wydział Humanistyczno-Społeczny,mgr Adrianna Piekiełko,Mppk,wyk,Ped st
 Wydział Humanistyczno-Społeczny,dr Agnieszka Przybyła-Dumin,Socjologia wychowania,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Agnieszka Przybyła-Dumin,Socjologia wychowania,wyk,Ped
 Wydział Humanistyczno-Społeczny,dr Agnieszka Przybyła-Dumin,Socjologia kultury,wyk,Ped
+Wydział Humanistyczno-Społeczny,dr Agnieszka Przybyła-Dumin,Socjologia wychowania,ćw,Ped sp
 Wydział Humanistyczno-Społeczny,dr Agnieszka Przybyła-Dumin,Socjologia wychowania,wyk,Ped sp
 Wydział Humanistyczno-Społeczny,dr Agnieszka Przybyła-Dumin,Kultura języka,ćw,Ped sp
-Wydział Humanistyczno-Społeczny,dr Agnieszka Przybyła-Dumin,Socjologia wychowania,ćw,Ped sp
 Wydział Humanistyczno-Społeczny,dr Agnieszka Przybyła-Dumin,Edukacja regionalna/Dziedzictwo kulturowe regionu,wyk,Ped st
 Wydział Humanistyczno-Społeczny,dr Agnieszka Roszkowska,Podstawy psychologii,wyk,Zzl
 Wydział Humanistyczno-Społeczny,dr Agnieszka Roszkowska,Psychopatologia/Psychologia zaburzeń,wyk,Ped
@@ -622,46 +636,54 @@ Wydział Humanistyczno-Społeczny,dr Agnieszka Roszkowska,Psychologia kliniczna,
 Wydział Humanistyczno-Społeczny,mgr Liliana Samulak,Arteterapia w pracy z małym dzieckiem/Sztuka w terapii,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Liliana Samulak,Metodyka edukacji plastycznej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Liliana Samulak,Plastyka w pracy resocjalizacyjnej/Terapia przez sztukę w pracy resocjalizacyjnej,ćw,Ped
-Wydział Humanistyczno-Społeczny,dr Agnieszka Twaróg-Kanus,Tutoring we wczesnej edukacji,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Agnieszka Twaróg-Kanus,Wybrane modele i koncepcje pedagogiki przedszkolnej/Tendencje i kierunki zmian we współczesnej pedagogice przedszkolnej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Agnieszka Twaróg-Kanus,Wspieranie rozwoju dziecka z zaburzeniami percepcji słuchowej/Praca z dzieckiem z zaburzeniami percepcji słuchowej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Agnieszka Twaróg-Kanus,Metodyka pedagogiki przedszkolnej,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Agnieszka Twaróg-Kanus,Wybrane modele i koncepcje pedagogiki przedszkolnej/Tendencje i kierunki zmian we współczesnej pedagogice przedszkolnej,wyk,PPiW
+Wydział Humanistyczno-Społeczny,dr Agnieszka Twaróg-Kanus,Tutoring we wczesnej edukacji,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Agnieszka Twaróg-Kanus,Seminarium dyplomowe,sem,PPiW
 Wydział Humanistyczno-Społeczny,dr Agnieszka Twaróg-Kanus,Seminarium dyplomowe,sem,Ped
 Wydział Humanistyczno-Społeczny,dr Roman Waluś,Prawne postępowanie w sprawach nieletnich,wyk,Ped
 Wydział Humanistyczno-Społeczny,dr Roman Waluś,Teoretyczne podstawy wychowania,ćw,Ped
-Wydział Humanistyczno-Społeczny,dr Roman Waluś,Prawne postępowanie w sprawach nieletnich,ćw,Ped
 Wydział Humanistyczno-Społeczny,dr Roman Waluś,Kryminologia,wyk,Ped
+Wydział Humanistyczno-Społeczny,dr Roman Waluś,Prawne postępowanie w sprawach nieletnich,ćw,Ped
 Wydział Humanistyczno-Społeczny,dr Roman Waluś,Prawne podstawy funkcjonowania placówek oświatowych,wyk,Ped st
-Wydział Humanistyczno-Społeczny,dr Justyna Wojciechowska,Drama we wczesnej edukacji/Gry i zabawy parateatralne we wczesnej edukacji,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Justyna Wojciechowska,Kultura języka,wyk,PPiW
-Wydział Humanistyczno-Społeczny,dr Justyna Wojciechowska,Seminarium dyplomowe,sem,PPiW
+Wydział Humanistyczno-Społeczny,dr Justyna Wojciechowska,Drama we wczesnej edukacji/Gry i zabawy parateatralne we wczesnej edukacji,ćw,PPiW
 Wydział Humanistyczno-Społeczny,dr Justyna Wojciechowska,Podstawy edukacji polonistycznej,wyk,PPiW
+Wydział Humanistyczno-Społeczny,dr Justyna Wojciechowska,Seminarium dyplomowe,sem,PPiW
 Wydział Humanistyczno-Społeczny,prof. dr hab. Ernest Zawada,Struktury wizualne / Podstawy rysunku,proj,Kom int
 Wydział Humanistyczno-Społeczny,prof. dr hab. Ernest Zawada,Arteterapia w pracy z małym dzieckiem/Sztuka w terapii,ćw,PPiW
 Wydział Humanistyczno-Społeczny,prof. dr hab. Ernest Zawada,Metodyka edukacji plastycznej,ćw,PPiW
 Wydział Humanistyczno-Społeczny,prof. dr hab. Ernest Zawada,Plastyka w pracy terapeutyczne/Arteterapia,ćw,Ped
 Wydział Humanistyczno-Społeczny,mgr Gabriela Zielonka,Diagnoza trudności w uczeniu się i zaburzeń zachowania u dzieci/Diagnoza niepowodzeń szkolnych,ćw,PPiW
+Wydział Humanistyczno-Społeczny,dr Tomasz Brenet,Tłumaczenie ustne,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Tomasz Brenet,Praktyczna nauka języka angielskiego - przekład ustny,pnj,Fil ang
 Wydział Humanistyczno-Społeczny,dr Tomasz Brenet,Przekład konferencyjny,ćw,Fil ang
-Wydział Humanistyczno-Społeczny,dr Tomasz Brenet,Tłumaczenie ustne,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Tomasz Brenet,Historia literatury hiszpańskiej,ćw,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Tomasz Brenet,Historia literatury hiszpańskiej,wyk,Fil hisz
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Dorota Chłopek,Gramatyka opisowa języka angielskiego,ćw,Fil ang
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Dorota Chłopek,Konwersatorium dyplomowe,konw,Fil ang
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Dorota Chłopek,Seminarium dyplomowe,sem,Fil ang
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Dorota Chłopek,Gramatyka opisowa języka angielskiego,wyk,Fil ang
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Dorota Chłopek,Współczesne teorie językoznawcze,wyk,Fil ang
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Dorota Chłopek,Gramatyka opisowa języka angielskiego,ćw,Fil ang
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Dorota Chłopek,Seminarium dyplomowe,sem,Fil ang
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Dorota Chłopek,Konwersatorium dyplomowe,konw,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Ilona Cieślar-Śliż,Praktyczna znajomość języka hiszpańskiego- ekspresja ustna,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,mgr Ilona Cieślar-Śliż,Praktyczna znajomość języka hiszpańskiego - ćwiczenia gramatyczne,pnj,Fil hisz
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Carlos Dimeo Álvarez,Literatura hispanoamerykańska,ćw,Fil hisz
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Carlos Dimeo Álvarez,Seminarium magisterskie,sem,Fil hisz
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Carlos Dimeo Álvarez,Teoria literatury,ćw,Fil hisz
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Carlos Dimeo Álvarez,Literatura hispanoamerykańska,wyk,Fil hisz
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Carlos Dimeo Álvarez,Interpretacja i analiza tekstów literackich,ćw,Fil hisz
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Carlos Dimeo Álvarez,Konwersatorium dyplomowe,konw,Fil hisz
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Carlos Dimeo Álvarez,Seminarium dyplomowe,sem,Fil hisz
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Carlos Dimeo Álvarez,Teoria literatury,wyk,Fil hisz
 Wydział Humanistyczno-Społeczny,mgr Sebastian Dunat,Praktyczna znajomość języka angielskiego - ćwiczenia gramatyczne,pnj,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Sebastian Dunat,Praktyczna znajomość języka angielskiego - ekspresja pisemna,pnj,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Arkadiusz Gardaś,Praktyczna nauka języka angielskiego - komunikacja werbalna,pnj,Fil ang
-Wydział Humanistyczno-Społeczny,mgr Arkadiusz Gardaś,Praktyczna znajomość języka angielskiego - przekład tekstów użytkowych,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Arkadiusz Gardaś,Praktyczna znajomość języka angielskiego - ekspresja pisemna,pnj,Fil ang
-Wydział Humanistyczno-Społeczny,mgr Aleksandra Hasior,Praktyczna znajomość języka hiszpańskiego - tłumaczenie tekstów specjalistycznych,pnj,Fil hisz
+Wydział Humanistyczno-Społeczny,mgr Arkadiusz Gardaś,Praktyczna znajomość języka angielskiego - przekład tekstów użytkowych,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Aleksandra Hasior,Praktyczna znajomość języka hiszpańskiego - język specjalistyczny,pnj,Fil hisz
+Wydział Humanistyczno-Społeczny,mgr Aleksandra Hasior,Praktyczna znajomość języka hiszpańskiego - tłumaczenie tekstów specjalistycznych,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Anita Jarczok,Historia literatury amerykańskiej,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Anita Jarczok,Historia literatury amerykańskiej,wyk,Fil ang
 Wydział Humanistyczno-Społeczny,dr Anita Jarczok,Praktyczna nauka języka angielskiego - pisanie tekstów akademickich,pnj,Fil ang
@@ -670,38 +692,38 @@ Wydział Humanistyczno-Społeczny,dr Małgorzata Jopek-Bizoń,Metodyka pracy z u
 Wydział Humanistyczno-Społeczny,dr Małgorzata Jopek-Bizoń,Pedagogiczne podstawy nauczania języka obcego dzieci/Pedagogical basics of teaching a foreign language to children,wyk,PPiW
 Wydział Humanistyczno-Społeczny,dr Małgorzata Jopek-Bizoń,Pedagogiczne podstawy nauczania języka obcego dzieci/Pedagogical basics of teaching a foreign language to children,ćw,PPiW
 Wydział Humanistyczno-Społeczny,mgr Maria Kaliciak,Praktyczna znajomość języka angielskiego - zintegrowana sprawność rozumienia i konwersacji,pnj,Fil ang
+Wydział Humanistyczno-Społeczny,mgr Dominika Kasperek,Praktyczna znajomość języka hiszpańskiego- ekspresja ustna,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,mgr Dominika Kasperek,Komunikacja w biznesie w języku hiszpańskim,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,mgr Dominika Kasperek,Praktyczna znajomość języka hiszpańskiego- ćwiczenia gramatyczne,pnj,Fil hisz
-Wydział Humanistyczno-Społeczny,mgr Dominika Kasperek,Praktyczna znajomość języka hiszpańskiego- ekspresja ustna,pnj,Fil hisz
-Wydział Humanistyczno-Społeczny,mgr Agnieszka Kliś,Język medyczny,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Agnieszka Kliś,Praktyczna znajomość języka angielskiego - przekład tekstów użytkowych i literackich,pnj,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Agnieszka Kliś,Praktyczna znajomość języka angielskiego - ekspresja pisemna,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Agnieszka Kliś,Praktyczna znajomość języka angielskiego - ekspresja pisemna,pnj,Fil ang
+Wydział Humanistyczno-Społeczny,mgr Agnieszka Kliś,Język medyczny,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Agnieszka Kocel-Duraj,Praktyczna znajomość języka angielskiego - przekład tekstów użytkowych i literackich,pnj,Fil ang
 Wydział Humanistyczno-Społeczny,dr Agnieszka Kocel-Duraj,Przekład tekstów specjalistycznych na język angielski,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Agnieszka Kocel-Duraj,Seminarium dyplomowe,sem,Fil ang
 Wydział Humanistyczno-Społeczny,dr Sławomir Konkol,Praktyczna znajomość języka angielskiego - przekład tekstów użytkowych i literackich,pnj,Fil ang
-Wydział Humanistyczno-Społeczny,dr Sławomir Konkol,Historia literatury angielskiej,wyk,Fil ang
-Wydział Humanistyczno-Społeczny,dr Sławomir Konkol,Historia literatury angielskiej,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Sławomir Konkol,Seminarium dyplomowe,sem,Fil ang
+Wydział Humanistyczno-Społeczny,dr Sławomir Konkol,Historia literatury angielskiej,ćw,Fil ang
+Wydział Humanistyczno-Społeczny,dr Sławomir Konkol,Historia literatury angielskiej,wyk,Fil ang
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Maria Korusiewicz,Wybrane zadagnienia z historii i kultury angielskiego obszaru językowego,wyk,Fil ang
-Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Seminarium magisterskie,sem,Fil ang
-Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Metodologia badań glottodydaktycznych,wyk,Fil ang
-Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Podstawy dydaktyki,ćw,Fil ang
-Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Dydaktyka szczegółowa języka angielskiego,ćw,Fil ang
-Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Praktyczna znajomość języka angielskiego - zintegrowana sprawność rozumienia i konwersacji,pnj,Fil ang
-Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Seminarium dyplomowe,sem,Fil ang
 Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Nauczanie języka angielskiego uczniów w wieku szkolnym i przedszkolnym,ćw,Fil ang
-Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Metodologia badań glottodydaktycznych,ćw,Fil ang
+Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Seminarium magisterskie,sem,Fil ang
 Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Dydaktyka szczegółowa języka angielskiego,wyk,Fil ang
-Wydział Humanistyczno-Społeczny,dr Michał Lisecki,Komputerowe techniki wspomagania tłumaczenia,ćw,Fil ang
-Wydział Humanistyczno-Społeczny,dr Michał Lisecki,Praktyczna znajomość języka angielskiego - przekład tekstów użytkowych i literackich,pnj,Fil ang
-Wydział Humanistyczno-Społeczny,dr Michał Lisecki,Współczesne teorie językoznawcze,ćw,Fil ang
+Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Metodologia badań glottodydaktycznych,wyk,Fil ang
+Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Dydaktyka szczegółowa języka angielskiego,ćw,Fil ang
+Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Podstawy dydaktyki,ćw,Fil ang
+Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Praktyczna znajomość języka angielskiego - zintegrowana sprawność rozumienia i konwersacji,pnj,Fil ang
+Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Metodologia badań glottodydaktycznych,ćw,Fil ang
+Wydział Humanistyczno-Społeczny,dr Elwira Lewandowska,Seminarium dyplomowe,sem,Fil ang
 Wydział Humanistyczno-Społeczny,dr Michał Lisecki,Przekład audiowizualny,lab,Fil ang
+Wydział Humanistyczno-Społeczny,dr Michał Lisecki,Współczesne teorie językoznawcze,ćw,Fil ang
+Wydział Humanistyczno-Społeczny,dr Michał Lisecki,Praktyczna znajomość języka angielskiego - przekład tekstów użytkowych i literackich,pnj,Fil ang
 Wydział Humanistyczno-Społeczny,dr Michał Lisecki,Współczesne teorie językoznawcze,wyk,Fil ang
+Wydział Humanistyczno-Społeczny,dr Michał Lisecki,Komputerowe techniki wspomagania tłumaczenia,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Barbara Loranc,Seminarium magisterskie,sem,Fil ang
-Wydział Humanistyczno-Społeczny,mgr Monika Marek,Praktyczna znajomość języka angielskiego - ćwiczenia gramatyczne,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Monika Marek,Praktyczna znajomość języka angielskiego - ćwiczenia gramatyczne,pnj,Fil ang
+Wydział Humanistyczno-Społeczny,mgr Monika Marek,Praktyczna znajomość języka angielskiego - ćwiczenia gramatyczne,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Tomasz Markiewka,Teoria przekładu,wyk,Fil ang
 Wydział Humanistyczno-Społeczny,dr Tomasz Markiewka,Seminarium magisterskie,sem,Fil ang
 Wydział Humanistyczno-Społeczny,dr Tomasz Markiewka,Wstęp do literaturoznawstwa,wyk,Fil ang
@@ -710,61 +732,61 @@ Wydział Humanistyczno-Społeczny,dr Tomasz Markiewka,Współczesne teorie bada�
 Wydział Humanistyczno-Społeczny,dr Tomasz Markiewka,Teoria przekładu,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Maciej Niemiec,Praktyczna znajomość języka angielskiego - zintegrowana sprawność rozumienia i konwersacji,pnj,Fil ang
 Wydział Humanistyczno-Społeczny,dr Marzena Okoń,Język angielski w turystyce - zintegrowana sprawność rozumienia i konwersacji II,ćw,Tur
+Wydział Humanistyczno-Społeczny,dr Marzena Okoń,Nauczanie języka angielskiego uczniów w wieku szkolnym i przedszkolnym,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Marzena Okoń,Dydaktyka przedmiotowa języka angielskiego,ćw,Fil ang
-Wydział Humanistyczno-Społeczny,dr Marzena Okoń,Dydaktyka przedmiotowa języka angielskiego,wyk,Fil ang
 Wydział Humanistyczno-Społeczny,dr Marzena Okoń,Praktyczna znajomość języka angielskiego - ekspresja pisemna,pnj,Fil ang
 Wydział Humanistyczno-Społeczny,dr Marzena Okoń,Konwersatorium dyplomowe,konw,Fil ang
-Wydział Humanistyczno-Społeczny,dr Marzena Okoń,Nauczanie języka angielskiego uczniów w wieku szkolnym i przedszkolnym,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Marzena Okoń,Seminarium dyplomowe,sem,Fil ang
-Wydział Humanistyczno-Społeczny,dr Agnieszka Palion-Musioł,Konwersatorium dyplomowe,konw,Fil hisz
+Wydział Humanistyczno-Społeczny,dr Marzena Okoń,Dydaktyka przedmiotowa języka angielskiego,wyk,Fil ang
+Wydział Humanistyczno-Społeczny,dr Agnieszka Palion-Musioł,Praktyczna znajomość języka hiszpańskiego - język specjalistyczny,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Agnieszka Palion-Musioł,Praktyczna znajomość języka hiszpańskiego- ćwiczenia gramatyczne,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Agnieszka Palion-Musioł,Seminarium dyplomowe,sem,Fil hisz
-Wydział Humanistyczno-Społeczny,dr Agnieszka Palion-Musioł,Praktyczna znajomość języka hiszpańskiego - język specjalistyczny,pnj,Fil hisz
+Wydział Humanistyczno-Społeczny,dr Agnieszka Palion-Musioł,Konwersatorium dyplomowe,konw,Fil hisz
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Krzysztof Polok,Współczesne teorie językoznawcze,wyk,Fil ang
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Krzysztof Polok,Dydaktyka szczegółowa języka angielskiego,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Krzysztof Polok,Podstawy dydaktyki,wyk,Fil ang
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Krzysztof Polok,Dydaktyka szczegółowa języka angielskiego,wyk,Fil ang
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Krzysztof Polok,Dydaktyka szczegółowa języka angielskiego,ćw,Fil ang
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Krzysztof Polok,Współczesne teorie językoznawcze,wyk,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Kamil Pysz,Praktyczna znajomość języka angielskiego - ekspresja pisemna,pnj,Fil ang
-Wydział Humanistyczno-Społeczny,mgr Małgorzata Raułyk-Dumanow,Język biznesu 1,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Małgorzata Raułyk-Dumanow,Praktyczna nauka języka angielskiego - pisanie tekstów akademickich,pnj,Fil ang
 Wydział Humanistyczno-Społeczny,mgr Małgorzata Raułyk-Dumanow,Praktyczna znajomość języka angielskiego - ekspresja pisemna,pnj,Fil ang
+Wydział Humanistyczno-Społeczny,mgr Małgorzata Raułyk-Dumanow,Język biznesu 1,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Zuzanna Szatanik,Współczesna literatura angielska,ćw,Fil ang
-Wydział Humanistyczno-Społeczny,dr Zuzanna Szatanik,Współczesna literatura angielska,wyk,Fil ang
-Wydział Humanistyczno-Społeczny,dr Zuzanna Szatanik,Konwersatorium dyplomowe,konw,Fil ang
-Wydział Humanistyczno-Społeczny,dr Zuzanna Szatanik,Seminarium dyplomowe,sem,Fil ang
 Wydział Humanistyczno-Społeczny,dr Zuzanna Szatanik,Historia literatury amerykańskiej,wyk,Fil ang
+Wydział Humanistyczno-Społeczny,dr Zuzanna Szatanik,Seminarium dyplomowe,sem,Fil ang
+Wydział Humanistyczno-Społeczny,dr Zuzanna Szatanik,Konwersatorium dyplomowe,konw,Fil ang
+Wydział Humanistyczno-Społeczny,dr Zuzanna Szatanik,Współczesna literatura angielska,wyk,Fil ang
+Wydział Humanistyczno-Społeczny,dr Tatiana Szczygłowska,Seminarium dyplomowe,sem,Fil ang
 Wydział Humanistyczno-Społeczny,dr Tatiana Szczygłowska,Konwersatorium dyplomowe,konw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Tatiana Szczygłowska,Tłumaczenie pisemne,ćw,Fil ang
-Wydział Humanistyczno-Społeczny,dr Tatiana Szczygłowska,Seminarium dyplomowe,sem,Fil ang
-Wydział Humanistyczno-Społeczny,mgr Aleksandra Tulaja-Danel,Hiszpański język biznesu,pnj,Fil hisz
-Wydział Humanistyczno-Społeczny,mgr Aleksandra Tulaja-Danel,Praktyczna znajomość języka hiszpańskiego- rozumienie ze słuchu,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,mgr Aleksandra Tulaja-Danel,Praktyczna znajomość języka hiszpańskiego- ekspresja pisemna,pnj,Fil hisz
-Wydział Humanistyczno-Społeczny,mgr Jaume Vidal,Praktyczna znajomość języka hiszpańskiego - zintegrowana sprawność rozumienia i konwersacji,pnj,Fil hisz
+Wydział Humanistyczno-Społeczny,mgr Aleksandra Tulaja-Danel,Praktyczna znajomość języka hiszpańskiego- rozumienie ze słuchu,pnj,Fil hisz
+Wydział Humanistyczno-Społeczny,mgr Aleksandra Tulaja-Danel,Hiszpański język biznesu,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,mgr Jaume Vidal,Praktyczna znajomość 2-go języka kierunkowego - język kataloński,pnj,Fil hisz
-Wydział Humanistyczno-Społeczny,mgr Jaume Vidal,Historia i kultura hiszpańskiego obszaru językowego,ćw,Fil hisz
-Wydział Humanistyczno-Społeczny,mgr Jaume Vidal,Hiszpański kolokwialny,ćw,Fil hisz
+Wydział Humanistyczno-Społeczny,mgr Jaume Vidal,Praktyczna znajomość języka hiszpańskiego - zintegrowana sprawność rozumienia i konwersacji,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,mgr Jaume Vidal,Historia i kultura hiszpańskiego obszaru językowego,wyk,Fil hisz
 Wydział Humanistyczno-Społeczny,mgr Jaume Vidal,Praktyczna znajomość języka hiszpańskiego - ekspresja pisemna,pnj,Fil hisz
-Wydział Humanistyczno-Społeczny,dr Anna Wieczorek,Podstawy dydaktyki,ćw,Fil ang
+Wydział Humanistyczno-Społeczny,mgr Jaume Vidal,Hiszpański kolokwialny,ćw,Fil hisz
+Wydział Humanistyczno-Społeczny,mgr Jaume Vidal,Historia i kultura hiszpańskiego obszaru językowego,ćw,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Anna Wieczorek,Praktyczna nauka specjalistycznego języka angielskiego - ekspresja ustna-sztuka przemówień publicznych,ćw,Fil ang
+Wydział Humanistyczno-Społeczny,dr Anna Wieczorek,Podstawy dydaktyki,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Anna Wieczorek,Język biznesu 2,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Anna Wieczorek,Seminarium dyplomowe,sem,Fil ang
+Wydział Humanistyczno-Społeczny,dr Natalia Wiśniewska,Gramatyka opisowa języka hiszpańskiego,wyk,Fil hisz
+Wydział Humanistyczno-Społeczny,dr Natalia Wiśniewska,Praktyczna znajomość języka hiszpańskiego- ekspresja pisemna,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Natalia Wiśniewska,Praktyczna znajomość języka hiszpańskiego - ekspresja ustna,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Natalia Wiśniewska,Przekład literacki,ćw,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Natalia Wiśniewska,Gramatyka opisowa języka hiszpańskiego,ćw,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Natalia Wiśniewska,Seminarium dyplomowe,sem,Fil hisz
-Wydział Humanistyczno-Społeczny,dr Natalia Wiśniewska,Gramatyka opisowa języka hiszpańskiego,wyk,Fil hisz
-Wydział Humanistyczno-Społeczny,dr Natalia Wiśniewska,Praktyczna znajomość języka hiszpańskiego- ekspresja pisemna,pnj,Fil hisz
-Wydział Humanistyczno-Społeczny,mgr Katarzyna Worek,Hiszpański język biznesu,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,mgr Katarzyna Worek,Praktyczna znajomość języka hiszpańskiego- rozumienie ze słuchu,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,mgr Katarzyna Worek,Praktyczna znajomość języka hiszpańskiego - ekspresja ustna,pnj,Fil hisz
+Wydział Humanistyczno-Społeczny,mgr Katarzyna Worek,Hiszpański język biznesu,pnj,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Marcin Ziomek,Technologia informacyjna,ćw,Fil hisz
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Piotr Żurek,Wstęp do językoznawstwa,wyk,Fil hisz
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Piotr Żurek,Antropologiczne podstawy edukacji,wyk,PPiW
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Piotr Żurek,Antroplogia filozoficzna<br><strong>Af</strong> (Środa 09:00-10:30) - Antropologia filozoficzna,wyk,Ped
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Aleksandra Banot,Indywidualizacja procesu nauczania,wyk,Fil pol
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Aleksandra Banot,Indywidualizacja procesu nauczania,ćw,Fil pol
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Aleksandra Banot,Literatura powszechna,ćw,Fil pol
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Aleksandra Banot,Indywidualizacja procesu nauczania,ćw,Fil pol
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Aleksandra Banot,Indywidualizacja procesu nauczania,wyk,Fil pol
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Aleksandra Banot,Literatura powszechna,wyk,Fil pol
 Wydział Humanistyczno-Społeczny,dr Agnieszka Będkowska-Kopczyk,Kultura organizacyjna,konw,Zzl
 Wydział Humanistyczno-Społeczny,dr Agnieszka Będkowska-Kopczyk,Ezpt,ćw,Fil ang
@@ -781,17 +803,17 @@ Wydział Humanistyczno-Społeczny,dr Ewelina Gajewska,Gram. hist.j.pol. z elem. 
 Wydział Humanistyczno-Społeczny,dr Ewelina Gajewska,Ortografia i ortofonia,ćw,Fil pol
 Wydział Humanistyczno-Społeczny,dr Ewelina Gajewska,Gram. hist.j.pol. z elem. jęz. s.c.s,wyk,Fil pol
 Wydział Humanistyczno-Społeczny,dr Ewelina Gajewska,Lingwistyka tekstu,ćw,Fil pol
-Wydział Humanistyczno-Społeczny,dr Ewelina Gajewska,Kultura języka,ćw,Kom int
 Wydział Humanistyczno-Społeczny,dr Ewelina Gajewska,Język mediów i polityki,ćw,Kom int
+Wydział Humanistyczno-Społeczny,dr Ewelina Gajewska,Kultura języka,ćw,Kom int
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Michał Kopczyk,Teoria literatury,wyk,Fil pol
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Michał Kopczyk,Teoria literatury,ćw,Fil pol
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Michał Kopczyk,Historyczne konteksty liter. i kult.polskiej,wyk,Fil pol
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Michał Kopczyk,Seminarium magisterskie,sem,Fil pol
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Michał Kopczyk,Teoria literatury,ćw,Fil pol
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Michał Kopczyk,Teoria literatury,wyk,Fil pol
 Wydział Humanistyczno-Społeczny,dr Angelika Matuszek,Pomiar dydaktyczny w pracy nauczyciela,wyk,Fil pol
 Wydział Humanistyczno-Społeczny,dr Angelika Matuszek,Metodyka nauczania języka i lit. pol. w szkole podstawowej,ćw,Fil pol
-Wydział Humanistyczno-Społeczny,dr Angelika Matuszek,Metodyka nauczania języka i lit. pol. w szkole podstawowej,wyk,Fil pol
-Wydział Humanistyczno-Społeczny,dr Angelika Matuszek,Warsztat pracy wychowawczej nauczyciela,ćw,Fil pol
 Wydział Humanistyczno-Społeczny,dr Angelika Matuszek,Prawne aspekty funkcjonowania oświaty,ćw,Fil pol
+Wydział Humanistyczno-Społeczny,dr Angelika Matuszek,Warsztat pracy wychowawczej nauczyciela,ćw,Fil pol
+Wydział Humanistyczno-Społeczny,dr Angelika Matuszek,Metodyka nauczania języka i lit. pol. w szkole podstawowej,wyk,Fil pol
 Wydział Humanistyczno-Społeczny,dr Angelika Matuszek,Prawo w oświacie,wyk,Fil ang
 Wydział Humanistyczno-Społeczny,dr Lidia Romaniszyn-Ziomek,Oświecenie i romantyzm,ćw,Fil pol
 Wydział Humanistyczno-Społeczny,dr Lidia Romaniszyn-Ziomek,Seminarium dyplomowe,sem,Fil pol
@@ -799,17 +821,17 @@ Wydział Humanistyczno-Społeczny,dr Lidia Romaniszyn-Ziomek,Praktyczna znajomo�
 Wydział Humanistyczno-Społeczny,prof. dr hab. Tomasz Stępień,Analiza i interpretacja dzieła literackiego,ćw,Fil pol
 Wydział Humanistyczno-Społeczny,prof. dr hab. Tomasz Stępień,Wybrane zagadnienia z historii literatury,wyk,Fil pol
 Wydział Humanistyczno-Społeczny,prof. dr hab. Tomasz Stępień,Seminarium dyplomowe,sem,Kom int
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Jolanta Szarlej,Wstęp do językoznawstwa,wyk,Fil pol
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Jolanta Szarlej,Wykład monograficzny polonistyczny II,wyk,Fil pol
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Jolanta Szarlej,Leksyka. Leksykografia. Leksykologia,ćw,Fil pol
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Jolanta Szarlej,Wstęp do językoznawstwa,wyk,Fil pol
-Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Jolanta Szarlej,Gramatyka opisowa-morfologia,ćw,Fil pol
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Jolanta Szarlej,Gramatyka opisowa-morfologia,wyk,Fil pol
+Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Jolanta Szarlej,Gramatyka opisowa-morfologia,ćw,Fil pol
 Wydział Humanistyczno-Społeczny,prof. UBB dr hab. Barbara Tomalak,Wiedza o kulturze,wyk,Fil pol
-Wydział Humanistyczno-Społeczny,dr Przemysław Brom,Psycholingwistyka,wyk,Kom int
 Wydział Humanistyczno-Społeczny,dr Przemysław Brom,Komunikacja interpersonalna,wyk,Kom int
+Wydział Humanistyczno-Społeczny,dr Przemysław Brom,Psycholingwistyka,wyk,Kom int
 Wydział Humanistyczno-Społeczny,dr Przemysław Brom,Komunikacja interpersonalna,ćw,Kom int
-Wydział Humanistyczno-Społeczny,dr Przemysław Brom,Psychologia komunikacji,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Przemysław Brom,Psychologia komunikacji,wyk,Fil ang
+Wydział Humanistyczno-Społeczny,dr Przemysław Brom,Psychologia komunikacji,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Przemysław Brom,Podstawy ekonomii dla tłumaczy,ćw,Fil ang
 Wydział Humanistyczno-Społeczny,dr Przemysław Brom,Negocjacje handlowe,wyk,Fil hisz
 Wydział Humanistyczno-Społeczny,dr Krzysztof Feruga,Technologia informacyjna,ćw,Fil ang
@@ -832,46 +854,46 @@ Wydział Humanistyczno-Społeczny,dr Mateusz Żyła,Literatura i kultura popular
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Patrycja Antonik-Popiołek,Wytrzymałość materiałów 1,ćw,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Patrycja Antonik-Popiołek,Obliczenia inżynierskie,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Patrycja Antonik-Popiołek,Obliczenia inżynierskie,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marcin Bączek,Wybrane zagadnienia z fizyki,ćw,EP
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marcin Bączek,Wybrane zagadnienia z fizyki,wyk,EP
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marcin Bączek,Wybrane zagadnienia z fizyki,ćw,EP
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marcin Bączek,Fizyka I,wyk,ZiIP
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marcin Bączek,Fizyka I,ćw,ZiIP
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Basiura-Cembala,Fizyka 2,lab,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Basiura-Cembala,Rentgenografia,ćw,Inż mat
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Basiura-Cembala,Rentgenografia,wyk,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Basiura-Cembala,Podstawy fizyki miękkiej materii,wyk,Inż mat
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Basiura-Cembala,Rentgenografia,wyk,Inż mat
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Basiura-Cembala,Rentgenografia,ćw,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Dorota Biniaś,Gospodarka odpadami,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Dorota Biniaś,Badania jakościowe wody użytkowej,wyk,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Dorota Biniaś,Badania jakościowe wody użytkowej,lab,Inż mat
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Dorota Biniaś,Badania jakościowe wody użytkowej,wyk,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Włodzimierz Biniaś,Wybrane zagadnienia z fizyki,lab,EP
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Włodzimierz Biniaś,Fizyka,lab,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Włodzimierz Biniaś,Spektroskopowe metody badań materiałów,wyk,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Włodzimierz Biniaś,Spektroskopowe metody badań materiałów,lab,Inż mat
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Wacław Brachaczek,Instalacje budowlane,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Wacław Brachaczek,Materiały budowlane 2,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Włodzimierz Biniaś,Spektroskopowe metody badań materiałów,wyk,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Wacław Brachaczek,Remonty i eksploatacja konstrukcji budowlanych,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Wacław Brachaczek,Technologia betonu,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Wacław Brachaczek,Materiały budowlane 2,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Wacław Brachaczek,Instalacje budowlane,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Wacław Brachaczek,Prowadzenie firmy budowlanej,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Wacław Brachaczek,Technologia betonu,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Fitosocjologia stosowana w ochr. i inż. środow.,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Wacław Brachaczek,Instalacje budowlane,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Biologia i ekologia ogólna,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Statystyka,lab,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Statystyczna analiza danych,proj,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Synantropizacja układów przyrodniczych,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Ocena oddziaływania na środowisko,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Statystyczna analiza danych,proj,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Statystyka,lab,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Fitosocjologia stosowana w ochr. i inż. środow.,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Statystyka,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Damian Chmura,Biocenologia,wyk,Ochr śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr hab. inż. Kazimierz Drabczyk,Instalacje proekologiczne,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr hab. inż. Kazimierz Drabczyk,Instalacje proekologiczne,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr hab. inż. Kazimierz Drabczyk,Instalacje proekologiczne,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr hab. inż. Kazimierz Drabczyk,Alternatywne źródła energii,proj,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Fabia,Audyting energetyczny w budownictwie,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Fabia,Efektywność energetyczna,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Fabia,Efektywność energetyczna,lab,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Fabia,Efektywność energetyczna,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Fabia,Efektywność energetyczna,proj,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Fabia,Przetwórstwo tworzyw sztucznych,wyk,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Beata Fryczkowska,Chemia ogólna i analityczna,lab,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Ryszard Fryczkowski,Polimerowe materiały powłokotwórcze,wyk,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Ryszard Fryczkowski,Polimerowe materiały powłokotwórcze,lab,Inż mat
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Ryszard Fryczkowski,Polimerowe materiały powłokotwórcze,wyk,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Tobiasz Gabryś,Materiały budowlane 2,lab,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Tobiasz Gabryś,Materiały budowlane 1,lab,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Tobiasz Gabryś,Fizyka,lab,Inż śr
@@ -883,404 +905,414 @@ Wydział Humanistyczno-Społeczny,dr Mateusz Żyła,Literatura i kultura popular
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Paweł Gawłowski,Geodezja,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Paweł Gawłowski,Geodezja,proj,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Paweł Gawłowski,Geodezja,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Materiałoznawstwo instalacyjne,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Mechanika i wytrzymałość materiałów,ćw,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Materiałoznawstwo instalacyjne,lab,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Mechanika i wytrzymałość materiałów,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Podstawy metrologii,ćw,Inż mat
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Materiałoznawstwo instalacyjne,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Materiałoznawstwo instalacyjne,lab,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Mechanika i wytrzymałość materiałów,ćw,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,ACAD,lab,Inż mat
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,ACAD,proj,Inż mat
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Materiały i technologie kompozytowe,ćw,Inż mat
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Podstawy metrologii,ćw,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Materiały i technologie kompozytowe,wyk,Inż mat
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Klaudiusz Grübel,Instalacje proekologiczne,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,Materiały i technologie kompozytowe,ćw,Inż mat
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Tadeusz Graczyk,ACAD,proj,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Klaudiusz Grübel,Budownictwo proekologiczne,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Klaudiusz Grübel,Instalacje proekologiczne,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Klaudiusz Grübel,Instalacje proekologiczne,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Klaudiusz Grübel,Metody komp.w oczyszczaniu wody i ścieków,lab,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Klaudiusz Grübel,Seminarium dyplomowe,sem,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Klaudiusz Grübel,Metody komp.w oczyszczaniu wody i ścieków,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Klaudiusz Grübel,Badania jakościowe wody użytkowej,lab,Inż mat
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Zielona infrastruktura,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Materiały budowlane 2,lab,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Zielone budownictwo,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Geosyntetyki i materiały w budownictwie<br><strong>Mb1</strong> - Materiały budowlane 1,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Materiały nowej generacji - przedmiot obieralny,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Systemy inteligentne w budownictwie,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Materiały budowlane 2,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Zielona infrastruktura,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Geosyntetyki i materiały w budownictwie<br><strong>Mb1</strong> - Materiały budowlane 1,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Zielona infrastruktura,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Zielone budownictwo,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Materiały nowej generacji - przedmiot obieralny,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Zielona infrastruktura,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Mb1,lab,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Zielone budownictwo,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Geosyntetyki i materiały w budownictwie<br><strong>Mb1</strong> - Materiały budowlane 1,lab,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Zpb,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Zielone budownictwo,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Systemy inteligentne w budownictwie,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Materiały budowlane 2,lab,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Joanna Grzybowska-Pietras,Geosyntetyki i materiały w budownictwie<br><strong>Mb1</strong> - Materiały budowlane 1,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Zarządzanie ryzykiem w budownictwie,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Technologia robót budowlanych,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Organizacja produkcji budowlanej,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Wycena nieruchomości<br><strong>Zpb</strong> - Zarządzanie przedsięwzięciami budowlanymi,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Technologia robót budowlanych,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Wycena nieruchomości<br><strong>Zpb</strong> - Zarządzanie przedsięwzięciami budowlanymi,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Organizacja produkcji budowlanej,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Zpb,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Technologia robót budowlanych,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Technologia betonu,lab,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Zpb,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Technologia robót budowlanych,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Gwóźdź-Lasoń,Wycena nieruchomości<br><strong>Zpb</strong> - Zarządzanie przedsięwzięciami budowlanymi,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Prawo kontraktowe,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Elementy prawa i ochrony własnosci intelektualnej,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Ekonomika budownictwa,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Ochrona własności intelektualnej,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Kierowanie procesem inwestycyjnym,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Ekonomika budownictwa,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Prawo kontraktowe,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Elementy prawa i ochrony własnosci intelektualnej,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Ekonomika budownictwa,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Podstawy prawa i ochrona własności intelektualnych,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Rachunek ekonomiczny w inżynierii środowiska,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Rachunek ekonomiczny w inżynierii środowiska,ćw,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Podstawy prawa i ochrona własności intelektualnych,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Instrumenty ekonomiczne w ochronie środowiska,ćw,Ochr śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Instrumenty ekonomiczne w ochronie środowiska,wyk,Ochr śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Tworzenie i rozwój form przedsiębiorczości,wyk,Ochr śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Andrzej Harat,Instrumenty ekonomiczne w ochronie środowiska,ćw,Ochr śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Ewa Jachniak,Biologia i ekologia ogólna,lab,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Ewa Jachniak,Synantropizacja układów przyrodniczych,ćw,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Andrzej Jaguś,Gleboznawstwo i ochrona gleb,wyk,Ochr śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Andrzej Jaguś,Gleboznawstwo i ochrona gleb,lab,Ochr śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Andrzej Jaguś,Ujęcia wód powierzchniowych i podziemnych<hr>C112 - laboratorium biologii środowiska,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Andrzej Jaguś,Gleboznawstwo i ochrona gleb,wyk,Ochr śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Andrzej Jaguś,Ujęcia wód powierzchniowych i podziemnych<hr>C112 - laboratorium biologii środowiska,proj,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Andrzej Jaguś,Ujęcia wód powierzchniowych i podziemnych<hr>C112 - laboratorium biologii środowiska,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anita Jendroszczyk,Instalacje i konstrukcje sanitarne,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anita Jendroszczyk,Sieci i instalacje sanitarne<br><strong>Siis</strong> (Sobota 08:00-09:30) - Sieci i instalacje sanitarne,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anita Jendroszczyk,Sieci i instalacje sanitarne<br><strong>Siis</strong> (Sobota 08:00-09:30) - Sieci i instalacje sanitarne,proj,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anita Jendroszczyk,Tech. i organizacja robót instlacyjnych,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Juraszek,Seminarium dyplomowe,sem,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Juraszek,Wytrzymałość materiałów 1,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anita Jendroszczyk,Sieci i instalacje sanitarne<br><strong>Siis</strong> (Sobota 08:00-09:30) - Sieci i instalacje sanitarne,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Juraszek,Metody obliczeniowe,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Juzwa,Zielona infrastruktura,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Juraszek,Wytrzymałość materiałów 1,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Janusz Juraszek,Seminarium dyplomowe,sem,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Juzwa,Mechanika gruntów,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Juzwa,Zielona infrastruktura,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Juzwa,Zielone budownictwo,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Juzwa,Fundamenty specjalne,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Juzwa,Zielona infrastruktura,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Juzwa,Zielona infrastruktura,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Juzwa,Zielone budownictwo,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Juzwa,Mechanika gruntów,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",Vacat 1 KB,Złożone konstrukcje betonowe 1<hr>C38 - oprócz laboratoriów magą być prowadzone zajecia projektowe lub ćw. audytoryjne,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",Vacat 1 KB,Konstrukcje betonowe 1,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",Vacat 1 KB,Konstrukcje betonowe 1,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",Vacat 1 KB,Złożone konstrukcje betonowe 1<hr>C38 - oprócz laboratoriów magą być prowadzone zajecia projektowe lub ćw. audytoryjne,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Katarzyna Kobiela-Mendrek,Ergonomia i BHP,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Katarzyna Kobiela-Mendrek,Prawo pracy i kontrola warunków pracy,ćw,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Katarzyna Kobiela-Mendrek,Niezawodność i bezpieczeństwo systemów inż.,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Katarzyna Kobiela-Mendrek,Prawo pracy i kontrola warunków pracy,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Katarzyna Kobiela-Mendrek,Niezawodność i bezpieczeństwo systemów inż.,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Katarzyna Kobiela-Mendrek,Prawo pracy i kontrola warunków pracy,ćw,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Katarzyna Kobiela-Mendrek,Podstawy metrologii,wyk,Inż mat
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Marek Kowolik,Metody obliczeniowe,lab,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Marek Kowolik,Złożone konstrukcje metalowe 1,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Marek Kowolik,Konstrukcje metalowe 2,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Marek Kowolik,Rysunek techniczny,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Systemy informacji przestrzennej,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Meteorologia i klimatologia,lab,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Planowanie przestrzenne,proj,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Systemy informacji przestrzennej,proj,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Marek Kowolik,Metody obliczeniowe,lab,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Meteorologia i klimatologia,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Fotografia w technikach inżynierskich - przedmiot humanistyczny/społeczny do wyboru 1,ćw,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Melioracje,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Mariusz Kuglarz,Systemy oczyszczania ścieków,lab,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Mariusz Kuglarz,Gospodarka odpadami,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Planowanie przestrzenne,proj,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Systemy informacji przestrzennej,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Fotografia w technikach inżynierskich - przedmiot humanistyczny/społeczny do wyboru 1,ćw,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Systemy informacji przestrzennej,proj,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Janusz Kozak,Meteorologia i klimatologia,lab,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Mariusz Kuglarz,Urządzenia do oczyszczania wody i ścieków,proj,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Mariusz Kuglarz,Gospodarka o obiegu zamkniętym,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Mariusz Kuglarz,Systemy oczyszczania ścieków,lab,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Mariusz Kuglarz,Gospodarka o obiegu zamkniętym,lab,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Mariusz Kuglarz,Gospodarka odpadami,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Mariusz Kuglarz,Gospodarka o obiegu zamkniętym,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Mariusz Kuglarz,Metody kontrolii wód i ścieków,lab,Ochr śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Tomasz Kukulski,Fizyka 2,lab,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Tomasz Kukulski,Fizyka,lab,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Alicja Machnicka,Biotechnologia wody i ścieków,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Alicja Machnicka,Seminarium dyplomowe,sem,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Alicja Machnicka,Biotechnologia wody i ścieków,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. Alicja Machnicka,Badania jakościowe wody użytkowej,wyk,Inż mat
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Gospodarka i ochrona wód,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Hydrologia,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Zarządzanie wodą w mieście,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Gospodarka i ochrona wód,proj,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Hydrologia,proj,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Hydraulika i hydrologia,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Budowle hydrotechniczne - przedmiot obieralny 2,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Zarządzanie wodą w mieście,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Hydrologia,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Gospodarka i ochrona wód,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Budowle hydrotechniczne - przedmiot obieralny 2,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Hydraulika i hydrologia,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Hydrologia i gospodarka wodna,wyk,Ochr śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Budowle hydrotechniczne - przedmiot obieralny 2,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Hydraulika i hydrologia,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Hydrologia i gospodarka wodna,lab,Ochr śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Hydrologia i gospodarka wodna,wyk,Ochr śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Marek Madzia,Hydrologia i gospodarka wodna,proj,Ochr śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Krzysztof Michalski,Organizacja i zarządzanie nowoczesnym przedsiębiorstwem wodno-kanalizacyjnym - przedmiot human./społ. 3,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Bożena Mrowiec,Monitoring środowiska,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Bożena Mrowiec,Technologia wody i ścieków,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Bożena Mrowiec,Systemy oczyszczania ścieków,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Bożena Mrowiec,Metody kontrolii wód i ścieków,ćw,Ochr śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Bożena Mrowiec,Monitoring środowiska,wyk,Ochr śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Bożena Mrowiec,Monitoring środowiska,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Bożena Mrowiec,Metody kontrolii wód i ścieków,wyk,Ochr śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Bożena Mrowiec,Monitoring środowiska,wyk,Ochr śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Bożena Mrowiec,Metody kontrolii wód i ścieków,ćw,Ochr śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Giang Nguyen,Fundamenty specjalne,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Giang Nguyen,Mechanika gruntów,lab,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Ewa Pietraszko,Ocena oddziaływania na środowisko<br><strong>Przeniesienie zajęć Oonś z godz.: 11:30 09.03</strong> - Przeniesienie zajęć Oonś z godz.: 11:30 09.03<br><strong>Rt</strong> - Rysunek techniczny,proj,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Ewa Pietraszko,Biotechnologia wody i ścieków,lab,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Ewa Pietraszko,Chemia środowiska,lab,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Ewa Pietraszko,Biotechnologia wody i ścieków,lab,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Ewa Pietraszko,Rt,proj,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Lucyna Przywara,Technologie proekologiczne,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Lucyna Przywara,Technologie proekologiczne,lab,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Lucyna Przywara,Technologia wody i ścieków,proj,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Lucyna Przywara,Niezawodność i bezpieczeństwo systemów inż.,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Lucyna Przywara,Technologie proekologiczne,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Rom,Sztuka wypowiedzi - przedmiot human./społ. 1,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Rom,Biomimetics,wyk,Inż mat
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Rom,Biomimetics,lab,Inż mat
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Rom,Biomimetics,wyk,Inż mat
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Salachna,Zarządzanie środowiskiem,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Salachna,Biologia i ekologia ogólna,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Salachna,Systemy zarządzania środowiskiem,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Salachna,Zarządzanie środowiskiem,ćw,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Salachna,Systemy zarządzania środowiskiem,ćw,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Salachna,Biologia i ekologia ogólna,lab,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Salachna,Biocenologia,ćw,Ochr śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Salachna,Biocenologia,lab,Ochr śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Salachna,Monitoring biologiczny i bioindykacja,lab,Ochr śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Zkb1,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Konstrukcje metalowe 1,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Grafika inżynierska z elementami CAD,lab,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Konstrukcje prefabrykowane i sprężone<br><strong>Zkb1</strong> - Złożone konstrukcje betonowe 1,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Konstrukcje betonowe 1,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Zkb1,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Konstrukcje prefabrykowane i sprężone<br><strong>Zkb1</strong> - Złożone konstrukcje betonowe 1,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Grafika inżynierska z elementami CAD,lab,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Konstrukcje betonowe 1,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Konstrukcje prefabrykowane i sprężone<br><strong>Zkb1</strong> - Złożone konstrukcje betonowe 1,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Konstrukcje drewniane,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Konstrukcje prefabrykowane i sprężone<br><strong>Zkb1</strong> - Złożone konstrukcje betonowe 1,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",mgr inż. Roman Siry,Konstrukcje metalowe 1,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Ewa Suchanek-Gabzdyl,Grafika inżynierska z elementami CAD,proj,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Ewa Suchanek-Gabzdyl,Zarządzanie wodą w mieście,proj,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Ewa Suchanek-Gabzdyl,Planowanie przestrzenne,proj,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Grafika inżynierska z elementami CAD,lab,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Prototypowanie 3D w budownictwie,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Architektura obiektów wielkogabarytowych - przedmiot human./społ. 2,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Prototypowanie 3D w budownictwie,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Grafika inżynierska z elementami CAD,lab,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Architektura dużej i małej skali - przedmiot human./społ.3,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Monitoring konstrukcji budowlanych,lab,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Rysunek techniczny,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Architektura dużej i małej skali - przedmiot human./społ.3,proj,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Podstawy budownictwa,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Architektura dużej i małej skali - przedmiot human./społ. 3,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Podstawy budownictwa,proj,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Wierzbińska,Monitoring środowiska,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Wierzbińska,Gospodarka odpadami,proj,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Hubert Walusiak,Architektura dużej i małej skali - przedmiot human./społ. 3,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Wierzbińska,Ochrona powietrza,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Wierzbińska,Ochrona powietrza,proj,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Wierzbińska,Monitoring środowiska,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Wierzbińska,Gospodarka odpadami,proj,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Monika Wierzbińska,Podstawy technologii przemysłowych<hr>C112 - laboratorium biologii środowiska,wyk,Ochr śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Mirosław Wyszomirski,Historia wynalazku - przedmiot human./społ. 2,wyk,Inż śr
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Mirosław Wyszomirski,Chemia środowiska,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Mirosław Wyszomirski,Alternatywne źródła energii,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Mirosław Wyszomirski,Historia wynalazku - przedmiot human./społ. 2,ćw,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Mirosław Wyszomirski,Chemia środowiska,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Mirosław Wyszomirski,Historia wynalazku - przedmiot human./społ. 2,wyk,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Żak,Budownictwo komunikacyjne,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Żak,Budownictwo komunikacyjne,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Jan Zamorowski,Konstrukcje drewniane,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Anna Żak,Budownictwo komunikacyjne,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Jan Zamorowski,Złożone konstrukcje metalowe 1,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Jan Zamorowski,Konstrukcje drewniane,wyk,Bud
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. UBB dr hab. inż. Jan Zamorowski,Konstrukcje metalowe 1,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. dr hab. Jan Żarnowiec,Biologia i ekologia ogólna,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. dr hab. Jan Żarnowiec,Biologia i ekologia ogólna,lab,Inż śr
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Konstrukcje murowe,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Budownictwo proekologiczne,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Budownictwo ogólne 2,wyk,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Budownictwo pasywne - przedmiot obieralny,proj,Bud
-"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Budownictwo proekologiczne,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",prof. dr hab. Jan Żarnowiec,Biologia i ekologia ogólna,wyk,Inż śr
 "Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Budownictwo ogólne 2,proj,Bud
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Prawo handlowe,wyk,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Zarządzanie społecznie odpowiedzialne,wyk,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Seminarium,sem,Zarz
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Budownictwo proekologiczne,wyk,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Budownictwo pasywne - przedmiot obieralny,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Konstrukcje murowe,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Budownictwo proekologiczne,proj,Bud
+"Wydział Inżynierii Materiałów, Budownictwa i Środowiska",dr inż. Henryk Żelazny,Budownictwo ogólne 2,wyk,Bud
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Ochrona własności intelektualnej,wyk,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Prawo,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Prawo handlowe,wyk,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Zarządzanie społecznie odpowiedzialne,ćw,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Prawo,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Seminarium,sem,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Zarządzanie społecznie odpowiedzialne,wyk,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Prawo gospodarcze,wyk,Inf
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Agnieszka Barcik,Prawo gospodarcze,wyk,ZiIP
 Wydział Zarządzania i Transportu,dr inż. Grzegorz Biesok,Zarządzanie jakością,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Grzegorz Biesok,Statystyka opisowa,ćw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Grzegorz Biesok,Statystyka opisowa,wyk,Zarz
+Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Logistyka dystrybucji,wyk,Zarz
+Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Zarządzanie logistyczne,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Menedżer logistyki miejskiej,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Nowoczesne koncepcje logistyczne,konw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Informatyka w zarządzaniu,wyk,Zarz
-Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Zarządzanie logistyczne,wyk,Zarz
-Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Logistyka dystrybucji,wyk,Zarz
+Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Zarządzanie mobilnością,wyk,Trans
+Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Systemy transportu zbiorowego,lab,Trans
 Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Zarządzanie mobilnością,proj,Trans
 Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Systemy transportu zbiorowego,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Systemy transportu zbiorowego,lab,Trans
-Wydział Zarządzania i Transportu,dr inż. Leszek Bylinko,Zarządzanie mobilnością,wyk,Trans
 Wydział Zarządzania i Transportu,dr Piotr Dziwiński,Zarządzanie projektami,ćw,Zarz
+Wydział Zarządzania i Transportu,dr Piotr Dziwiński,Projekty unijne,ćw,Zarz
 Wydział Zarządzania i Transportu,dr Piotr Dziwiński,Zarządzanie projektami,wyk,Zarz
 Wydział Zarządzania i Transportu,dr Piotr Dziwiński,Projekty unijne,wyk,Zarz
-Wydział Zarządzania i Transportu,dr Piotr Dziwiński,Projekty unijne,ćw,Zarz
 Wydział Zarządzania i Transportu,dr Piotr Dziwiński,Prawo autorskie,wyk,Trans
 Wydział Zarządzania i Transportu,dr Piotr Dziwiński,Ochrona własności intelektualnej,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Paulina Gajewska,Kreowanie przestrzeni zawodowej,konw,Zarz
-Wydział Zarządzania i Transportu,dr inż. Paulina Gajewska,Zarządzanie jakością usług,ćw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Paulina Gajewska,Zarządzanie jakością usług,wyk,Zarz
+Wydział Zarządzania i Transportu,dr inż. Paulina Gajewska,Zarządzanie jakością usług,ćw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Paulina Gajewska,Kreowanie przestrzeni zawodowej,konw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Paulina Gajewska,Zarządzanie jakością,ćw,Inż mat
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Podstawy logistyki,wyk,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Podstawy jakości,proj,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Branżowe systemy zarządzania,wyk,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Ocena systemów zarządzania,wyk,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Seminarium,sem,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Zarządzanie produktem,wyk,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Statystyka opisowa,ćw,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Podstawy logistyki,proj,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Zarządzanie kryzysowe,wyk,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Projektowanie systemów zarządzania jakością,wyk,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Zarządzanie jakością,ćw,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Podstawy logistyki,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Zarządzanie kryzysowe,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Ocena systemów zarządzania,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Projektowanie systemów zarządzania jakością,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Podstawy logistyki,proj,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Zarządzanie produktem,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Seminarium,sem,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Podstawy jakości,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Branżowe systemy zarządzania,wyk,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Marcin Jakubiec,Zarządzanie jakością,wyk,Inż mat
-Wydział Zarządzania i Transportu,dr inż. Dariusz Owsiak,Logistyka dystrybucji,ćw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Dariusz Owsiak,Zarządzanie zapasami,ćw,Zarz
-Wydział Zarządzania i Transportu,dr inż. Dariusz Owsiak,Zarządzanie zapasami,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Dariusz Owsiak,Informatyka w zarządzaniu,lab,Zarz
-Wydział Zarządzania i Transportu,dr inż. Jolanta Wyród-Wróbel,Zarządzanie projektami,ćw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Dariusz Owsiak,Zarządzanie zapasami,wyk,Zarz
+Wydział Zarządzania i Transportu,dr inż. Dariusz Owsiak,Logistyka dystrybucji,ćw,Zarz
+Wydział Zarządzania i Transportu,mgr inż. Barbara Słowiak,Informatyka w zarządzaniu,lab,Zarz
 Wydział Zarządzania i Transportu,dr inż. Jolanta Wyród-Wróbel,Zarządzanie projektami,proj,Zarz
-Wydział Zarządzania i Transportu,dr Tomasz Żyminkowski,Controlling,konw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Jolanta Wyród-Wróbel,Zarządzanie projektami,ćw,Zarz
 Wydział Zarządzania i Transportu,dr Tomasz Żyminkowski,Techniki operacyjne,ćw,Zarz
-Wydział Zarządzania i Transportu,dr Tomasz Żyminkowski,Techniki operacyjne,wyk,Zarz
 Wydział Zarządzania i Transportu,dr Tomasz Żyminkowski,Marketing,ćw,Zarz
+Wydział Zarządzania i Transportu,dr Tomasz Żyminkowski,Techniki operacyjne,wyk,Zarz
+Wydział Zarządzania i Transportu,dr Tomasz Żyminkowski,Controlling,konw,Zarz
 Wydział Zarządzania i Transportu,dr Tomasz Żyminkowski,Podstawy prowadzenia działalności gospodarczej / Podstawy przedsiębiorczości,ćw,Tur
 Wydział Zarządzania i Transportu,dr Tomasz Żyminkowski,Podstawy prowadzenia działalności gospodarczej / Podstawy przedsiębiorczości,wyk,Tur
+Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Podstawy socjologii,ćw,Analit
 Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Podstawy public relations,proj,Analit
 Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Socjologia reklamy / Psychologia reklamy,wyk,Analit
-Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Podstawy public relations,wyk,Analit
 Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Komunikacja wewnętrzna / Komunikacja w biznesie,proj,Analit
 Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Globalne procesy społeczne / Zjawiska globalne: teorie i interpretacje globalizacyjne,konw,Analit
-Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Podstawy socjologii,ćw,Analit
-Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Konwersatorium,konw,Soc
-Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Społeczeństwo informacyjne,ćw,Soc
-Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Zarządzanie zasobami ludzkimi,wr,Soc
-Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Seminarium licencjackie,sem,Soc
-Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Zarządzanie zasobami ludzkimi,wyk,Soc
+Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Podstawy public relations,wyk,Analit
 Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Podstawy public relations,proj,Soc
-Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Podstawy public relations,wyk,Soc
 Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Globalne procesy społeczne / Zjawiska globalne: teorie i interpretacje,konw,Soc
-Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Diversity management (w jęz. ang.),wyk,Zzl
+Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Społeczeństwo informacyjne,ćw,Soc
+Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Seminarium licencjackie,sem,Soc
+Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Zarządzanie zasobami ludzkimi,wr,Soc
+Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Zarządzanie zasobami ludzkimi,wyk,Soc
+Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Konwersatorium,konw,Soc
+Wydział Zarządzania i Transportu,dr Aneta Bąk-Szołucha,Podstawy public relations,wyk,Soc
 Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Diversity management (w jęz. ang.),proj,Zzl
+Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Diversity management (w jęz. ang.),wyk,Zzl
 Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Polityka edukacyjna i rynek pracy,wyk,Zzl
-Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Business Development Support Policy (w jęz.ang.),proj,Zarz
+Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Zarządzanie oświatą,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Small business (w jęz.ang.),ćw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Zarządzanie oświatą,ćw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Business Development Support Policy (w jęz.ang.),proj,Zarz
 Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Small business (w jęz.ang.),wyk,Zarz
-Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Zarządzanie oświatą,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Podstawy ekonomii,wyk,Trans
 Wydział Zarządzania i Transportu,dr inż. Beata Bieńkowska,Mikroekonomia,wyk,ZiIP
 Wydział Zarządzania i Transportu,dr Agnieszka Czerwińska-Lubszczyk,Przedsiębiorczość i innowacje,wr,Zzl
 Wydział Zarządzania i Transportu,dr Agnieszka Czerwińska-Lubszczyk,Kadry i płace,ćw,Zarz
 Wydział Zarządzania i Transportu,dr Agnieszka Czerwińska-Lubszczyk,Instytucje w UE,wyk,Zarz
 Wydział Zarządzania i Transportu,dr Agnieszka Czerwińska-Lubszczyk,Kadry i płace,wyk,Zarz
-Wydział Zarządzania i Transportu,dr Agnieszka Czerwińska-Lubszczyk,Makroekonomia,wyk,Analit
 Wydział Zarządzania i Transportu,dr Agnieszka Czerwińska-Lubszczyk,Makroekonomia,ćw,Analit
 Wydział Zarządzania i Transportu,dr Agnieszka Czerwińska-Lubszczyk,Przedsiębiorczość i innowacje,wyk,Analit
+Wydział Zarządzania i Transportu,dr Agnieszka Czerwińska-Lubszczyk,Makroekonomia,wyk,Analit
+Wydział Zarządzania i Transportu,dr Dominika Dusza,Finanse przedsiębiorstw,wyk,Zarz
+Wydział Zarządzania i Transportu,dr Dominika Dusza,Finanse zielonej transformacji,wyk,Zarz
 Wydział Zarządzania i Transportu,dr Dominika Dusza,Wprowadzenie do finansów międzynarodowych,ćw,Zarz
 Wydział Zarządzania i Transportu,dr Dominika Dusza,Finanse zielonej transformacji,ćw,Zarz
-Wydział Zarządzania i Transportu,dr Dominika Dusza,Finanse przedsiębiorstw,wyk,Zarz
 Wydział Zarządzania i Transportu,dr Dominika Dusza,Wprowadzenie do finansów międzynarodowych,wyk,Zarz
-Wydział Zarządzania i Transportu,dr Dominika Dusza,Finanse zielonej transformacji,wyk,Zarz
-Wydział Zarządzania i Transportu,dr Dominika Dusza,Analiza rynków finansowych,proj,Analit
 Wydział Zarządzania i Transportu,dr Dominika Dusza,Narzędzia w analizie ekonomicznej biznesu,ćw,Analit
 Wydział Zarządzania i Transportu,dr Dominika Dusza,Analiza rynków finansowych,wyk,Analit
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Mirosław Dzień,Seminarium,sem,Zarz
+Wydział Zarządzania i Transportu,dr Dominika Dusza,Analiza rynków finansowych,proj,Analit
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Mirosław Dzień,Etyka w administracji,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Mirosław Dzień,Filozofia,wyk,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Mirosław Dzień,Filozofia,ćw,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Mirosław Dzień,Etyka w administracji,ćw,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Mirosław Dzień,Filozofia,wyk,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Mirosław Dzień,Etyka w administracji,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Mirosław Dzień,Seminarium,sem,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Mirosław Dzień,Problemy etyczne w biznesie,konw,Analit
 Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Współczesne organizacje,ćw,Zzl
 Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Współczesne organizacje,wyk,Zzl
-Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Zarządzanie zasobami ludzkimi,ćw,Zarz
-Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Zarządzanie zasobami ludzkimi,wyk,Zarz
-Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Seminarium,sem,Zarz
-Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Zarządzanie karierą zawodową,ćw,Zarz
-Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Zarządzanie karierą zawodową,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,PR w administracji,ćw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Zarządzanie zasobami ludzkimi,ćw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Zarządzanie karierą zawodową,wyk,Zarz
+Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Zarządzanie karierą zawodową,ćw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Seminarium,sem,Zarz
 Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,PR w administracji,wyk,Zarz
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Metodologia w nauce,wyk,Analit
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Podstawy socjologii,wyk,Analit
+Wydział Zarządzania i Transportu,dr inż. Sylwia Gąsiorek-Madzia,Zarządzanie zasobami ludzkimi,wyk,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Seminarium licencjackie,sem,Analit
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Dynamika zmian współczesnego społeczeństwa polskiego,konw,Soc
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Wykład monograficzny,wyk,Soc
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Podstawy socjologii,wyk,Analit
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Metodologia w nauce,wyk,Analit
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Socjologia wizualna / Badanie obrazów społecznych,wyk,Soc
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Problemy etyczne w zawodzie socjologa,konw,Soc
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Socjologia wizualna / Badanie obrazów społecznych,proj,Soc
-Wydział Zarządzania i Transportu,dr Marcin Korzewski,Socjologia mediów / Mass media i nowe media,wyk,Analit
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Wykład monograficzny,wyk,Soc
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Problemy etyczne w zawodzie socjologa,konw,Soc
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Ireneusz Jeziorski,Dynamika zmian współczesnego społeczeństwa polskiego,konw,Soc
 Wydział Zarządzania i Transportu,dr Marcin Korzewski,Elementy socjotechniki / Inżynieria społeczna,proj,Analit
-Wydział Zarządzania i Transportu,dr Marcin Korzewski,Kultura organizacyjna / Kultura i wielokulturowość w biznesie,wyk,Analit
+Wydział Zarządzania i Transportu,dr Marcin Korzewski,Socjologia mediów / Mass media i nowe media,wyk,Analit
+Wydział Zarządzania i Transportu,dr Marcin Korzewski,Socjologia prawa / Socjologia problemów spolecznych,konw,Analit
 Wydział Zarządzania i Transportu,dr Marcin Korzewski,Socjologia mediów / Mass media i nowe media,proj,Analit
 Wydział Zarządzania i Transportu,dr Marcin Korzewski,Metody wizualne / Antropologia wizualna,wr,Analit
-Wydział Zarządzania i Transportu,dr Marcin Korzewski,Socjologia prawa / Socjologia problemów spolecznych,konw,Analit
+Wydział Zarządzania i Transportu,dr Marcin Korzewski,Kultura organizacyjna / Kultura i wielokulturowość w biznesie,wyk,Analit
 Wydział Zarządzania i Transportu,dr Marcin Korzewski,Metody wizualne / Antropologia wizualna,wyk,Analit
 Wydział Zarządzania i Transportu,dr Marcin Korzewski,Elementy socjotechniki / Inżynieria społeczna,proj,Soc
 Wydział Zarządzania i Transportu,dr Łukasz Kubisz-Muła,Procesy demograficzne,konw,Analit
 Wydział Zarządzania i Transportu,dr Łukasz Kubisz-Muła,Metody statystyczne 2,ćw,Analit
-Wydział Zarządzania i Transportu,dr Łukasz Kubisz-Muła,Analizy statystyczne na bazach danych,lab,Soc
 Wydział Zarządzania i Transportu,dr Łukasz Kubisz-Muła,Metody badań socjologicznych,proj,Soc
 Wydział Zarządzania i Transportu,dr Łukasz Kubisz-Muła,Projekt socjologiczny,proj,Soc
+Wydział Zarządzania i Transportu,dr Łukasz Kubisz-Muła,Analizy statystyczne na bazach danych,lab,Soc
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Dariusz Michalski,Wprowadzenie do finansów,ćw,Analit
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Dariusz Michalski,Wprowadzenie do finansów,wyk,Analit
-Wydział Zarządzania i Transportu,dr Grażyna Musialik,Rachunkowość zarządcza,ćw,Zarz
 Wydział Zarządzania i Transportu,dr Grażyna Musialik,Analiza portfelowa,ćw,Zarz
-Wydział Zarządzania i Transportu,dr Grażyna Musialik,Strategie finansowania organizacji,wyk,Zarz
-Wydział Zarządzania i Transportu,dr Grażyna Musialik,Rachunkowość zarządcza,wyk,Zarz
 Wydział Zarządzania i Transportu,dr Grażyna Musialik,Analiza przedsięwzięć inwestycyjnych firmy,wyk,Zarz
-Wydział Zarządzania i Transportu,dr Grażyna Musialik,Analiza portfelowa,wyk,Zarz
 Wydział Zarządzania i Transportu,dr Grażyna Musialik,Finanse przedsiębiorstw,ćw,Zarz
 Wydział Zarządzania i Transportu,dr Grażyna Musialik,Strategie finansowania organizacji,ćw,Zarz
+Wydział Zarządzania i Transportu,dr Grażyna Musialik,Rachunkowość zarządcza,wyk,Zarz
 Wydział Zarządzania i Transportu,dr Grażyna Musialik,Analiza przedsięwzięć inwestycyjnych firmy,ćw,Zarz
-Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Coaching / Podstawy coachingu i mentoringu,wr,Analit
-Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Komunikacja interpersonalna,wr,Analit
+Wydział Zarządzania i Transportu,dr Grażyna Musialik,Rachunkowość zarządcza,ćw,Zarz
+Wydział Zarządzania i Transportu,dr Grażyna Musialik,Analiza portfelowa,wyk,Zarz
+Wydział Zarządzania i Transportu,dr Grażyna Musialik,Strategie finansowania organizacji,wyk,Zarz
 Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Psychologia w biznesie,konw,Analit
+Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Komunikacja interpersonalna,wr,Analit
+Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Coaching / Podstawy coachingu i mentoringu,wr,Analit
 Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Budowanie zespołu / Metody pracy z grupą i zespołem,wr,Analit
-Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Konwersatorium,konw,Soc
-Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Motywowanie pracowników - uwarunkowania psychospołeczne / Psychologia gratyfikacji,wr,Soc
 Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Motywowanie pracowników - uwarunkowania psychospołeczne / Psychologia gratyfikacji,wyk,Soc
 Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Podstawy coachingu i mentoringu,wr,Soc
 Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Komunikacja interpersonalna,wr,Soc
+Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Konwersatorium,konw,Soc
+Wydział Zarządzania i Transportu,dr Katarzyna Piątek,Motywowanie pracowników - uwarunkowania psychospołeczne / Psychologia gratyfikacji,wr,Soc
 Wydział Zarządzania i Transportu,mgr Paweł Piecuch,Analiza modeli biznesowych,proj,Analit
 Wydział Zarządzania i Transportu,mgr Paweł Piecuch,Podstawy ekonomii,ćw,Trans
 Wydział Zarządzania i Transportu,mgr Paweł Piecuch,Mikroekonomia,ćw,ZiIP
-Wydział Zarządzania i Transportu,dr Joanna Wróblewska-Jachna,Metody prezentacji danych,lab,Analit
 Wydział Zarządzania i Transportu,dr Joanna Wróblewska-Jachna,Analiza polityk publicznych / Analiza polityk miejskich,proj,Analit
+Wydział Zarządzania i Transportu,dr Joanna Wróblewska-Jachna,Metody prezentacji danych,lab,Analit
 Wydział Zarządzania i Transportu,dr Agnieszka Zielińska,Interpersonal communication (w jęz. ang.),konw,Zzl
 Wydział Zarządzania i Transportu,dr Agnieszka Zielińska,Przedsiębiorczość i innowacje,proj,Analit
 Wydział Zarządzania i Transportu,mgr Dariusz Baran,Monitoring w systemach ITS,lab,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Krzysztof Brzozowski,Infrastruktura transportu,wyk,Trans
 Wydział Zarządzania i Transportu,mgr inż. Marcin Honkisz,Drony w turystyce,lab,Tur
 Wydział Zarządzania i Transportu,mgr inż. Marcin Honkisz,Bezzałogowe statki powietrzne,lab,Trans
-Wydział Zarządzania i Transportu,mgr inż. Marcin Honkisz,Podstawy automatyzacji procesów,lab,Trans
 Wydział Zarządzania i Transportu,mgr inż. Marcin Honkisz,Sterowanie i monitoring,lab,Trans
+Wydział Zarządzania i Transportu,mgr inż. Marcin Honkisz,Podstawy automatyzacji procesów,lab,Trans
 Wydział Zarządzania i Transportu,mgr inż. Tomasz Konior,Monitoring w systemach ITS,wyk,Trans
 Wydział Zarządzania i Transportu,mgr inż. Tomasz Konior,Systemy sterowania ruchem drogowym,lab,Trans
+Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Zarządzanie łańcuchem dostaw,wyk,Trans
+Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Systemy zarządzania jakością w transporcie,wyk,Trans
+Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Logistyka zaopatrzenia,wyk,Trans
 Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Zarządzanie przedsiębiorstwem logistycznym,wyk,Trans
 Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Systemy zarządzania jakością w transporcie,proj,Trans
-Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Logistyka,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Logistyka zaopatrzenia,wyk,Trans
 Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Seminarium dyplomowe I,sem,Trans
-Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Systemy zarządzania jakością w transporcie,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Zarządzanie łańcuchem dostaw,wyk,Trans
+Wydział Zarządzania i Transportu,dr inż. Mariusz Kubański,Logistyka,wyk,Trans
 Wydział Zarządzania i Transportu,mgr inż. Wiktoria Loga-Księska,Oprogramowanie użytkowe,lab,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Maczyński,Podstawy automatyzacji procesów,wyk,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Maczyński,Sterowanie i monitoring,wyk,Trans
-Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Maczyński,Budowa środków transportu,wyk,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Maczyński,Systemy sterowania ruchem drogowym,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Jerzy Płosa,Drgania mechaniczne,ćw,Trans
-Wydział Zarządzania i Transportu,dr inż. Jerzy Płosa,Drgania mechaniczne,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Jerzy Płosa,Mechanika techniczna III,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Jerzy Płosa,Seminarium dyplomowe I,sem,Trans
+Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Maczyński,Budowa środków transportu,wyk,Trans
 Wydział Zarządzania i Transportu,dr inż. Jerzy Płosa,Mechanika techniczna III,ćw,Trans
-Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Pomiary inżynierskie,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Pomiary inżynierskie,lab,Trans
-Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Metodyka prowadzenia projektów badawczo-rozwojowych,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Inżynieria ruchu,lab,Trans
-Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Inżynieria ruchu,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Pomiary potoków ruchu,wyk,Trans
-Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Oprogramowanie użytkowe,wyk,Trans
+Wydział Zarządzania i Transportu,dr inż. Jerzy Płosa,Drgania mechaniczne,ćw,Trans
+Wydział Zarządzania i Transportu,dr inż. Jerzy Płosa,Seminarium dyplomowe I,sem,Trans
+Wydział Zarządzania i Transportu,dr inż. Jerzy Płosa,Mechanika techniczna III,wyk,Trans
+Wydział Zarządzania i Transportu,dr inż. Jerzy Płosa,Drgania mechaniczne,wyk,Trans
 Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Metodyka prowadzenia projektów badawczo-rozwojowych,proj,Trans
+Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Inżynieria ruchu,lab,Trans
+Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Pomiary potoków ruchu,wyk,Trans
+Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Pomiary inżynierskie,lab,Trans
+Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Oprogramowanie użytkowe,wyk,Trans
+Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Inżynieria ruchu,wyk,Trans
+Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Pomiary inżynierskie,wyk,Trans
+Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Metodyka prowadzenia projektów badawczo-rozwojowych,wyk,Trans
 Wydział Zarządzania i Transportu,dr inż. Artur Ryguła,Pomiary potoków ruchu,work,Trans
 Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Drony w turystyce,wyk,Tur
 Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Infrastruktura transportu,proj,Trans
-Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Bezzałogowe statki powietrzne,wyk,Trans
 Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Logistyka zaopatrzenia,ćw,Trans
+Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Rozwiązania proekologiczne w logistyce,ćw,Trans
+Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Zarządzanie łańcuchem dostaw,ćw,Trans
+Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Bezzałogowe statki powietrzne,wyk,Trans
 Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Zarządzanie przedsiębiorstwem logistycznym,proj,Trans
 Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Logistyka,proj,Trans
-Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Zarządzanie łańcuchem dostaw,ćw,Trans
-Wydział Zarządzania i Transportu,mgr inż. Justyna Sordyl,Rozwiązania proekologiczne w logistyce,ćw,Trans
 Wydział Zarządzania i Transportu,dr inż. Irena Dudzik-Lewicka,Zarządzanie strategiczne,ćw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Irena Dudzik-Lewicka,Zarządzanie strategiczne,wyk,Zarz
-Wydział Zarządzania i Transportu,dr inż. Irena Dudzik-Lewicka,Desing thinking,wyk,Tur
 Wydział Zarządzania i Transportu,dr inż. Irena Dudzik-Lewicka,Desing thinking,ćw,Tur
-Wydział Zarządzania i Transportu,dr inż. Irena Dudzik-Lewicka,Przedsiębiorczość,wyk,Kom int
+Wydział Zarządzania i Transportu,dr inż. Irena Dudzik-Lewicka,Desing thinking,wyk,Tur
 Wydział Zarządzania i Transportu,dr inż. Irena Dudzik-Lewicka,Przedsiębiorczość,ćw,Kom int
+Wydział Zarządzania i Transportu,dr inż. Irena Dudzik-Lewicka,Przedsiębiorczość,wyk,Kom int
 Wydział Zarządzania i Transportu,dr Honorata Howaniec,Społeczna odpowiedzialność biznesu,konw,Zarz
-Wydział Zarządzania i Transportu,dr Honorata Howaniec,Biznes plan,ćw,Zarz
-Wydział Zarządzania i Transportu,dr Honorata Howaniec,Psychologia w zarządzaniu,konw,Zarz
 Wydział Zarządzania i Transportu,dr Honorata Howaniec,Biznes plan,wyk,Zarz
+Wydział Zarządzania i Transportu,dr Honorata Howaniec,Psychologia w zarządzaniu,konw,Zarz
+Wydział Zarządzania i Transportu,dr Honorata Howaniec,Biznes plan,ćw,Zarz
 Wydział Zarządzania i Transportu,dr Honorata Howaniec,Podstawy marketingu,ćw,Kom int
 Wydział Zarządzania i Transportu,prof. dr hab. Irena Jędrzejczyk,Seminarium,sem,Zarz
-Wydział Zarządzania i Transportu,dr inż. Ewa Lipianin-Zontek,Zarządzanie produktem,wyk,Zarz
-Wydział Zarządzania i Transportu,dr inż. Ewa Lipianin-Zontek,Strategie marketingowe,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Ewa Lipianin-Zontek,Strategie marketingowe,ćw,Zarz
-Wydział Zarządzania i Transportu,dr inż. Ewa Lipianin-Zontek,Turystyka w sektorze publicznym / Instytucje rynkowe w turystyce,wyk,Tur
+Wydział Zarządzania i Transportu,dr inż. Ewa Lipianin-Zontek,Strategie marketingowe,wyk,Zarz
+Wydział Zarządzania i Transportu,dr inż. Ewa Lipianin-Zontek,Zarządzanie produktem,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Ewa Lipianin-Zontek,Turystyka w sektorze publicznym / Instytucje rynkowe w turystyce,ćw,Tur
+Wydział Zarządzania i Transportu,dr inż. Ewa Lipianin-Zontek,Turystyka w sektorze publicznym / Instytucje rynkowe w turystyce,wyk,Tur
 Wydział Zarządzania i Transportu,dr inż. Ewa Lipianin-Zontek,Content marketing,ćw,Kom int
-Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Otoczenie kulturowe w biznesie,wyk,Zarz
-Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Zarządzanie ryzykiem,ćw,Zarz
-Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Savoir vivre w biznesie,ćw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Zarządzanie ryzykiem,wyk,Zarz
+Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Savoir vivre w biznesie,ćw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Otoczenie kulturowe w biznesie,ćw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Zarządzanie ryzykiem,ćw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Nauka o organizacji,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Savoir vivre w biznesie,wyk,Zarz
-Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Otoczenie kulturowe w biznesie,ćw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Otoczenie kulturowe w biznesie,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Zarządzanie przedsiębiorstwem turystycznym,wyk,Tur
 Wydział Zarządzania i Transportu,dr inż. Aneta Madyda,Zarządzanie przedsiębiorstwem turystycznym,ćw,Tur
 Wydział Zarządzania i Transportu,dr inż. Irena Szewczyk,Techniki menedżerskie,ćw,Zarz
@@ -1288,38 +1320,38 @@ Wydział Zarządzania i Transportu,dr inż. Irena Szewczyk,Nauka o organizacji,�
 Wydział Zarządzania i Transportu,dr inż. Irena Szewczyk,Techniki menedżerskie,wyk,Zarz
 Wydział Zarządzania i Transportu,dr inż. Irena Szewczyk,Architektura oganizacji,konw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Irena Szewczyk,Ofertowanie usług turystycznych,proj,Tur
-Wydział Zarządzania i Transportu,dr inż. Zbigniew Zontek,Marketing w handlu i usługach,ćw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Zbigniew Zontek,Marketing w handlu i usługach,wyk,Zarz
+Wydział Zarządzania i Transportu,dr inż. Zbigniew Zontek,Marketing w handlu i usługach,ćw,Zarz
 Wydział Zarządzania i Transportu,dr inż. Zbigniew Zontek,Podstawy marketingu / E-marketing,wyk,Soc
 Wydział Zarządzania i Transportu,dr inż. Zbigniew Zontek,Zachowania konsumentów usług turystycznych / Prosument w usługach turystycznych,ćw,Tur
-Wydział Zarządzania i Transportu,dr inż. Zbigniew Zontek,Metody badań jakościowych,ćw,Kom int
 Wydział Zarządzania i Transportu,dr inż. Zbigniew Zontek,Metody badań jakościowych,wyk,Kom int
 Wydział Zarządzania i Transportu,dr inż. Zbigniew Zontek,Content marketing,wyk,Kom int
-Wydział Zarządzania i Transportu,prof. UBB dr hab. Katarzyna Żyminkowska,Marketing internetowy,ćw,Zarz
+Wydział Zarządzania i Transportu,dr inż. Zbigniew Zontek,Metody badań jakościowych,ćw,Kom int
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Katarzyna Żyminkowska,Marketing internetowy,wyk,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Katarzyna Żyminkowska,Marketing,wyk,Zarz
+Wydział Zarządzania i Transportu,prof. UBB dr hab. Katarzyna Żyminkowska,Marketing internetowy,ćw,Zarz
 Wydział Zarządzania i Transportu,prof. UBB dr hab. Katarzyna Żyminkowska,Reklama kontekstowa,ćw,Kom int
-Wydział Zarządzania i Transportu,prof. dr hab. n. t. Iwona Adamiec-Wójcik,Metody matematyczne w transporcie,lab,Trans
 Wydział Zarządzania i Transportu,prof. dr hab. n. t. Iwona Adamiec-Wójcik,Metody matematyczne w transporcie,wyk,Trans
 Wydział Zarządzania i Transportu,prof. dr hab. n. t. Iwona Adamiec-Wójcik,Contemporary transport systems (w jęz. ang.),wyk,Trans
+Wydział Zarządzania i Transportu,prof. dr hab. n. t. Iwona Adamiec-Wójcik,Metody matematyczne w transporcie,lab,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Lucyna Brzozowska,Podstawy grafiki komputerowej,lab,Soc
-Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Lucyna Brzozowska,Podstawy programowania,lab,Trans
-Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Lucyna Brzozowska,Ochrona środowiska w transporcie,ćw,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Lucyna Brzozowska,Ochrona środowiska w transporcie,wyk,Trans
-Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,Zastosowanie GIS w logistyce,wyk,Trans
+Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Lucyna Brzozowska,Ochrona środowiska w transporcie,ćw,Trans
+Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Lucyna Brzozowska,Podstawy programowania,lab,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,Zastosowanie GIS w logistyce,lab,Trans
-Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,Prezentacja wyników badań,konw,Trans
-Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,Podstawy programowania,lab,Trans
-Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,Podstawy programowania,wyk,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,SIP w transporcie,wyk,Trans
+Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,Zastosowanie GIS w logistyce,wyk,Trans
+Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,Podstawy programowania,lab,Trans
+Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,Prezentacja wyników badań,konw,Trans
+Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,Podstawy programowania,wyk,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Łukasz Drąg,SIP w transporcie,lab,Trans
 Wydział Zarządzania i Transportu,mgr inż. Leonard Grinke,Bazy danych w logistyce,wyk,Trans
-Wydział Zarządzania i Transportu,mgr inż. Leonard Grinke,Bazy danych w logistyce,lab,Trans
 Wydział Zarządzania i Transportu,mgr inż. Leonard Grinke,Contemporary transport systems (w jęz. ang.),lab,Trans
+Wydział Zarządzania i Transportu,mgr inż. Leonard Grinke,Bazy danych w logistyce,lab,Trans
 Wydział Zarządzania i Transportu,mgr inż. Leonard Grinke,Bazy danych II,lab,Inf
-Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Nowak,Grafika inżynierska,lab,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Nowak,Grafika inżynierska,wyk,Trans
-Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Nowak,Bazy danych,wyk,AiR
+Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Nowak,Grafika inżynierska,lab,Trans
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Nowak,Bazy danych,lab,AiR
-Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Nowak,Bazy danych II,wyk,Inf
+Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Nowak,Bazy danych,wyk,AiR
 Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Nowak,Bazy danych II,lab,Inf
+Wydział Zarządzania i Transportu,prof. UBB dr hab. inż. Andrzej Nowak,Bazy danych II,wyk,Inf
