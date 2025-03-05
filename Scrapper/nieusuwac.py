@@ -17,56 +17,33 @@ wait = WebDriverWait(driver, 15)
 results_set = set()  # Zbiór do przechowywania unikalnych wpisów jako krotki
 results = []  # Lista do przechowywania wyników w formacie słowników
 processed_dept_ids = set()
-initial_week = None
 
-def get_initial_week():
-    global initial_week
+# Funkcja do ustawienia konkretnego tygodnia
+def set_week(week_id):
     try:
         week_select = driver.find_element(By.ID, "wBWeek")
-        selected_option = week_select.find_element(By.CSS_SELECTOR, "option[selected]")
-        initial_week = selected_option.get_attribute("value")
-    except Exception as e:
-        print(f"Nie udało się pobrać początkowego tygodnia: {e}")
-
-def reset_week():
-    try:
-        if initial_week is None:
-            return
-        week_select = driver.find_element(By.ID, "wBWeek")
-        initial_option = week_select.find_element(By.CSS_SELECTOR, f"option[value='{initial_week}']")
-        driver.execute_script("arguments[0].selected = true;", initial_option)
+        week_option = week_select.find_element(By.CSS_SELECTOR, f"option[value='{week_id}']")
+        driver.execute_script("arguments[0].selected = true;", week_option)
         
         show_button = driver.find_element(By.ID, "wBButton")
         show_button.click()
-        time.sleep(1)
+        time.sleep(1)  # Poczekaj na załadowanie strony
+        print(f"    Ustawiono tydzień: {week_id}")
     except Exception as e:
-        print(f"Nie udało się zresetować tygodnia: {e}")
+        print(f"    Nie udało się ustawić tygodnia {week_id}: {e}")
 
-def change_week():
-    try:
-        week_select = driver.find_element(By.ID, "wBWeek")
-        selected_option = week_select.find_element(By.CSS_SELECTOR, "option[selected]")
-        next_week_value = str(int(selected_option.get_attribute("value")) + 1)
-        
-        next_week_option = week_select.find_element(By.CSS_SELECTOR, f"option[value='{next_week_value}']")
-        driver.execute_script("arguments[0].selected = true;", next_week_option)
-        
-        show_button = driver.find_element(By.ID, "wBButton")
-        show_button.click()
-        
-        time.sleep(1)
-    except Exception as e:
-        print(f"Nie udało się zmienić tygodnia: {e}")
-
+# Funkcja do pobierania planu zajęć dla nauczyciela
 def get_schedule(url, faculty_name):
-    global initial_week, results_set, results
+    global results_set, results
     driver.get(url)
     time.sleep(1)
     
-    if initial_week is None:
-        get_initial_week()
+    # Lista tygodni do przetworzenia
+    weeks = ["706", "707", "708"]
     
-    for i in range(2):
+    for week_id in weeks:
+        set_week(week_id)  # Ustawiamy tydzień
+        
         title_divs = driver.find_elements(By.CLASS_NAME, "title")
         full_title = title_divs[-1].text if title_divs else "Nie znaleziono prowadzącego"
         
@@ -75,8 +52,8 @@ def get_schedule(url, faculty_name):
         
         legend_exists = driver.find_elements(By.ID, "legend")
         if not legend_exists:
-            print(f"    Brak legendy w planie dla {lecturer}. Pomijam.")
-            return lecturer, {}
+            print(f"    Brak legendy w planie dla {lecturer} (tydzień {week_id}). Pomijam.")
+            continue
         
         legend_data = driver.find_element(By.ID, "legend").get_attribute("innerHTML")
         legend_matches = re.findall(r'<strong>([\w\s()/]+)</strong>\s*(?:\([^)]*\))?\s*-\s*(.*?),', legend_data)
@@ -117,20 +94,15 @@ def get_schedule(url, faculty_name):
                 }
                 if "Brak danych" not in entry_dict.values():
                     if entry_tuple not in results_set:  # Sprawdzanie duplikatów
-                        print(f"    Zapisuję unikalny wpis: {entry_dict}")
+                        print(f"    Zapisuję unikalny wpis (tydzień {week_id}): {entry_dict}")
                         results_set.add(entry_tuple)
                         results.append(entry_dict)
                     else:
-                        print(f"    Pomijam duplikat: {entry_dict}")
+                        print(f"    Pomijam duplikat (tydzień {week_id}): {entry_dict}")
                 else:
-                    print(f"    Pomijam wpis z 'Brak danych': {entry_dict}")
-        
-        if i == 0:
-            change_week()
-    
-    reset_week()
-    return lecturer, schedule
+                    print(f"    Pomijam wpis z 'Brak danych' (tydzień {week_id}): {entry_dict}")
 
+    return lecturer, schedule
 
 # Funkcja do przetwarzania katedry
 def process_department(dept_id, faculty_name, faculty_id, branch_param):
