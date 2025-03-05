@@ -1,2 +1,2 @@
 # PZPP
-projektowanie jakieś planu :)
+Tu coś się jeszcze pojawi :)
