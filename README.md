@@ -24,7 +24,7 @@ Aby uruchomić ten projekt, postępuj zgodnie z poniższymi krokami:
 
 ### Scrapowanie harmonogramu
 1. Otwórz terminal i przejdź do folderu Scraper:  
-   `cd Scraper`
+   `cd Scrapper`
 2. Aktywuj środowisko wirtualne (jeśli nie istnieje, utwórz je za pomocą: `python -m venv venv`):  
    Windows: `venv\Scripts\activate`  
    Linux/macOS: `source venv/bin/activate`
@@ -58,3 +58,11 @@ Aby uruchomić ten projekt, postępuj zgodnie z poniższymi krokami:
    `npm install axios`
 4. Uruchom aplikację React:  
    `npm start`
+
+   Frontend będzie dostępny pod adresem `http://localhost:3000`.
+
+## Dodatkowe informacje
+- Jeśli podczas uruchamiania scrapera Selenium wymaga pobrania sterownika przeglądarki, Webdriver Manager zrobi to automatycznie.
+- Plik `schedule_all.csv` jest kluczowy dla działania backendu – upewnij się, że znajduje się w odpowiednim katalogu.
+- Jeśli napotkasz problemy z uruchomieniem, sprawdź wersje wymaganych pakietów i upewnij się, że środowisko wirtualne jest aktywne.
+
