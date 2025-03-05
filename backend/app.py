@@ -8,9 +8,9 @@ CORS(app)  # Włączenie CORS
 # Połączenie z SQL Server
 conn_str = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
-    "SERVER=DESKTOP-4SOLSPV\SQLEXPRESS;"  # Zmień na nazwę swojego serwera, np. "localhost\SQLEXPRESS"
-    "DATABASE=Plan_Zajec;"  # Nazwa bazy danych
-    "Trusted_Connection=yes;"  # Uwierzytelnienie Windows
+    "SERVER=DESKTOP-4SOLSPV\SQLEXPRESS;"  
+    "DATABASE=Plan_Zajec;"  
+    "Trusted_Connection=yes;" 
 )
 
 # Endpoint: Pobieranie listy wydziałów
