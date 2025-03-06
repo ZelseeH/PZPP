@@ -8,10 +8,11 @@ h1 {
   color: #333;
   margin-bottom: 20px;
 }
+
 .form-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center; /* Wyśrodkowanie */
+  justify-content: center;
   align-items: center;
   gap: 15px;
   margin-bottom: 20px;
@@ -23,11 +24,11 @@ h1 {
   align-items: flex-start;
 }
 
-
 .form-group label {
   margin-bottom: 5px;
   font-weight: bold;
 }
+
 .form-group select {
   padding: 8px;
   font-size: 16px;
@@ -35,8 +36,6 @@ h1 {
   border: 1px solid #ccc;
   min-width: 250px;
 }
-
-
 
 button {
   padding: 10px 20px;
@@ -47,7 +46,7 @@ button {
   border-radius: 4px;
   cursor: pointer;
   transition: background-color 0.3s;
-  max-height: 40px; /* Dopasowanie do inputów */
+  max-height: 40px;
 }
 
 button:hover {
@@ -62,6 +61,7 @@ button:disabled {
 button:hover:not(:disabled) {
   background-color: #0056b3;
 }
+
 .error {
   color: red;
   margin-top: 10px;
@@ -101,4 +101,9 @@ tr:nth-child(even) {
 
 tr:hover {
   background-color: #f1f1f1;
+}
+
+/* Nowa klasa dla pierwszego wiersza */
+.highlight-first {
+  background-color: #90ee90; /* Jasnozielony kolor */
 }
