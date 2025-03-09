@@ -1,2 +1,0 @@
-# PZPP
-projektowanie jakieś planu :)
