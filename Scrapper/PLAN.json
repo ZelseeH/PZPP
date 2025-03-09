@@ -1,0 +1,4374 @@
+{
+  "Jednostki Międzywydziałowe": {
+    "S1 Studium Języków Obcych": {
+      "Język obcy (drugi) II": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Broda Urszula",
+          "Galas-Jędruch Sabina"
+        ]
+      },
+      "Język obcy II": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Broda Urszula",
+          "Bury Beata",
+          "Byrska-Cebrat Aleksandra",
+          "Ciudziński Jerzy",
+          "Galas-Jędruch Sabina",
+          "Górny Ewa",
+          "Markowska-Kwiatkowska Stanisława",
+          "Morawska-Gacek Marzena",
+          "Pietras-Sadłek Marzena",
+          "Szewczyk Ilona"
+        ]
+      },
+      "Lektorat języka obcego (jęz. niemiecki / włoski)": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Broda Urszula",
+          "Bury Beata",
+          "Galas-Jędruch Sabina",
+          "Markowska-Kwiatkowska Stanisława",
+          "Pietras-Sadłek Marzena",
+          "Szwabowicz-Janosz Agnieszka"
+        ]
+      },
+      "Język angielski, 3h przez 10 tyg.": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Bury Beata",
+          "Ciudziński Jerzy",
+          "Kowalska Magdalena"
+        ]
+      },
+      "Język angielski I": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Bury Beata",
+          "Góralczyk-Rajewska Beata"
+        ]
+      },
+      "Język angielski II": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Bury Beata",
+          "Góralczyk-Rajewska Beata",
+          "Misik Jolanta",
+          "Morawska-Gacek Marzena",
+          "Świtka Barbara",
+          "Szewczyk Ilona"
+        ]
+      },
+      "Język obcy": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Bury Beata",
+          "Byrska-Cebrat Aleksandra",
+          "Ciudziński Jerzy",
+          "Góralczyk-Rajewska Beata",
+          "Górny Ewa",
+          "Gradowska Agnieszka",
+          "Misik Jolanta",
+          "Morawska-Gacek Marzena",
+          "Pietras-Sadłek Marzena",
+          "Szewczyk Ilona",
+          "Szwabowicz-Janosz Agnieszka"
+        ]
+      },
+      "Konsultacje (L)": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Bury Beata",
+          "Góralczyk-Rajewska Beata",
+          "Misik Jolanta",
+          "Morawska-Gacek Marzena",
+          "Pietras-Sadłek Marzena",
+          "Szwabowicz-Janosz Agnieszka"
+        ]
+      },
+      "Język obcy 1": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Byrska-Cebrat Aleksandra",
+          "Gradowska Agnieszka"
+        ]
+      },
+      "Język obcy 3": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Byrska-Cebrat Aleksandra",
+          "Ciudziński Jerzy"
+        ]
+      },
+      "Język obcy IV": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Ciudziński Jerzy",
+          "Galas-Jędruch Sabina",
+          "Górny Ewa",
+          "Morawska-Gacek Marzena",
+          "Szewczyk Ilona"
+        ]
+      },
+      "Język łaciński z elem. kultury antycznej": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Gawlik Agnieszka"
+        ]
+      },
+      "Język angielski / Język angielski III": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Góralczyk-Rajewska Beata",
+          "Gradowska Agnieszka",
+          "Koczur Agnieszka",
+          "Misik Jolanta"
+        ]
+      },
+      "Język angielski IV": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Góralczyk-Rajewska Beata",
+          "Koczur Agnieszka",
+          "Kowalska Magdalena",
+          "Misik Jolanta",
+          "Morawska-Gacek Marzena",
+          "Świtka Barbara",
+          "Szewczyk Ilona",
+          "Szwabowicz-Janosz Agnieszka"
+        ]
+      },
+      "Język obcy / Język obcy 3": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Góralczyk-Rajewska Beata",
+          "Pietras-Sadłek Marzena"
+        ]
+      },
+      "Język angielski / Język angielski ekonomiczny": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Gradowska Agnieszka",
+          "Koczur Agnieszka",
+          "Szewczyk Ilona"
+        ]
+      },
+      "UTW - lektorat 3.02-26.05.2025": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Gradowska Agnieszka"
+        ]
+      },
+      "UTW - lektorat 06.02-29.05.2025": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Kordos Bożena"
+        ]
+      },
+      "UTW - lektorat 5.02-28.05.2025": {
+        "Typ": "lektorat",
+        "Koordynatorzy": [
+          "Kordos Bożena"
+        ]
+      },
+      "Business communication / Translation in business (w jęz. ang.)": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Świtka Barbara",
+          "Szewczyk Ilona"
+        ]
+      }
+    },
+    "S2 Studium Wychowania Fizycznego i Sportu": {
+      "Wychowanie Fizyczne": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Cyran Janusz",
+          "Kędzior Jolanta",
+          "Targosz Piotr"
+        ]
+      },
+      "Wychowanie fizyczne II": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Gradowski Paweł"
+        ]
+      }
+    }
+  },
+  "Wydział Budowy Maszyn i Informatyki": {
+    "K11 Matematyki": {
+      "Analiza matematyczna II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kotrys Dawid",
+          "Micherda Bartosz"
+        ]
+      },
+      "Matematyka II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Adamek Mirosław",
+          "Kotrys Dawid",
+          "Zgraja Tomasz"
+        ]
+      },
+      "Matematyka inżynierska II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Adamek Mirosław",
+          "Wąsowicz Szymon",
+          "Zgraja Tomasz"
+        ]
+      },
+      "Metody probabilistyczne i statystyka": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Adamek Mirosław"
+        ]
+      },
+      "Statystyka i probabilistyka": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Adamek Mirosław",
+          "Micherda Bartosz"
+        ]
+      },
+      "Statystyka opisowa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Adamek Mirosław"
+        ]
+      },
+      "Matematyka": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Micherda Bartosz",
+          "Zgraja Tomasz"
+        ]
+      },
+      "Algorytmy i struktury danych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Mrowiec Jacek"
+        ]
+      },
+      "Teoria informacji i kodowanie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Mrowiec Jacek"
+        ]
+      },
+      "Mathematical analysis (przedmiot obieralny)": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Śliwińska Dorota"
+        ]
+      },
+      "Metody probablistyczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wąsowicz Szymon"
+        ]
+      },
+      "Discrete Mathematics": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zgraja Tomasz"
+        ]
+      },
+      "Sesja egzaminacyjna 27.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Zgraja Tomasz"
+        ]
+      },
+      "Sesja egzaminacyjna 28.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Zgraja Tomasz"
+        ]
+      },
+      "Zaawansowana matematyka": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zgraja Tomasz"
+        ]
+      }
+    },
+    "K14 Podstaw Budowy Maszyn": {
+      "Programowanie IV": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Augustynek Krzysztof"
+        ]
+      },
+      "Programowanie dla Internetu w technologii ASP.NET": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Augustynek Krzysztof"
+        ]
+      },
+      "Podstawy konstrukcji maszyn": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Augustynek Krzysztof"
+        ]
+      },
+      "Systemy rozproszone": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Augustynek Krzysztof"
+        ]
+      },
+      "Monitoring w przemyśle": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bebek Ewa"
+        ]
+      },
+      "Programowalne sterowniki PAC": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bebek Ewa"
+        ]
+      },
+      "Sterowanie sekwencyjne": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Bebek Ewa"
+        ]
+      },
+      "Systemy wizualizacji SCADA": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bebek Ewa",
+          "Sidzina Marcin"
+        ]
+      },
+      "Układy przełączające": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bebek Ewa"
+        ]
+      },
+      "Inżynierskie metody optymalizacji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Danielczyk Piotr"
+        ]
+      },
+      "Modelowanie wspomagające projektowanie maszyn": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Danielczyk Piotr"
+        ]
+      },
+      "Podstawy CAD i modelowanie 3D": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Danielczyk Piotr",
+          "Marszałek Jerzy"
+        ]
+      },
+      "Projektowanie generatywne": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Danielczyk Piotr"
+        ]
+      },
+      "Wybrane zagadnienia z konstrukcji maszyn": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Drewniak Józef"
+        ]
+      },
+      "Języki wysokiego poziomu w mechatronice": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Jabłoński Adam",
+          "Sidzina Marcin"
+        ]
+      },
+      "Mechatronika": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Jabłoński Adam"
+        ]
+      },
+      "Podstawy robotyki II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kopeć Jerzy"
+        ]
+      },
+      "Drgania mechaniczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Janusz Jarosław"
+        ]
+      },
+      "Podstawy automatyki i robotyki": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Janusz Jarosław"
+        ]
+      },
+      "Podstawy teorii sygnałów i systemów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Janusz Jarosław"
+        ]
+      },
+      "Metaloznawstwo II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jędrzejczyk Dariusz",
+          "Rajzer Izabella"
+        ]
+      },
+      "Nauka o materiałach I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jędrzejczyk Dariusz",
+          "Rajzer Izabella"
+        ]
+      },
+      "Przemysł 4.0": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jędrzejczyk Dariusz"
+        ]
+      },
+      "Współczesne materiały inżynierskie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jędrzejczyk Dariusz"
+        ]
+      },
+      "Mechanika płynów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kopeć Jerzy"
+        ]
+      },
+      "Podstawy konstrukcji maszyn II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Praszkiewicz Marek"
+        ]
+      },
+      "Mechanika płynów I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kopeć Jerzy"
+        ]
+      },
+      "Sieci neuronowe w automatyce": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Kopeć Jerzy"
+        ]
+      },
+      "Urządzenia pneumatyczne i hydrauliczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kopeć Jerzy"
+        ]
+      },
+      "Wytrzymałość materiałów I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pawlus Dorota"
+        ]
+      },
+      "Seminarium dyplomowe I": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Kłosiński Jacek"
+        ]
+      },
+      "Seminarium dyplomowe II": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Kłosiński Jacek",
+          "Wróbel Ireneusz"
+        ]
+      },
+      "Sterowanie procesami ciągłymi": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kłosiński Jacek"
+        ]
+      },
+      "Wybrane zagadnienia teorii sterowania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kłosiński Jacek"
+        ]
+      },
+      "Algorytmy optymalizacji": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Marszałek Jerzy"
+        ]
+      },
+      "Badania operacyjne i optymalizacja": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Marszałek Jerzy"
+        ]
+      },
+      "Podstawy sterowania optymalnego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Marszałek Jerzy"
+        ]
+      },
+      "Wspomaganie decyzji w praktyce inżynierskiej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Marszałek Jerzy"
+        ]
+      },
+      "Komputerowe wspomaganie syntezy układów automatyki": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Pawlik Marcin"
+        ]
+      },
+      "Robotyzacja stanowisk mechatronicznych": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Pawlik Marcin",
+          "Sidzina Marcin"
+        ]
+      },
+      "Systemy czasu rzeczywistego": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Pawlik Marcin",
+          "Sidzina Marcin"
+        ]
+      },
+      "Symulacja procesów zrobotyzowanych": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Pawlik Marcin",
+          "Sidzina Marcin"
+        ]
+      },
+      "Sesja poprawkowa 27.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Pawlus Dorota"
+        ]
+      },
+      "Wytrzymałość kompozytów i teoria sprężystości": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pawlus Dorota"
+        ]
+      },
+      "Grafika inżynierska II (Rysunek techniczny)": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Rysiński Jacek"
+        ]
+      },
+      "Podstawy konstrukcji maszyn I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Praszkiewicz Marek"
+        ]
+      },
+      "Materiały i tworzywa sztuczne w budowie pojazdów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Rajzer Izabella"
+        ]
+      },
+      "Praca przejściowa": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Rysiński Jacek",
+          "Sidzina Marcin",
+          "Wróbel Ireneusz"
+        ]
+      },
+      "Projektowanie elementów automatyki": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Sidzina Marcin"
+        ]
+      },
+      "Materiałoznawstwo": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Skotnicki Wojciech"
+        ]
+      },
+      "Podstawy systemów operacyjnych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Skotnicki Wojciech"
+        ]
+      },
+      "Wytrzymałość materiałów II": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Śliwka Mateusz"
+        ]
+      },
+      "Wytrzymałość materiałów III": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Śliwka Mateusz"
+        ]
+      },
+      "Elementy sterowania i robotyki": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Trąbka Arkadiusz"
+        ]
+      },
+      "Identyfikacja procesów automatyki": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Trąbka Arkadiusz"
+        ]
+      },
+      "Języki programowania robotów": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Trąbka Arkadiusz"
+        ]
+      },
+      "Napędy i programowanie robotów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Trąbka Arkadiusz"
+        ]
+      },
+      "Teoria maszyn i mechanizmów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Trąbka Arkadiusz"
+        ]
+      },
+      "Dynamika maszyn": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Urbaś Andrzej"
+        ]
+      },
+      "Dynamika robotów": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Urbaś Andrzej"
+        ]
+      },
+      "Mechanika budowli 2": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Urbaś Andrzej"
+        ]
+      },
+      "Modelowanie komputerowe układów mechatronicznych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Urbaś Andrzej"
+        ]
+      },
+      "Zastosowanie technik komputerowych w mechanice": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Urbaś Andrzej"
+        ]
+      },
+      "Konsultacje (L)": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Wróbel Ireneusz"
+        ]
+      },
+      "Laboratorium komputerowego wspomagania konstruowania": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Wróbel Ireneusz"
+        ]
+      },
+      "Podstawy CAD": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Wróbel Ireneusz"
+        ]
+      }
+    },
+    "K15 Silników Spalinowych i Pojazdów": {
+      "Badania i diagnostyka pojazdów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wnęk Henryk"
+        ]
+      },
+      "Badania i diagnostyka silników": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pietras Dariusz"
+        ]
+      },
+      "Budowa i eksploatacja pojazdów I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Parczewski Krzysztof"
+        ]
+      },
+      "Eksploatacja i technologia napraw maszyn, 10,5 godz.": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Cieślar Kacper"
+        ]
+      },
+      "Eksploatacja i technologia napraw maszyn": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Knefel Tomasz",
+          "Parczewski Krzysztof"
+        ]
+      },
+      "Mechanika analityczna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harlecki Andrzej"
+        ]
+      },
+      "Mechanika techniczna II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harlecki Andrzej"
+        ]
+      },
+      "Podstawy dynamiki maszyn": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harlecki Andrzej"
+        ]
+      },
+      "Podstawy mechaniki II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harlecki Andrzej"
+        ]
+      },
+      "Sesja poprawkowa 27.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Harlecki Andrzej"
+        ]
+      },
+      "Teoria sprężystości i plastyczności": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harlecki Andrzej"
+        ]
+      },
+      "Eksploatacja i technologia napraw maszyn, 4,5 godz.": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Knefel Tomasz",
+          "Parczewski Krzysztof"
+        ]
+      },
+      "Ochrona własności intelektualnych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Knefel Tomasz"
+        ]
+      },
+      "Technologie proekologiczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Knefel Tomasz"
+        ]
+      },
+      "Wybrane zagadnienia z ochrony własności intelektualnych, zdalnie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Knefel Tomasz"
+        ]
+      },
+      "Zasilanie i osprzęt silników": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Knefel Tomasz"
+        ]
+      },
+      "Metody numeryczne": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Kubas Krzysztof"
+        ]
+      },
+      "Podstawy programowania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kubas Krzysztof"
+        ]
+      },
+      "Budowa i eksploatacja silników I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Nowakowski Jacek"
+        ]
+      },
+      "Seminarium dyplomowe I": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Nowakowski Jacek"
+        ]
+      },
+      "Systemy pomiarowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Nowakowski Jacek",
+          "Parczewski Krzysztof"
+        ]
+      },
+      "Procesy montażu w przemyśle motoryzacyjnym": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Parczewski Krzysztof"
+        ]
+      },
+      "Podstawy rekonstrukcji wypadków drogowych": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Parczewski Krzysztof"
+        ]
+      },
+      "Ekologia i recykling pojazdów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pietras Dariusz"
+        ]
+      },
+      "Zarządzanie środowiskiem i ekologia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pietras Dariusz"
+        ]
+      },
+      "Podstawy architektury komputerów": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Sikora Krzysztof"
+        ]
+      },
+      "Termodynamika I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Sucheta Andrzej"
+        ]
+      },
+      "Termodynamika i termokinetyka": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Sucheta Andrzej"
+        ]
+      },
+      "Transport masy i energii": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Sucheta Andrzej"
+        ]
+      },
+      "Termodynamika techniczna I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Sucheta Andrzej"
+        ]
+      },
+      "Wymagania homologacyjne w budowie pojazdów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wnęk Henryk"
+        ]
+      }
+    },
+    "K16 Technologii Maszyn i Automatyzacji": {
+      "Komputerowe projektowanie zrobotyzowanych stanowisk pracy": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Błaszczak Paweł"
+        ]
+      },
+      "Komputerowe projektowanie zrobotyzowanych stanowisk pracy I": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Błaszczak Paweł"
+        ]
+      },
+      "Programowanie robotów": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Błaszczak Paweł"
+        ]
+      },
+      "Rozpoznawanie obrazów i systemy ekspertowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Błaszczak Paweł"
+        ]
+      },
+      "Roboty w wytwarzaniu maszyn": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Błaszczak Paweł"
+        ]
+      },
+      "Systemy wizyjne w wytwarzaniu": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Błaszczak Paweł"
+        ]
+      },
+      "Metrologia": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Hura Izabela"
+        ]
+      },
+      "Obróbka ubytkowa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pezda Jacek"
+        ]
+      },
+      "Podstawy metrologii (Metrol. wielk. geom. / Metrol. tech. / Metrol.elek.)": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Hura Izabela"
+        ]
+      },
+      "Odlewnictwo": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pezda Jacek"
+        ]
+      },
+      "Odlewnictwo i obróbka plastyczna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pezda Jacek"
+        ]
+      },
+      "Techniki wytwarzania I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pezda Jacek"
+        ]
+      },
+      "Bezpieczeństwo i jakość w procesach wytwórczych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pezda Jacek"
+        ]
+      },
+      "Obróbka plastyczna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pezda Jacek"
+        ]
+      },
+      "Praca przejściowa": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Pezda Jacek"
+        ]
+      },
+      "Seminarium dyplomowe I": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Pezda Jacek"
+        ]
+      },
+      "Technologie spajania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pezda Jacek"
+        ]
+      },
+      "Projektowanie elastycznych systemów produkcyjnych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Stryczek Roman"
+        ]
+      },
+      "Projektowanie procesów obróbki i montażu": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Stryczek Roman"
+        ]
+      },
+      "Obrabiarki sterowane numerycznie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wyrobek Kamil"
+        ]
+      },
+      "Projektowanie generatywne": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Wyrobek Kamil"
+        ]
+      },
+      "Programowanie obrabiarek sterowanych numerycznie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wyrobek Kamil"
+        ]
+      },
+      "Systemy CAM": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Wyrobek Kamil"
+        ]
+      },
+      "Niekonwencjonalne metody wytwarzania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zyzak Piotr"
+        ]
+      },
+      "Projektowanie procesów obróbki": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Zyzak Piotr"
+        ]
+      },
+      "Zarządzanie przedsiębiorstwem": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zyzak Piotr"
+        ]
+      },
+      "Zintegrowane systemy wytwarzania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zyzak Piotr"
+        ]
+      }
+    },
+    "K17 Inżynierii Produkcji": {
+      "Kreatywność pracowników i twórcze zespoły": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Baron-Puda Maria",
+          "Radwan Katarzyna"
+        ]
+      },
+      "Ocena kompetencji pracowniczych - procesy produkcyjne, zdalnie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Baron-Puda Maria"
+        ]
+      },
+      "Zarządzanie systemami pracy": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Baron-Puda Maria"
+        ]
+      },
+      "BHP i ergonomia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Drobina Robert"
+        ]
+      },
+      "Ergonomia, bezpieczeństwo i higiena pracy": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Drobina Robert"
+        ]
+      },
+      "Zarządzanie bezpieczeństwem pracy, zdalnie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Drobina Robert"
+        ]
+      },
+      "Zarządzanie środowiskowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Drobina Robert"
+        ]
+      },
+      "Praca przejściowa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Moczała Aleksander"
+        ]
+      },
+      "Zarządzanie jakością i bezpieczeństwem I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Golińska Ewa"
+        ]
+      },
+      "Zarządzanie jakością i bezpieczeństwem III": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Golińska Ewa"
+        ]
+      },
+      "Grafika inżynierska (komputerowa) II": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Herma Sławomir",
+          "Kukla Sławomir"
+        ]
+      },
+      "Informatyka i komputerowe wspomaganie prac inżynierskich I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Herma Sławomir"
+        ]
+      },
+      "Systemy wspomagania decyzji i zarządzania wiedzą": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Herma Sławomir"
+        ]
+      },
+      "Zajęcia z AutoCad-a dla uczniów liceum S. Herma 6.03-12.06": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Herma Sławomir"
+        ]
+      },
+      "Finanse i rachunkowość I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Więcek Dorota"
+        ]
+      },
+      "Podstawy rachunkowości": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Więcek Dorota"
+        ]
+      },
+      "Zarządzanie produkcją i usługami II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Plinta Dariusz"
+        ]
+      },
+      "Gospodarka magazynowa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Więcek Dariusz"
+        ]
+      },
+      "Metody i techniki twórczego myślenia": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Kolny Damian"
+        ]
+      },
+      "Projektowanie zakładów przemysłowych": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Kolny Damian"
+        ]
+      },
+      "Spotkanie Koła Naukowego VIP": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Kolny Damian"
+        ]
+      },
+      "Informatyka i komputerowe wspomaganie prac inżynierskich III": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kukla Sławomir"
+        ]
+      },
+      "Procesy produkcyjne - projektowanie procesów produkcji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Moczała Aleksander"
+        ]
+      },
+      "Brak szczegółów": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Kuric Ivan"
+        ]
+      },
+      "Komunikacja społeczna i aktywizacja zawodowa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kutschenreiter-Praszkiewicz Izabela"
+        ]
+      },
+      "Marketing": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kutschenreiter-Praszkiewicz Izabela"
+        ]
+      },
+      "Zarządzanie strategiczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kutschenreiter-Praszkiewicz Izabela"
+        ]
+      },
+      "Rachunek kosztów dla inżynierów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Matuszek Józef",
+          "Więcek Dorota"
+        ]
+      },
+      "Management of Technology and Innovation": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Moczała Aleksander"
+        ]
+      },
+      "Projektowanie systemów produkcyjnych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Moczała Aleksander"
+        ]
+      },
+      "Tendencje rozwoju systemów produkcji II - procesy wytwarzania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Moczała Aleksander"
+        ]
+      },
+      "Zarządzanie projektami innowacyjnymi I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Moczała Aleksander"
+        ]
+      },
+      "Prognozowanie i symulacja w przedsiębiorstwie I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Plinta Dariusz"
+        ]
+      },
+      "Projektowanie zakładów przemysłowych, zdalnie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Plinta Dariusz"
+        ]
+      },
+      "Seminarium dyplomowe I": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Plinta Dariusz"
+        ]
+      },
+      "Organizacja systemów produkcyjnych": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Radwan Katarzyna"
+        ]
+      },
+      "Zarządzanie projektem i innowacjami": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Radwan Katarzyna"
+        ]
+      },
+      "Komputerowe wspomaganie projektowania systemów produkcyjnych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Więcek Dariusz"
+        ]
+      },
+      "Podstawy projektowania inżynierskiego I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Więcek Dariusz"
+        ]
+      },
+      "Zarządzanie procesami w przedsiębiorstwie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Więcek Dariusz"
+        ]
+      },
+      "Zarządzanie przedsiębiorstwem produkcyjnym": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Więcek Dorota"
+        ]
+      }
+    },
+    "K18 Informatyki i Automatyki": {
+      "Inteligentne przetwarzanie multimediów": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Bernaś Marcin"
+        ]
+      },
+      "Inteligentny transport i pojazdy autonomiczne": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Bernaś Marcin"
+        ]
+      },
+      "Interfejs w aplikacjach internetowych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bernaś Marcin"
+        ]
+      },
+      "Podstawy tworzenia gier": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bernaś Marcin"
+        ]
+      },
+      "Spotkanie Sekcji Gamedev": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Bernaś Marcin"
+        ]
+      },
+      "Nierelacyjne bazy danych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Fałat Paweł"
+        ]
+      },
+      "Programowanie II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Fałat Paweł"
+        ]
+      },
+      "Programowanie IV": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wieczorek Wojciech"
+        ]
+      },
+      "Programowanie dla Internetu w technologii ASP.NET": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Fałat Paweł",
+          "Tengler Szymon"
+        ]
+      },
+      "Bezpieczeństwo systemów serwerowych": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Gancarczyk Tomasz"
+        ]
+      },
+      "Systemy operacyjne I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Gancarczyk Tomasz"
+        ]
+      },
+      "Metody sztucznej inteligencji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kordos Mirosław"
+        ]
+      },
+      "Projektowanie rozwiązań internetowych": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Giertuga Patryk",
+          "Grygiel Mikołaj"
+        ]
+      },
+      "Projekt - zespołowe przedsięwzięcie programistyczne": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Grygiel Maksymilian",
+          "Hamera Łukasz",
+          "Zając Tomasz"
+        ]
+      },
+      "Techniki testowania aplikacji": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Grygiel Maksymilian"
+        ]
+      },
+      "Grafika komputerowa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Martsenyuk Vasyl"
+        ]
+      },
+      "Podstawy elektrotechniki i elektroniki": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Masny Andrzej"
+        ]
+      },
+      "Programowanie mikrokontrolerów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jancarczyk Daniel"
+        ]
+      },
+      "Podstawy napędu elektrycznego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Patyk Aleksander"
+        ]
+      },
+      "Sterowanie elektrycznymi układami napędowymi": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Jancarczyk Daniel"
+        ]
+      },
+      "Technika cyfrowa i mikroprocesorowa": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Kajstura Krzysztof"
+        ]
+      },
+      "Advanced Programming Techniques, tyg. 7,5-15": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Kordos Mirosław"
+        ]
+      },
+      "Programming in C# (Programming III), tyg. 1-7,5": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Kordos Mirosław"
+        ]
+      },
+      "Elektrotechnika i elektronika": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kłos-Witkowska Aleksandra"
+        ]
+      },
+      "Fizyka": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kłos-Witkowska Aleksandra"
+        ]
+      },
+      "Podstawy informatyki": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kłos-Witkowska Aleksandra"
+        ]
+      },
+      "Cyfrowe przetwarzanie sygnałów I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Martsenyuk Vasyl"
+        ]
+      },
+      "Matematyka konkretna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Martsenyuk Vasyl"
+        ]
+      },
+      "Nauka o danych II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Martsenyuk Vasyl"
+        ]
+      },
+      "Uczenie maszynowe": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Martsenyuk Vasyl"
+        ]
+      },
+      "Elektronika": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Masny Andrzej"
+        ]
+      },
+      "Brak szczegółów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Nikodem Joanna"
+        ]
+      },
+      "Przekształtniki energoelektroniczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Patyk Aleksander"
+        ]
+      },
+      "Bezpieczeństwo sieci Web": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Shevchuk Ruslan"
+        ]
+      },
+      "Technologie Blockchain": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Shevchuk Ruslan"
+        ]
+      },
+      "Teletransmisja II": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Shevchuk Ruslan"
+        ]
+      },
+      "Bezpieczeństwo technologii mobilnych": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Veselska Olga"
+        ]
+      },
+      "Projektowanie i obsługa sieci komputerowych II": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Veselska Olga"
+        ]
+      },
+      "Radiokomunikacja II": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Veselska Olga"
+        ]
+      },
+      "Sieci komputerowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Ziubina Ruslana"
+        ]
+      },
+      "Matematyka dyskretna II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wieczorek Wojciech"
+        ]
+      },
+      "Rozszerzony Internet rzeczy": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Więcław Łukasz"
+        ]
+      },
+      "Seminarium dyplomowe I": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Więcław Łukasz",
+          "Zawiślak Stanisław"
+        ]
+      },
+      "Wprowadzenie do UX Design": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Więcław Łukasz"
+        ]
+      },
+      "Wzorce projektowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Więcław Łukasz"
+        ]
+      },
+      "Matematyka dyskretna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zawiślak Stanisław"
+        ]
+      },
+      "Seminarium dyplomowe II": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Zawiślak Stanisław"
+        ]
+      },
+      "Linie i systemy światłowodowe I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Ziubina Ruslana"
+        ]
+      }
+    }
+  },
+  "Wydział Humanistyczno-Społeczny": {
+    "I45 Pedagogiki": {
+      "Komunikacja AAC/ Wspomagające i alternatywne metody komunikacji": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Borzęcka Anna"
+        ]
+      },
+      "Metodyka zajęć korekcyjno-kompensacyjnych dla dzieci z niepełnosprawością intelektualną/ Praca korekcyjno-kompensacyjna z dziećmi z niepełnosprawością intelektualną": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Borzęcka Anna"
+        ]
+      },
+      "Metodyka zajęć korekcyjno-kompensacyjnych dla dzieci z&nbsp;niepełnosprawnością sprzężoną/Praca korekcyjno-kompensacyjna z dzieckiem z niepełnosprawnością sprzężoną": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Borzęcka Anna"
+        ]
+      },
+      "Wspieranie rozwoju dziecka z niepełnosprawnością intelektualną/Praca z dzieckiem z niepelnosprawnością intelektualną": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Borzęcka Anna"
+        ]
+      },
+      "Psychologia osobowości": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Chmiel Andrzej"
+        ]
+      },
+      "Psychologia rozwojowa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Chmiel Andrzej"
+        ]
+      },
+      "Psychologia rozwojowa i osobowości": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Chmiel Andrzej"
+        ]
+      },
+      "Psychologia uczenia się i nauczania/Psychologia kształcenia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Chmiel Andrzej"
+        ]
+      },
+      "Psychologia wychowawcza i społeczna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Chmiel Andrzej"
+        ]
+      },
+      "Metodyka pracy i współpracy z rodziną oraz prawnymi opiekunami dziecka/ Współpraca pedagoga ze środowiskiem": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Galocz Adriana"
+        ]
+      },
+      "Metodyka pracy pedagoga szkolnego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Machaczek Gabriela"
+        ]
+      },
+      "Metodyka zajęć pozalekcyjnych i pozaszkolnych": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Galocz Adriana"
+        ]
+      },
+      "Pedagogika dziecka ze specjalnymi potrzebami edukacyjnymi/Praca z dzieckiem ze specjalnymi potrzebami edukacyjnymi": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Galocz Adriana"
+        ]
+      },
+      "Diagnoza trudności w uczeniu się i zaburzeń zachowania u dzieci/Diagnoza niepowodzeń szkolnych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Machaczek Gabriela"
+        ]
+      },
+      "Metodyka zajęć korekcyjno-kompensacyjnych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kantyka-Dziwisz Karolina"
+        ]
+      },
+      "Metodyka pedagogiki przedszkolnej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Twaróg-Kanus Agnieszka"
+        ]
+      },
+      "Wybrane modele i koncepcje pedagogiki wczesnoszkolnej/Tendencje i kierunki zmian we współczesnej pedagogice wczesnoszkolnej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kantyka-Dziwisz Karolina"
+        ]
+      },
+      "Dydaktyka ogólna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kochanowska Ewa",
+          "Michalkiewicz-Gorol Agnieszka"
+        ]
+      },
+      "Metodologia badań pedagogicznych/Praca badawcza nauczyciela": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Kochanowska Ewa"
+        ]
+      },
+      "Seminarium dyplomowe": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Kochanowska Ewa",
+          "Kujan Patryk",
+          "Michalkiewicz-Gorol Agnieszka",
+          "Modrzejewska Justyna",
+          "Nowak Zbigniew",
+          "Wojciechowska Justyna"
+        ]
+      },
+      "Metodyka pedagogiki wczesnoszkolnej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kojs Rafał"
+        ]
+      },
+      "Metodyka pracy resocjalizacyjnej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kujan Patryk"
+        ]
+      },
+      "Profilaktyka społeczna i interwencja kryzysowa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kujan Patryk"
+        ]
+      },
+      "Patologie społeczne/zaburzenia zachowań społecznych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kujan Patryk"
+        ]
+      },
+      "Praca z dzieckiem z deficytami rozwojowymi": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Lizurej-Hanula Alicja"
+        ]
+      },
+      "Wprowadzenie do diagnozy psychopedagogicznej/Elementy psychopedagogicznego postępowania diagnostycznego": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Lizurej-Hanula Alicja"
+        ]
+      },
+      "Pojęcia i systemy pedagogiczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Michalkiewicz-Gorol Agnieszka",
+          "Miczka-Pajestka Monika"
+        ]
+      },
+      "Terapia pedagogiczna/Oddziaływania terapeutyczne wobec dziecka w wieku przedszkolnym i wczesnoszkolnym": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Lorenc Joanna"
+        ]
+      },
+      "Pedeutologia/Problemy kształcenia, dokształcania i doskonalenia nauczycieli": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Machaczek Gabriela"
+        ]
+      },
+      "Pomoc ofiarom przemocy w rodzinie/Formy przemocy w rodzinie": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Machaczek Gabriela"
+        ]
+      },
+      "Podstawy psychopedagogiki twórczości i trening kreatywnego myślenia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Machaczek Gabriela"
+        ]
+      },
+      "Wspieranie rozwoju dziecka z zaburzeniami zachowania/Praca pedagogiczna z dzieckiem z zaburzeniami zachowania": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Machaczek Gabriela"
+        ]
+      },
+      "Diagnoza pedagogiczna w edukacji elementarnej": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Machnio Dominika"
+        ]
+      },
+      "Metoda projektu we wczesnej edukacji/Praca metodą projektu we wczesnej edukacji": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Machnio Dominika"
+        ]
+      },
+      "Organizacja procesu terapeutycznego/ Podstawy pracy terapeutycznej": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Machnio Dominika"
+        ]
+      },
+      "Podstawy edukacji technicznej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Machnio Dominika"
+        ]
+      },
+      "Wspieranie rozwoju dziecka zdolnego/Praca pedagogiczna z dzieckiem zdolnym": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Machnio Dominika"
+        ]
+      },
+      "Emisja i higiena głosu": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Majzner Rafał"
+        ]
+      },
+      "Metodyka edukacji muzycznej": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Majzner Rafał"
+        ]
+      },
+      "Metodyka edukacji informatycznej i posługiwania się technologią informacyjno-komunikacyjną": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Maksim-Dąbrowska Klaudia"
+        ]
+      },
+      "Etyka w pracy pedagogicznej/Etyka zawodu nauczyciela": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Miczka-Pajestka Monika"
+        ]
+      },
+      "Etyka zawodu nauczyciela/Etyka w pracy pedagogicznej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Miczka-Pajestka Monika"
+        ]
+      },
+      "Filozofia wychowania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Miczka-Pajestka Monika"
+        ]
+      },
+      "Metodyka edukacji zdrowotnej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Modrzejewska Justyna"
+        ]
+      },
+      "Metodyka pracy z uczniem zdolnym i uzdolnionym/ Praca z z uczniem zdolnym i uzdolnionym": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Mrówka Katarzyna"
+        ]
+      },
+      "Metodyka zajęć dydaktyczno-wyrównawczych dla dzieci z trudnościami w nauce czytania i pisania/Praca dydaktyczno-wyrównawcza z dzieckiem z trudnościami w nauce czytania i pisania": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Mrówka Katarzyna"
+        ]
+      },
+      "Zajęcia integracyjne w przedszkolu i klasach I-III/Gry i zabawy integracyjne we wczesnej edukacji": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Mrówka Katarzyna"
+        ]
+      },
+      "Metodyka edukacji matematycznej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Nowak Zbigniew"
+        ]
+      },
+      "Pedagogika ogólna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Nowak Zbigniew"
+        ]
+      },
+      "Podstawy edukacji polonistycznej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wojciechowska Justyna"
+        ]
+      },
+      "Podstawy edukacji społeczno-przyrodniczej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Pawlak Justyna"
+        ]
+      },
+      "Socjologia kultury": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Przybyła-Dumin Agnieszka"
+        ]
+      },
+      "Socjologia wychowania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Przybyła-Dumin Agnieszka"
+        ]
+      },
+      "Psychologia kliniczna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Roszkowska Agnieszka"
+        ]
+      },
+      "Podstawy psychologii": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Roszkowska Agnieszka"
+        ]
+      },
+      "Psychopatologia wieku dziecięcego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Roszkowska Agnieszka"
+        ]
+      },
+      "Arteterapia w pracy z małym dzieckiem/Sztuka w terapii": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Samulak Liliana"
+        ]
+      },
+      "Plastyka w pracy resocjalizacyjnej/Terapia przez sztukę w pracy resocjalizacyjnej": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Samulak Liliana"
+        ]
+      },
+      "Tutoring we wczesnej edukacji": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Twaróg-Kanus Agnieszka"
+        ]
+      },
+      "Wybrane modele i koncepcje pedagogiki przedszkolnej/Tendencje i kierunki zmian we współczesnej pedagogice przedszkolnej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Twaróg-Kanus Agnieszka"
+        ]
+      },
+      "Wspieranie rozwoju dziecka z zaburzeniami percepcji słuchowej/Praca z dzieckiem z zaburzeniami percepcji słuchowej": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Twaróg-Kanus Agnieszka"
+        ]
+      },
+      "Kryminologia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Waluś Roman"
+        ]
+      },
+      "Prawne postępowanie w sprawach nieletnich": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Waluś Roman"
+        ]
+      },
+      "Teoretyczne podstawy wychowania": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Waluś Roman"
+        ]
+      },
+      "Drama we wczesnej edukacji/Gry i zabawy parateatralne we wczesnej edukacji": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Wojciechowska Justyna"
+        ]
+      },
+      "Kultura języka": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wojciechowska Justyna"
+        ]
+      },
+      "Metody badań pedagogicznych/Praca badawcza w pracy resocjalizacyjnej": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Zawada Anna"
+        ]
+      },
+      "Metodyka edukacji plastycznej": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Zawada Ernest"
+        ]
+      },
+      "Struktury wizualne / Podstawy rysunku": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Zawada Ernest"
+        ]
+      },
+      "UTW - zajęcia sekcji malarskiej (2x w miesiącu) 4.10.2024-28.02.2025": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Zawada Ernest"
+        ]
+      }
+    },
+    "I49 Neofilologii": {
+      "Historia literatury hiszpańskiej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brenet Tomasz"
+        ]
+      },
+      "Przekład konferencyjny": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Brenet Tomasz"
+        ]
+      },
+      "Praktyczna nauka języka angielskiego - przekład ustny": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Brenet Tomasz"
+        ]
+      },
+      "Tłumaczenie ustne": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Brenet Tomasz"
+        ]
+      },
+      "Gramatyka opisowa języka angielskiego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Chłopek Dorota"
+        ]
+      },
+      "Praktyczna znajomość języka hiszpańskiego- ekspresja ustna": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Cieślar-Śliż Ilona"
+        ]
+      },
+      "Praktyczna znajomość języka hiszpańskiego - ćwiczenia gramatyczne": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Cieślar-Śliż Ilona"
+        ]
+      },
+      "Spotkanie w sprawie praktyk studenckich NZ 02.03": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Cieślar-Śliż Ilona"
+        ]
+      },
+      "Interpretacja i analiza tekstów literackich": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Dimeo Álvarez Carlos"
+        ]
+      },
+      "Konwersatorium dyplomowe": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Dimeo Álvarez Carlos",
+          "Okoń Marzena",
+          "Palion-Musioł Agnieszka",
+          "Szatanik Zuzanna",
+          "Szczygłowska Tatiana"
+        ]
+      },
+      "Literatura hispanoamerykańska": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dimeo Álvarez Carlos"
+        ]
+      },
+      "Seminarium dyplomowe": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Dimeo Álvarez Carlos",
+          "Kocel-Duraj Agnieszka",
+          "Konkol Sławomir",
+          "Lewandowska Elwira",
+          "Szatanik Zuzanna",
+          "Szczygłowska Tatiana",
+          "Wieczorek Anna",
+          "Wiśniewska Natalia"
+        ]
+      },
+      "Seminarium magisterskie": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Dimeo Álvarez Carlos",
+          "Lewandowska Elwira",
+          "Markiewka Tomasz"
+        ]
+      },
+      "Teoria literatury": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dimeo Álvarez Carlos"
+        ]
+      },
+      "Praktyczna znajomość języka angielskiego - ekspresja pisemna": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Dunat Sebastian",
+          "Gardaś Arkadiusz",
+          "Kliś Agnieszka",
+          "Okoń Marzena",
+          "Pysz Kamil",
+          "Raułyk-Dumanow Małgorzata"
+        ]
+      },
+      "Praktyczna znajomość języka angielskiego - ćwiczenia gramatyczne": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Dunat Sebastian",
+          "Marek Monika"
+        ]
+      },
+      "Praktyczna nauka języka angielskiego - komunikacja werbalna": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Gardaś Arkadiusz"
+        ]
+      },
+      "Praktyczna znajomość języka hiszpańskiego - tłumaczenie tekstów specjalistycznych": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Hasior Aleksandra"
+        ]
+      },
+      "Praktyczna nauka języka angielskiego - pisanie tekstów akademickich": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Jarczok Anita",
+          "Raułyk-Dumanow Małgorzata"
+        ]
+      },
+      "Metodyka pracy z uczniem ze specjalnymi potrzebami edukacyjnymi": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jopek-Bizoń Małgorzata"
+        ]
+      },
+      "Pedagogiczne podstawy nauczania języka obcego dzieci/Pedagogical basics of teaching a foreign language to children": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jopek-Bizoń Małgorzata"
+        ]
+      },
+      "Praktyczna znajomość języka angielskiego - zintegrowana sprawność rozumienia i konwersacji": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Kaliciak Maria",
+          "Lewandowska Elwira",
+          "Niemiec Maciej"
+        ]
+      },
+      "Komunikacja w biznesie w języku hiszpańskim": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Kasperek Dominika"
+        ]
+      },
+      "Praktyczna znajomość języka hiszpańskiego - ekspresja ustna": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Kasperek Dominika",
+          "Worek Katarzyna"
+        ]
+      },
+      "Język medyczny": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Kliś Agnieszka"
+        ]
+      },
+      "Praktyczna znajomość języka angielskiego - przekład tekstów użytkowych i literackich": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Kliś Agnieszka",
+          "Kocel-Duraj Agnieszka",
+          "Lisecki Michał",
+          "Markiewka Tomasz"
+        ]
+      },
+      "Przekład tekstów specjalistycznych na język angielski": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Kocel-Duraj Agnieszka"
+        ]
+      },
+      "Współczesne teorie językoznawcze": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kocel-Duraj Agnieszka",
+          "Lisecki Michał"
+        ]
+      },
+      "Historia literatury angielskiej": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Konkol Sławomir"
+        ]
+      },
+      "Wybrane zadagnienia z historii i kultury angielskiego obszaru językowego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Korusiewicz Maria"
+        ]
+      },
+      "Dydaktyka szczegółowa języka angielskiego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Lewandowska Elwira"
+        ]
+      },
+      "Metodologia badań glottodydaktycznych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Lewandowska Elwira"
+        ]
+      },
+      "Nauczanie języka angielskiego uczniów w wieku szkolnym i przedszkolnym": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Lewandowska Elwira"
+        ]
+      },
+      "Komputerowe techniki wspomagania tłumaczenia": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Lisecki Michał"
+        ]
+      },
+      "Przekład audiowizualny": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Lisecki Michał"
+        ]
+      },
+      "Odrabianie zajeć 28.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Marek Monika"
+        ]
+      },
+      "Teoria przekładu": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Markiewka Tomasz"
+        ]
+      },
+      "Wstęp do literaturoznawstwa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Markiewka Tomasz"
+        ]
+      },
+      "Współczesne teorie badań literaturoznawczych i kulturowych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Markiewka Tomasz"
+        ]
+      },
+      "Język angielski w turystyce - zintegrowana sprawność rozumienia i konwersacji II": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Okoń Marzena"
+        ]
+      },
+      "Próby przed koncertem 28.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Okoń Marzena"
+        ]
+      },
+      "Praktyczna znajomość języka hiszpańskiego - język specjalistyczny": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Palion-Musioł Agnieszka"
+        ]
+      },
+      "Praktyczna znajomość języka hiszpańskiego- ćwiczenia gramatyczne": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Palion-Musioł Agnieszka"
+        ]
+      },
+      "Język biznesu 1": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Raułyk-Dumanow Małgorzata"
+        ]
+      },
+      "Sesja poprawkowa 27.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Szatanik Zuzanna"
+        ]
+      },
+      "Współczesna literatura angielska": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Szatanik Zuzanna"
+        ]
+      },
+      "Tłumaczenie pisemne": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Szczygłowska Tatiana"
+        ]
+      },
+      "Historia i kultura hiszpańskiego obszaru językowego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Vidal Jaume"
+        ]
+      },
+      "Hiszpański kolokwialny": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Vidal Jaume"
+        ]
+      },
+      "Praktyczna znajomość 2-go języka kierunkowego - język kataloński": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Vidal Jaume"
+        ]
+      },
+      "Praktyczna znajomość języka hiszpańskiego - ekspresja pisemna": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Vidal Jaume"
+        ]
+      },
+      "Praktyczna znajomość języka hiszpańskiego - zintegrowana sprawność rozumienia i konwersacji": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Vidal Jaume"
+        ]
+      },
+      "Język biznesu 2": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Wieczorek Anna"
+        ]
+      },
+      "Podstawy dydaktyki": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Wieczorek Anna"
+        ]
+      },
+      "Praktyczna nauka specjalistycznego języka angielskiego - ekspresja ustna-sztuka przemówień publicznych": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Wieczorek Anna"
+        ]
+      },
+      "Gramatyka opisowa języka hiszpańskiego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wiśniewska Natalia"
+        ]
+      },
+      "Przekład literacki": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Wiśniewska Natalia"
+        ]
+      },
+      "Praktyczna znajomość języka hiszpańskiego- ekspresja pisemna": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Wiśniewska Natalia"
+        ]
+      },
+      "Hiszpański język biznesu": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Worek Katarzyna"
+        ]
+      },
+      "Praktyczna znajomość języka hiszpańskiego- rozumienie ze słuchu": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Worek Katarzyna"
+        ]
+      }
+    },
+    "K48 Polonistyki": {
+      "Indywidualizacja procesu nauczania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Banot Aleksandra"
+        ]
+      },
+      "Literatura powszechna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Banot Aleksandra"
+        ]
+      },
+      "Adiustacja i korekta tekstu": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Będkowska-Kopczyk Agnieszka"
+        ]
+      },
+      "Etyczne zagadnienia pracy tłumacza": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Będkowska-Kopczyk Agnieszka"
+        ]
+      },
+      "Kultura organizacyjna": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Będkowska-Kopczyk Agnieszka"
+        ]
+      },
+      "Wstęp do językoznawstwa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Będkowska-Kopczyk Agnieszka",
+          "Szarlej Jolanta"
+        ]
+      },
+      "Pisanie tekstów": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Bergiel Anna"
+        ]
+      },
+      "Oświecenie i romantyzm": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bernacki Marek"
+        ]
+      },
+      "Sztuka redagowania i retoryki": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bernacki Marek"
+        ]
+      },
+      "Wykład monograficzny polonistyczny I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bernacki Marek"
+        ]
+      },
+      "Literatura polska dwudziestolecia miedzywojennego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Czernek-Pasierbek Paulina"
+        ]
+      },
+      "Gram. hist.j.pol. z elem. jęz. s.c.s": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Gajewska Ewelina"
+        ]
+      },
+      "Język mediów i polityki": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Gajewska Ewelina"
+        ]
+      },
+      "Kultura języka": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Gajewska Ewelina"
+        ]
+      },
+      "Lingwistyka tekstu": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Gajewska Ewelina"
+        ]
+      },
+      "Ortografia i ortofonia": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Gajewska Ewelina"
+        ]
+      },
+      "Historyczne konteksty liter. i kult.polskiej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kopczyk Michał"
+        ]
+      },
+      "Seminarium magisterskie": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Kopczyk Michał"
+        ]
+      },
+      "Teoria literatury": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kopczyk Michał"
+        ]
+      },
+      "Metodyka nauczania języka i lit. pol. w szkole podstawowej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Matuszek Angelika"
+        ]
+      },
+      "Prawne aspekty funkcjonowania oświaty": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Matuszek Angelika"
+        ]
+      },
+      "Pomiar dydaktyczny w pracy nauczyciela": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Matuszek Angelika"
+        ]
+      },
+      "Prawo w oświacie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Matuszek Angelika"
+        ]
+      },
+      "Warsztat pracy wychowawczej nauczyciela": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Matuszek Angelika"
+        ]
+      },
+      "Dział Współpracy Międzynarodowej - zajęcia z języka polskiego (L)": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Romaniszyn-Ziomek Lidia"
+        ]
+      },
+      "Praktyczna znajomość 2-go języka kierunkowego - język portugalski": {
+        "Typ": "Praktyczna Nauka Języka",
+        "Koordynatorzy": [
+          "Romaniszyn-Ziomek Lidia"
+        ]
+      },
+      "Seminarium dyplomowe": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Romaniszyn-Ziomek Lidia",
+          "Stępień Tomasz"
+        ]
+      },
+      "Analiza i interpretacja dzieła literackiego": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Stępień Tomasz"
+        ]
+      },
+      "Wybrane zagadnienia z historii literatury": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Stępień Tomasz"
+        ]
+      },
+      "Gramatyka opisowa-morfologia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Szarlej Jolanta"
+        ]
+      },
+      "Konsultacje": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Szarlej Jolanta"
+        ]
+      },
+      "Leksyka. Leksykografia. Leksykologia": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Szarlej Jolanta"
+        ]
+      },
+      "Wykład monograficzny polonistyczny II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Szarlej Jolanta"
+        ]
+      },
+      "Wiedza o kulturze": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Tomalak Barbara"
+        ]
+      }
+    },
+    "K50 Teorii i Praktyk Komunikacji": {
+      "Komunikacja interpersonalna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brom Przemysław"
+        ]
+      },
+      "Negocjacje handlowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brom Przemysław"
+        ]
+      },
+      "Podstawy ekonomii dla tłumaczy": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Brom Przemysław"
+        ]
+      },
+      "Psychologia komunikacji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brom Przemysław"
+        ]
+      },
+      "Psycholingwistyka": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brom Przemysław"
+        ]
+      },
+      "Technologia informacyjna": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Feruga Krzysztof"
+        ]
+      },
+      "Projektowanie komunikacji (Communication design)": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Foltyniak-Pękala Anna"
+        ]
+      },
+      "Podstawy fotografii cyfrowej": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Lewicz-Więcław Marta",
+          "Pisarek Jędrzej"
+        ]
+      },
+      "Emisja głosu": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Ostrowska-Knapik Agata"
+        ]
+      },
+      "Emisja i higiena głosu": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Ostrowska-Knapik Agata"
+        ]
+      },
+      "Retoryka i emisja głosu": {
+        "Typ": "warsztaty",
+        "Koordynatorzy": [
+          "Ostrowska-Knapik Agata"
+        ]
+      },
+      "Retoryka w praktyce": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Ostrowska-Knapik Agata"
+        ]
+      },
+      "Dydaktyka przedmiotowa języka angielskiego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Ożańska-Ponikwia Katarzyna"
+        ]
+      },
+      "Seminarium dyplomowe": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Pysz Robert"
+        ]
+      },
+      "Copywriting": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Urbańska Daria"
+        ]
+      },
+      "Analiza i interpretacja tekstu kultury": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Żyła Mateusz"
+        ]
+      },
+      "Literatura i kultura popularna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żyła Mateusz"
+        ]
+      }
+    }
+  },
+  "Wydział Inżynierii Materiałów, Budownictwa i Środowiska": {
+    "I25 Nauk Inżynieryjnych": {
+      "Obliczenia inżynierskie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Antonik-Popiołek Patrycja"
+        ]
+      },
+      "Wytrzymałość materiałów 1": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Juraszek Janusz"
+        ]
+      },
+      "Fizyka I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bączek Marcin"
+        ]
+      },
+      "Wybrane zagadnienia z fizyki": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bączek Marcin"
+        ]
+      },
+      "Fizyka 2": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Basiura-Cembala Monika",
+          "Kukulski Tomasz"
+        ]
+      },
+      "Podstawy fizyki miękkiej materii": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Basiura-Cembala Monika"
+        ]
+      },
+      "Rentgenografia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Basiura-Cembala Monika"
+        ]
+      },
+      "Badania jakościowe wody użytkowej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Biniaś Dorota",
+          "Machnicka Alicja"
+        ]
+      },
+      "Gospodarka odpadami": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Biniaś Dorota",
+          "Kuglarz Mariusz"
+        ]
+      },
+      "Projektowanie materiałów elastycznych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Biniaś Włodzimierz"
+        ]
+      },
+      "Spektroskopowe metody badań materiałów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Biniaś Włodzimierz"
+        ]
+      },
+      "Instalacje budowlane": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Brachaczek Wacław"
+        ]
+      },
+      "Materiały budowlane 1": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brachaczek Wacław"
+        ]
+      },
+      "Technologia betonu": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brachaczek Wacław"
+        ]
+      },
+      "Biologia i ekologia ogólna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Chmura Damian",
+          "Salachna Anna",
+          "Żarnowiec Jan"
+        ]
+      },
+      "Biocenologia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Chmura Damian"
+        ]
+      },
+      "Statystyka": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Chmura Damian"
+        ]
+      },
+      "Synantropizacja układów przyrodniczych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Chmura Damian"
+        ]
+      },
+      "Instalacje proekologiczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Drabczyk Kazimierz",
+          "Grübel Klaudiusz"
+        ]
+      },
+      "Efektywność energetyczna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Fabia Janusz"
+        ]
+      },
+      "Przetwórstwo tworzyw sztucznych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Fabia Janusz",
+          "Gawłowski Andrzej"
+        ]
+      },
+      "Chemia ogólna i analityczna": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Fryczkowska Beata"
+        ]
+      },
+      "Polimerowe materiały powłokotwórcze": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Fryczkowski Ryszard"
+        ]
+      },
+      "Fizyka": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Gabryś Tobiasz",
+          "Kukulski Tomasz"
+        ]
+      },
+      "Korozja techniczna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Gabryś Tobiasz"
+        ]
+      },
+      "Ogrzewnictwo, wentylacja i klimatyzacja": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Gawłowski Andrzej"
+        ]
+      },
+      "Geodezja": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Gawłowski Paweł"
+        ]
+      },
+      "ACAD": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Graczyk Tadeusz"
+        ]
+      },
+      "Materiały i technologie kompozytowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Graczyk Tadeusz"
+        ]
+      },
+      "Podstawy metrologii": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kobiela-Mendrek Katarzyna"
+        ]
+      },
+      "Zielone budownictwo": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Grzybowska-Pietras Joanna",
+          "Juzwa Anna"
+        ]
+      },
+      "Ekonomika budownictwa": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Harat Andrzej"
+        ]
+      },
+      "Elementy prawa i ochrony własności intelektualnej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harat Andrzej"
+        ]
+      },
+      "Instrumenty ekonomiczne w ochronie środowiska": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harat Andrzej"
+        ]
+      },
+      "Kierowanie procesem inwestycyjnym": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harat Andrzej"
+        ]
+      },
+      "Prawo budowlane": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harat Andrzej"
+        ]
+      },
+      "Podstawy prawa i ochrona własności intelektualnych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harat Andrzej"
+        ]
+      },
+      "Tworzenie i rozwój form przedsiębiorczości": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Harat Andrzej"
+        ]
+      },
+      "Gleboznawstwo i ochrona gleb": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jaguś Andrzej"
+        ]
+      },
+      "Ujęcia wód powierzchniowych i podziemnych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jaguś Andrzej"
+        ]
+      },
+      "Metody obliczeniowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Juraszek Janusz"
+        ]
+      },
+      "Fundamenty specjalne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Juzwa Anna"
+        ]
+      },
+      "Mechanika gruntów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Juzwa Anna"
+        ]
+      },
+      "Konstrukcje betonowe 1": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "KB Vacat 1"
+        ]
+      },
+      "Niezawodność i bezpieczeństwo systemów inż.": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kobiela-Mendrek Katarzyna",
+          "Przywara Lucyna"
+        ]
+      },
+      "Konstrukcje metalowe 2": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Kowolik Marek"
+        ]
+      },
+      "Melioracje": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Kozak Janusz"
+        ]
+      },
+      "Metody kontrolii wód i ścieków": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Mrowiec Bożena"
+        ]
+      },
+      "Biotechnologia wody i ścieków": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Machnicka Alicja"
+        ]
+      },
+      "Seminarium dyplomowe": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Machnicka Alicja"
+        ]
+      },
+      "Hydrologia i gospodarka wodna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Madzia Marek"
+        ]
+      },
+      "Hydraulika i hydrologia": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Madzia Marek"
+        ]
+      },
+      "Prognozy hydrologiczne": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Madzia Marek"
+        ]
+      },
+      "Zastępstwo za Vacat1": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Madzia Marek"
+        ]
+      },
+      "Zarządzanie wodą w mieście": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Madzia Marek"
+        ]
+      },
+      "Organizacja i zarządzanie nowoczesnym przedsiębiorstwem wodno-kanalizacyjnym - przedmiot human./społ. 3": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Michalski Krzysztof"
+        ]
+      },
+      "Monitoring środowiska": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Mrowiec Bożena",
+          "Wierzbińska Monika"
+        ]
+      },
+      "Sesja poprawkowa 28.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Mrowiec Bożena",
+          "Zamorowski Jan"
+        ]
+      },
+      "Systemy oczyszczania ścieków": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Mrowiec Bożena"
+        ]
+      },
+      "Sesja poprawkowa 01.03": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Pająk Zbigniew",
+          "Żelazny Henryk"
+        ]
+      },
+      "Chemia środowiska": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wyszomirski Mirosław"
+        ]
+      },
+      "Rysunek techniczny": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Pietraszko Ewa",
+          "Walusiak Hubert"
+        ]
+      },
+      "Technologie proekologiczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Przywara Lucyna"
+        ]
+      },
+      "Biomimetics": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Rom Monika"
+        ]
+      },
+      "Monitoring biologiczny i bioindykacja": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Salachna Anna"
+        ]
+      },
+      "Zarządzanie środowiskiem": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Salachna Anna"
+        ]
+      },
+      "Grafika inżynierska z elementami CAD": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Siry Roman",
+          "Walusiak Hubert"
+        ]
+      },
+      "Konstrukcje drewniane": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Siry Roman"
+        ]
+      },
+      "Prototypowanie 3D w budownictwie": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Walusiak Hubert"
+        ]
+      },
+      "Podstawy technologii przemysłowych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wierzbińska Monika"
+        ]
+      },
+      "Historia wynalazku - przedmiot human./społ. 2": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Wyszomirski Mirosław"
+        ]
+      },
+      "Nowoczesne budownictwo komunikacyjne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żak Anna"
+        ]
+      },
+      "Budownictwo ogólne 2": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żelazny Henryk"
+        ]
+      },
+      "Konstrukcje murowe": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Żelazny Henryk"
+        ]
+      }
+    }
+  },
+  "Wydział Zarządzania i Transportu": {
+    "K31 Zarządzania": {
+      "Ochrona własności intelektualnej": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Barcik Agnieszka",
+          "Dziwiński Piotr"
+        ]
+      },
+      "Prawo gospodarcze": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Barcik Agnieszka"
+        ]
+      },
+      "Prawo": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Barcik Agnieszka",
+          "Dziwiński Piotr"
+        ]
+      },
+      "Seminarium": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Barcik Agnieszka",
+          "Jakubiec Marcin"
+        ]
+      },
+      "Statystyka opisowa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Biesok Grzegorz"
+        ]
+      },
+      "Zarządzanie jakością": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Biesok Grzegorz",
+          "Gajewska Paulina",
+          "Jakubiec Marcin"
+        ]
+      },
+      "Zarządzanie procesami": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Biesok Grzegorz"
+        ]
+      },
+      "Informatyka w zarządzaniu": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bylinko Leszek"
+        ]
+      },
+      "Logistyka dystrybucji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bylinko Leszek"
+        ]
+      },
+      "Nowoczesne koncepcje logistyczne": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Bylinko Leszek",
+          "Owsiak Dariusz"
+        ]
+      },
+      "Sesja egzaminacyjna 28.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Bylinko Leszek"
+        ]
+      },
+      "Systemy transportu zbiorowego": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bylinko Leszek"
+        ]
+      },
+      "Zarządzanie logistyczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bylinko Leszek"
+        ]
+      },
+      "Zarządzanie mobilnością": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bylinko Leszek"
+        ]
+      },
+      "Zarządzanie łańcuchem dostaw": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bylinko Leszek"
+        ]
+      },
+      "Prawo autorskie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dziwiński Piotr"
+        ]
+      },
+      "Podstawy prawne w transporcie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dziwiński Piotr"
+        ]
+      },
+      "Projekty unijne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dziwiński Piotr"
+        ]
+      },
+      "Zarządzanie projektami": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dziwiński Piotr"
+        ]
+      },
+      "Zarządzanie społecznie odpowiedzialne": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Dziwiński Piotr"
+        ]
+      },
+      "Kreowanie przestrzeni zawodowej": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Gajewska Paulina"
+        ]
+      },
+      "Zarządzanie jakością usług": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Gajewska Paulina"
+        ]
+      },
+      "Ocena systemów zarządzania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jakubiec Marcin"
+        ]
+      },
+      "Podstawy jakości": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jakubiec Marcin"
+        ]
+      },
+      "Podstawy logistyki": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jakubiec Marcin"
+        ]
+      },
+      "Projektowanie systemów zarządzania jakością": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jakubiec Marcin"
+        ]
+      },
+      "Zarządzanie kryzysowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jakubiec Marcin"
+        ]
+      },
+      "Zarządzanie zapasami": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Owsiak Dariusz"
+        ]
+      },
+      "Branżowe systemy zarządzania": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Słowiak Barbara"
+        ]
+      },
+      "Total quality management (w jęz.ang.)": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Słowiak Barbara"
+        ]
+      },
+      "Controlling": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Żyminkowski Tomasz"
+        ]
+      },
+      "Marketing": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żyminkowski Tomasz"
+        ]
+      },
+      "Marketing internetowy": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żyminkowski Tomasz"
+        ]
+      },
+      "Negocjacje i techniki sprzedaży": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żyminkowski Tomasz"
+        ]
+      },
+      "Podstawy prowadzenia działalności gospodarczej / Podstawy przedsiębiorczości": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żyminkowski Tomasz"
+        ]
+      },
+      "Techniki operacyjne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żyminkowski Tomasz"
+        ]
+      }
+    },
+    "K32 Nauk Ekonomicznych i Społecznych": {
+      "Globalne procesy społeczne / Zjawiska globalne: teorie i interpretacje": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Bąk-Szołucha Aneta"
+        ]
+      },
+      "Globalne procesy społeczne / Zjawiska globalne: teorie i interpretacje globalizacyjne": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Bąk-Szołucha Aneta"
+        ]
+      },
+      "Konwersatorium": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bąk-Szołucha Aneta"
+        ]
+      },
+      "Komunikacja wewnętrzna / Komunikacja w biznesie": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Bąk-Szołucha Aneta"
+        ]
+      },
+      "Podstawy public relations": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bąk-Szołucha Aneta"
+        ]
+      },
+      "Podstawy socjologii": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jeziorski Ireneusz"
+        ]
+      },
+      "Społeczeństwo informacyjne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bąk-Szołucha Aneta"
+        ]
+      },
+      "Seminarium licencjackie": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Bąk-Szołucha Aneta",
+          "Jeziorski Ireneusz"
+        ]
+      },
+      "Socjologia reklamy / Psychologia reklamy": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bąk-Szołucha Aneta"
+        ]
+      },
+      "Zarządzanie zasobami ludzkimi": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bąk-Szołucha Aneta",
+          "Gąsiorek-Madzia Sylwia"
+        ]
+      },
+      "Business Development Support Policy (w jęz.ang.)": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Bieńkowska Beata"
+        ]
+      },
+      "Business development support policy (w jęz.ang.)": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bieńkowska Beata"
+        ]
+      },
+      "Diversity management (w jęz. ang.)": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bieńkowska Beata"
+        ]
+      },
+      "Mikroekonomia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bieńkowska Beata"
+        ]
+      },
+      "Podstawy ekonomii": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bieńkowska Beata"
+        ]
+      },
+      "Polityka edukacyjna i rynek pracy": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bieńkowska Beata"
+        ]
+      },
+      "Small business (w jęz.ang.)": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bieńkowska Beata"
+        ]
+      },
+      "Zarządzanie oświatą": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Bieńkowska Beata"
+        ]
+      },
+      "Instytucje w UE": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Czerwińska-Lubszczyk Agnieszka"
+        ]
+      },
+      "Kadry i płace": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Czerwińska-Lubszczyk Agnieszka"
+        ]
+      },
+      "Konsultacje (L)": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Czerwińska-Lubszczyk Agnieszka"
+        ]
+      },
+      "Makroekonomia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Czerwińska-Lubszczyk Agnieszka"
+        ]
+      },
+      "Przedsiębiorczość i innowacje": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Czerwińska-Lubszczyk Agnieszka"
+        ]
+      },
+      "Analiza rynków finansowych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dusza Dominika"
+        ]
+      },
+      "Finanse przedsiębiorstw": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dusza Dominika",
+          "Michalski Dariusz"
+        ]
+      },
+      "Finanse zielonej transformacji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dusza Dominika"
+        ]
+      },
+      "Narzędzia w analizie ekonomicznej biznesu": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Dusza Dominika"
+        ]
+      },
+      "Wprowadzenie do finansów międzynarodowych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dusza Dominika"
+        ]
+      },
+      "Etyka w administracji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dzień Mirosław"
+        ]
+      },
+      "Filozofia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dzień Mirosław"
+        ]
+      },
+      "Problemy etyczne w biznesie": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Dzień Mirosław",
+          "Gąsiorek-Madzia Sylwia"
+        ]
+      },
+      "Seminarium": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dzień Mirosław",
+          "Gąsiorek-Madzia Sylwia"
+        ]
+      },
+      "PR w administracji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Gąsiorek-Madzia Sylwia"
+        ]
+      },
+      "Współczesne organizacje": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Gąsiorek-Madzia Sylwia"
+        ]
+      },
+      "Zarządzanie karierą zawodową": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Gąsiorek-Madzia Sylwia"
+        ]
+      },
+      "Dynamika zmian współczesnego społeczeństwa polskiego": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Jeziorski Ireneusz"
+        ]
+      },
+      "Metody wizualne / Antropologia wizualna": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jeziorski Ireneusz"
+        ]
+      },
+      "Metodologia w nauce": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jeziorski Ireneusz"
+        ]
+      },
+      "Problemy etyczne w zawodzie socjologa": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Jeziorski Ireneusz"
+        ]
+      },
+      "Socjologia wizualna / Badanie obrazów społecznych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jeziorski Ireneusz"
+        ]
+      },
+      "Wykład monograficzny": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jeziorski Ireneusz"
+        ]
+      },
+      "Elementy socjotechniki / Inżynieria społeczna": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Korzewski Marcin"
+        ]
+      },
+      "Socjologia mediów / Mass media i nowe media": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Korzewski Marcin"
+        ]
+      },
+      "Analizy statystyczne na bazach danych": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Kubisz-Muła Łukasz"
+        ]
+      },
+      "Metody badań socjologicznych": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Kubisz-Muła Łukasz"
+        ]
+      },
+      "Metody statystyczne 2": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Kubisz-Muła Łukasz"
+        ]
+      },
+      "Procesy demograficzne": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Kubisz-Muła Łukasz"
+        ]
+      },
+      "Projekt socjologiczny": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Kubisz-Muła Łukasz"
+        ]
+      },
+      "Analiza portfelowa": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Musialik Grażyna"
+        ]
+      },
+      "Analiza przedsięwzięć inwestycyjnych firmy": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Musialik Grażyna"
+        ]
+      },
+      "Rachunkowość zarządcza": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Musialik Grażyna"
+        ]
+      },
+      "Strategie finansowania organizacji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Musialik Grażyna"
+        ]
+      },
+      "Budowanie zespołu / Metody pracy z grupą i zespołem": {
+        "Typ": "warsztaty",
+        "Koordynatorzy": [
+          "Piątek Katarzyna"
+        ]
+      },
+      "Coaching / Podstawy coachingu i mentoringu": {
+        "Typ": "warsztaty",
+        "Koordynatorzy": [
+          "Piątek Katarzyna"
+        ]
+      },
+      "Komunikacja interpersonalna": {
+        "Typ": "warsztaty",
+        "Koordynatorzy": [
+          "Piątek Katarzyna"
+        ]
+      },
+      "Motywowanie pracowników - uwarunkowania psychospołeczne / Psychologia gratyfikacji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Piątek Katarzyna"
+        ]
+      },
+      "Podstawy coachingu i mentoringu": {
+        "Typ": "warsztaty",
+        "Koordynatorzy": [
+          "Piątek Katarzyna"
+        ]
+      },
+      "Psychologia w biznesie": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Piątek Katarzyna"
+        ]
+      },
+      "Analiza modeli biznesowych": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Piecuch Paweł"
+        ]
+      },
+      "Analiza polityk publicznych / Analiza polityk miejskich": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Wróblewska-Jachna Joanna"
+        ]
+      },
+      "Metody prezentacji danych": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Wróblewska-Jachna Joanna"
+        ]
+      },
+      "Podstawy ewaluacji": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Wróblewska-Jachna Joanna"
+        ]
+      },
+      "Interpersonal communication (w jęz. ang.)": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Zielińska Agnieszka"
+        ]
+      },
+      "Odrabianie zajęć /Pii za 7.III/ 26.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Zielińska Agnieszka"
+        ]
+      }
+    },
+    "K36 Transportu": {
+      "Monitoring w systemach ITS": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Konior Tomasz"
+        ]
+      },
+      "Infrastruktura transportu": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brzozowski Krzysztof"
+        ]
+      },
+      "Bezzałogowe statki powietrzne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Sordyl Justyna"
+        ]
+      },
+      "Drony w turystyce": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Sordyl Justyna"
+        ]
+      },
+      "Podstawy automatyzacji procesów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Maczyński Andrzej"
+        ]
+      },
+      "Sterowanie i monitoring": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Maczyński Andrzej"
+        ]
+      },
+      "Systemy mikroprocesorowe": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Honkisz Marcin"
+        ]
+      },
+      "Systemy sterowania ruchem drogowym": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Maczyński Andrzej"
+        ]
+      },
+      "Środki transportu II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Maczyński Andrzej"
+        ]
+      },
+      "Logistyka": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kubański Mariusz",
+          "Sordyl Justyna"
+        ]
+      },
+      "Logistyka zaopatrzenia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kubański Mariusz"
+        ]
+      },
+      "Podstawy socjologii": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kubański Mariusz"
+        ]
+      },
+      "Seminarium dyplomowe I": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Kubański Mariusz",
+          "Płosa Jerzy"
+        ]
+      },
+      "Systemy logistyczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kubański Mariusz"
+        ]
+      },
+      "Systemy zarządzania jakością w transporcie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kubański Mariusz"
+        ]
+      },
+      "Zarządzanie przedsiębiorstwem logistycznym": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kubański Mariusz"
+        ]
+      },
+      "Zarządzanie łańcuchem dostaw": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Kubański Mariusz"
+        ]
+      },
+      "Inżynieria ruchu": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Ryguła Artur"
+        ]
+      },
+      "Oprogramowanie użytkowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Ryguła Artur"
+        ]
+      },
+      "Usługi i systemy telematyczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Ryguła Artur"
+        ]
+      },
+      "Bezpieczeństwo transportu samochodowego": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Maczyński Andrzej"
+        ]
+      },
+      "Budowa środków transportu": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Maczyński Andrzej"
+        ]
+      },
+      "Zarządzanie flotą pojazdów": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Maczyński Andrzej",
+          "Ryguła Artur"
+        ]
+      },
+      "Środki transportu I": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Maczyński Andrzej"
+        ]
+      },
+      "Drgania mechaniczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Płosa Jerzy"
+        ]
+      },
+      "Grafika inżynierska A": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Płosa Jerzy"
+        ]
+      },
+      "Mechanika techniczna III": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Płosa Jerzy"
+        ]
+      },
+      "Teoria niezawodności i bezpieczeństwa": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Płosa Jerzy"
+        ]
+      },
+      "Metodyka prowadzenia projektów badawczo-rozwojowych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Ryguła Artur"
+        ]
+      },
+      "Pomiary inżynierskie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Ryguła Artur"
+        ]
+      },
+      "Pomiary potoków ruchu": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Ryguła Artur"
+        ]
+      },
+      "Teoria potoków ruchu w transporcie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Ryguła Artur"
+        ]
+      },
+      "Bezzałogowe statki powietrzne, 3 x 3 godz. (zj. 1-3)": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Sordyl Justyna"
+        ]
+      },
+      "Challenges of transport - case study (w jęz. ang.)": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Sordyl Justyna"
+        ]
+      },
+      "Rozwiązania proekologiczne w logistyce": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Sordyl Justyna"
+        ]
+      }
+    },
+    "K37 Marketingu i Przedsiębiorczości": {
+      "Desing thinking": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Dudzik-Lewicka Irena"
+        ]
+      },
+      "Przedsiębiorczość": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dudzik-Lewicka Irena"
+        ]
+      },
+      "Zarządzanie firmą": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Dudzik-Lewicka Irena"
+        ]
+      },
+      "Zarządzanie strategiczne": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Dudzik-Lewicka Irena"
+        ]
+      },
+      "Biznes plan": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Howaniec Honorata"
+        ]
+      },
+      "Podstawy marketingu": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żyminkowska Katarzyna"
+        ]
+      },
+      "Społeczna odpowiedzialność biznesu": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Howaniec Honorata"
+        ]
+      },
+      "Interdyscyplinarna Szkoła Doktorska 28.02, 14.03, 28.03;": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Jędrzejczyk Irena"
+        ]
+      },
+      "Seminarium": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Jędrzejczyk Irena"
+        ]
+      },
+      "Content marketing": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zontek Zbigniew"
+        ]
+      },
+      "Strategie marketingowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Lipianin-Zontek Ewa"
+        ]
+      },
+      "Turystyka w sektorze publicznym / Instytucje rynkowe w turystyce": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Lipianin-Zontek Ewa"
+        ]
+      },
+      "Zarządzanie i planowanie marketingowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Lipianin-Zontek Ewa"
+        ]
+      },
+      "Zarządzanie produktem": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Lipianin-Zontek Ewa"
+        ]
+      },
+      "Analiza ekonomiczna organizacji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zontek Zbigniew"
+        ]
+      },
+      "Nauka o organizacji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Madyda Aneta",
+          "Szewczyk Irena"
+        ]
+      },
+      "Otoczenie kulturowe w biznesie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Madyda Aneta"
+        ]
+      },
+      "Sesja egzaminacyjna 27.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Madyda Aneta"
+        ]
+      },
+      "Savoir vivre w biznesie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Madyda Aneta"
+        ]
+      },
+      "Zarządzanie przedsiębiorstwem turystycznym": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Madyda Aneta"
+        ]
+      },
+      "Architektura oganizacji": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Szewczyk Irena"
+        ]
+      },
+      "Ofertowanie usług turystycznych": {
+        "Typ": "projektowanie",
+        "Koordynatorzy": [
+          "Szewczyk Irena"
+        ]
+      },
+      "Przywództwo w organizacji": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Szewczyk Irena"
+        ]
+      },
+      "Podstawy zarządzania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Szewczyk Irena"
+        ]
+      },
+      "Techniki menedżerskie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Szewczyk Irena"
+        ]
+      },
+      "Zarządzanie karierą zawodową": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Szewczyk Irena"
+        ]
+      },
+      "Badania marketingowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zontek Zbigniew"
+        ]
+      },
+      "Metody badań jakościowych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zontek Zbigniew"
+        ]
+      },
+      "Zachowania konsumentów usług turystycznych / Prosument w usługach turystycznych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Zontek Zbigniew"
+        ]
+      },
+      "Marketing": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żyminkowska Katarzyna"
+        ]
+      },
+      "Marketing internetowy": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Żyminkowska Katarzyna"
+        ]
+      },
+      "Reklama kontekstowa": {
+        "Typ": "ćwiczenia",
+        "Koordynatorzy": [
+          "Żyminkowska Katarzyna"
+        ]
+      }
+    },
+    "K38 Modelowania Komputerowego": {
+      "Contemporary transport systems (w jęz. ang.)": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Adamiec-Wójcik Iwona"
+        ]
+      },
+      "Metody matematyczne w transporcie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Adamiec-Wójcik Iwona"
+        ]
+      },
+      "Inżynieria bezpieczeństwa w transporcie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brzozowska Lucyna"
+        ]
+      },
+      "Ochrona środowiska w transporcie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brzozowska Lucyna"
+        ]
+      },
+      "Podstawy grafiki komputerowej": {
+        "Typ": "laboratorium",
+        "Koordynatorzy": [
+          "Brzozowska Lucyna"
+        ]
+      },
+      "Podstawy programowania": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Drąg Łukasz"
+        ]
+      },
+      "Seminarium dyplomowe II": {
+        "Typ": "seminarium",
+        "Koordynatorzy": [
+          "Brzozowska Lucyna"
+        ]
+      },
+      "Systemy transportowe": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brzozowska Lucyna"
+        ]
+      },
+      "Zarządzanie bezpieczeństwem": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Brzozowska Lucyna"
+        ]
+      },
+      "Elementy telematyki transportu": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Drąg Łukasz"
+        ]
+      },
+      "Prezentacja wyników badań": {
+        "Typ": "konwersatorium",
+        "Koordynatorzy": [
+          "Drąg Łukasz"
+        ]
+      },
+      "SIP w transporcie": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Drąg Łukasz"
+        ]
+      },
+      "Zastosowanie GIS w logistyce": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Drąg Łukasz"
+        ]
+      },
+      "Bazy danych II": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Nowak Andrzej"
+        ]
+      },
+      "Bazy danych w logistyce": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Grinke Leonard"
+        ]
+      },
+      "Filozofia": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jabłonka Jarosław"
+        ]
+      },
+      "Informatyka III A": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jabłonka Jarosław"
+        ]
+      },
+      "Konsultacje 27.02": {
+        "Typ": "nieznany",
+        "Koordynatorzy": [
+          "Jabłonka Jarosław"
+        ]
+      },
+      "Modelowanie systemów transportowych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Jabłonka Jarosław"
+        ]
+      },
+      "Bazy danych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Nowak Andrzej"
+        ]
+      },
+      "Grafika inżynierska": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Nowak Andrzej"
+        ]
+      },
+      "Informatyka III": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Nowak Andrzej"
+        ]
+      },
+      "Projektowanie urządzeń transporowych": {
+        "Typ": "wykład",
+        "Koordynatorzy": [
+          "Nowak Andrzej"
+        ]
+      }
+    }
+  }
+}
