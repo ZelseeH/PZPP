@@ -26,8 +26,8 @@ Aby uruchomić ten projekt, postępuj zgodnie z poniższymi krokami:
 1. Otwórz terminal i przejdź do folderu Scraper:  
    `cd Scrapper`
 2. Aktywuj środowisko wirtualne (jeśli nie istnieje, utwórz je za pomocą: `python -m venv venv`):  
-   Windows: `..\backend\.venv\Scripts\activate`  
-   Linux/macOS: `source ..\backend\.venv\Scripts\activate`
+   Windows: `venv\Scripts\activate`  
+   Linux/macOS: `source venv\Scripts\activate`
 3. Zainstaluj wymagane biblioteki (jeśli nie są jeszcze zainstalowane):  
    `pip install selenium webdriver-manager pandas`
 4. Uruchom skrypt scrapujący:  
